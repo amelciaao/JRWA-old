@@ -1,0 +1,2152 @@
+﻿0;ZARZĄDZANIE GMINĄ I JEJ REPREZENTACJA;;
+﻿0;ZARZĄDZANIE GMINĄ I JEJ REPREZENTACJA;;
+00;Organy kolegialne i jednoosobowe gminy;;
+00;Organy kolegialne i jednoosobowe gminy;;
+000;Rada gminy;;
+000;Rada gminy;;
+0000;Organizacja pracy rady gminy;A;między innymi regulaminy
+0000;Organizacja pracy rady gminy;A;między innymi regulaminy
+0001;Planowanie i sprawozdawczość z prac rady gminy;A;w tym korespondencja
+0001;Planowanie i sprawozdawczość z prac rady gminy;A;w tym korespondencja
+0002;Sesje rady gminy;A;między innymi zawiadomienia, stenogramy, protokoły, materiały pod obrady, uchwały
+0002;Sesje rady gminy;A;między innymi zawiadomienia, stenogramy, protokoły, materiały pod obrady, uchwały
+0003;Wnioski i interpelacje radnych;A;w tym rejestr i odpowiedzi
+0003;Wnioski i interpelacje radnych;A;w tym rejestr i odpowiedzi
+0004;Przewodniczący rady gminy;A;między innymi korespondencja kierowana do i od przewodniczącego
+0004;Przewodniczący rady gminy;A;między innymi korespondencja kierowana do i od przewodniczącego
+0005;Wnioski i postulaty mieszkańców i innych podmiotów do rady gminy oraz spotkania z mieszkańcami i innymi podmiotami;A;w tym rejestr i odpowiedzi
+0005;Wnioski i postulaty mieszkańców i innych podmiotów do rady gminy oraz spotkania z mieszkańcami i innymi podmiotami;A;w tym rejestr i odpowiedzi
+0006;Projekty uchwał rady gminy;A;proces ich przygotowania i uzgadniania
+0006;Projekty uchwał rady gminy;A;proces ich przygotowania i uzgadniania
+0007;Uchwały rady gminy;A;w tym ich rejestr przy czym sprawy ich publikowania i badania zgodności z prawem przy klasach 0711
+0007;Uchwały rady gminy;A;w tym ich rejestr przy czym sprawy ich publikowania i badania zgodności z prawem przy klasach 0711
+0008;Realizacja uchwał rady gminy i jej monitorowanie;A;
+0008;Realizacja uchwał rady gminy i jej monitorowanie;A;
+001;Komisje, zespoły i inne organy kolegialne rady gminy;;
+001;Komisje, zespoły i inne organy kolegialne rady gminy;;
+0010;Powoływanie i organizacja pracy komisji, zespołów i innych organów kolegialnych rady gminy;A;
+0010;Powoływanie i organizacja pracy komisji, zespołów i innych organów kolegialnych rady gminy;A;
+0011;Planowanie i sprawozdawczość z prac komisji, zespołów i innych organów kolegialnych rady gminy;A;
+0011;Planowanie i sprawozdawczość z prac komisji, zespołów i innych organów kolegialnych rady gminy;A;
+0012;Posiedzenia komisji, zespołów i innych organów kolegialnych rady gminy;A;między innymi zawiadomienia, stenogramy, protokoły, materiały pod obrady, uchwały
+0012;Posiedzenia komisji, zespołów i innych organów kolegialnych rady gminy;A;między innymi zawiadomienia, stenogramy, protokoły, materiały pod obrady, uchwały
+0013;Projekty uchwał komisji, zespołów i innych organów kolegialnych rady gminy;A;
+0013;Projekty uchwał komisji, zespołów i innych organów kolegialnych rady gminy;A;
+0014;Uchwały komisji, zespołów i innych organów kolegialnych rady gminy;A;w tym ich rejestr
+0014;Uchwały komisji, zespołów i innych organów kolegialnych rady gminy;A;w tym ich rejestr
+0015;Realizacja uchwał komisji, zespołów i innych organów kolegialnych rady gminy;A;
+0015;Realizacja uchwał komisji, zespołów i innych organów kolegialnych rady gminy;A;
+002;Organy uchwałodawcze jednostek pomocniczych gminy;;
+002;Organy uchwałodawcze jednostek pomocniczych gminy;;
+0020;Organizacja pracy organów uchwałodawczych jednostek pomocniczych gminy;A;
+0020;Organizacja pracy organów uchwałodawczych jednostek pomocniczych gminy;A;
+0021;Posiedzenia (zebrania) organów uchwałodawczych jednostek pomocniczych gminy;A;między innymi zawiadomienia, stenogramy, protokoły, materiały pod obrady, uchwały
+0021;Posiedzenia (zebrania) organów uchwałodawczych jednostek pomocniczych gminy;A;między innymi zawiadomienia, stenogramy, protokoły, materiały pod obrady, uchwały
+003;Młodzieżowa rada gminy i inne rady utworzone przez radę gminy;;
+003;Młodzieżowa rada gminy i inne rady utworzone przez radę gminy;;
+0030;Wybory do młodzieżowej rady gminy;BE5;
+0030;Wybory do młodzieżowej rady gminy;BE5;
+0031;Prace młodzieżowej rady gminy;A;
+0031;Prace młodzieżowej rady gminy;A;
+0032;Wybory do innych rad utworzonych przez radę gminy;BE5;
+0032;Wybory do innych rad utworzonych przez radę gminy;BE5;
+0033;Prace innych rad utworzonych przez radę gminy;A;
+0033;Prace innych rad utworzonych przez radę gminy;A;
+004;Obsługa radnych gminy;;
+004;Obsługa radnych gminy;;
+0040;Wygaśnięcie mandatu radnego;A;
+0040;Wygaśnięcie mandatu radnego;A;
+0041;Kluby radnych gminy;A;
+0041;Kluby radnych gminy;A;
+0042;Sprawy osobowe radnych gminy;BE5;
+0042;Sprawy osobowe radnych gminy;BE5;
+0043;Oświadczenia majątkowe radnych gminy lub o członkach ich rodzin;B6;
+0043;Oświadczenia majątkowe radnych gminy lub o członkach ich rodzin;B6;
+0044;Inne oświadczenia radnych gminy lub o członkach ich rodzin;B*);*) czas przechowywania wynika z odrębnych przepisów prawa, w innym przypadku wynosi 5 lat
+0044;Inne oświadczenia radnych gminy lub o członkach ich rodzin;B*);*) czas przechowywania wynika z odrębnych przepisów prawa, w innym przypadku wynosi 5 lat
+0045;Podnoszenie kompetencji radnych gminy;BE5;między innymi szkolenia, seminaria
+0045;Podnoszenie kompetencji radnych gminy;BE5;między innymi szkolenia, seminaria
+005;Wójt (burmistrz, prezydent miasta) jako organ gminy;;
+005;Wójt (burmistrz, prezydent miasta) jako organ gminy;;
+0050;Zbiór zarządzeń, ogłoszeń i obwieszczeń wójta (burmistrza, prezydenta miasta) jako organu gminy;A;W tym ich rejestry przy czym sprawy ich publikowania i badania zgodności z prawem przy klasach 0711
+0050;Zbiór zarządzeń, ogłoszeń i obwieszczeń wójta (burmistrza, prezydenta miasta) jako organu gminy;A;W tym ich rejestry przy czym sprawy ich publikowania i badania zgodności z prawem przy klasach 0711
+0051;Realizacja zarządzeń, ogłoszeń i obwieszczeń wójta (burmistrza, prezydent miasta) jako organu gminy;A;
+0051;Realizacja zarządzeń, ogłoszeń i obwieszczeń wójta (burmistrza, prezydent miasta) jako organu gminy;A;
+0052;Upoważnianie osób (podmiotów) do działania w imieniu wójta (burmistrza, prezydenta miasta) jako organu gminy;A;pozostałe upoważnienia przy klasie 077
+0052;Upoważnianie osób (podmiotów) do działania w imieniu wójta (burmistrza, prezydenta miasta) jako organu gminy;A;pozostałe upoważnienia przy klasie 077
+0053;Kolegium wójta (burmistrza, prezydenta miasta);A;"między innymi zawiadomienia, stenogramy, protokoły, materiały pod obrady, uchwały słowo ""kolegium"" można zastąpić odpowiednią dla danej gminy nazwą."
+0053;Kolegium wójta (burmistrza, prezydenta miasta);A;"między innymi zawiadomienia, stenogramy, protokoły, materiały pod obrady, uchwały słowo ""kolegium"" można zastąpić odpowiednią dla danej gminy nazwą."
+0054;Patronat wójta (burmistrza, prezydenta miasta);A;
+0054;Patronat wójta (burmistrza, prezydenta miasta);A;
+0055;Narady wójta (burmistrza, prezydenta miasta) z sołtysami;A;
+0055;Narady wójta (burmistrza, prezydenta miasta) z sołtysami;A;
+0056;Spotkania wójta (burmistrza, prezydenta miasta) z mieszkańcami;A;
+0056;Spotkania wójta (burmistrza, prezydenta miasta) z mieszkańcami;A;
+0057;Sprawozdawczość z działalności wójta (burmistrza, prezydenta miasta);A;
+0057;Sprawozdawczość z działalności wójta (burmistrza, prezydenta miasta);A;
+0058;Wygaśnięcie mandatu wójta (burmistrza, prezydenta miasta);A;
+0058;Wygaśnięcie mandatu wójta (burmistrza, prezydenta miasta);A;
+006;Zawieszenie organów gminy (zarząd komisaryczny);A;
+006;Zawieszenie organów gminy (zarząd komisaryczny);A;
+007;Działania interwencyjne organów administracji rządowej w ramach nadzoru nad organami gminy;A;
+007;Działania interwencyjne organów administracji rządowej w ramach nadzoru nad organami gminy;A;
+01;Podział terytorialny, organizacja, zarządzanie jakością, herby, flagi, emblematy, insygnia lub inne symbole;;
+01;Podział terytorialny, organizacja, zarządzanie jakością, herby, flagi, emblematy, insygnia lub inne symbole;;
+010;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące działań w zakresie podziału terytorialnego, organizacji, ustalania herbów, flag, emblematów, insygniów lub innych symboli;A;
+010;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące działań w zakresie podziału terytorialnego, organizacji, ustalania herbów, flag, emblematów, insygniów lub innych symboli;A;
+011;Podział terytorialny;;
+011;Podział terytorialny;;
+0110;Tworzenie, łączenie i znoszenie jednostek podziału terytorialnego oraz zmiany ich granic;A;między innymi projektowanie, wnioskowanie, opiniowanie
+0110;Tworzenie, łączenie i znoszenie jednostek podziału terytorialnego oraz zmiany ich granic;A;między innymi projektowanie, wnioskowanie, opiniowanie
+0111;Tworzenie, łączenie i znoszenie sołectw, dzielnic itp. oraz zmiany ich granic;A;
+0111;Tworzenie, łączenie i znoszenie sołectw, dzielnic itp. oraz zmiany ich granic;A;
+0112;Nadawanie statusu miasta;A;
+0112;Nadawanie statusu miasta;A;
+0113;Ustalanie i zmiany nazw miejscowości i obiektów fizjograficznych;A;
+0113;Ustalanie i zmiany nazw miejscowości i obiektów fizjograficznych;A;
+012;Organizacja gminy;;
+012;Organizacja gminy;;
+0120;Statut gminy i jego zmiany, statuty jednostek pomocniczych oraz inne sprawy z zakresu ich organizacji;A;
+0120;Statut gminy i jego zmiany, statuty jednostek pomocniczych oraz inne sprawy z zakresu ich organizacji;A;
+0121;Organizacja (w tym tworzenie, likwidacja) urzędów obsługujących organy gminy;A;dotyczy między innymi statutów, regulaminów organizacyjnych, ich zmian, informacji o zmianach w organizacji i w adresach do kontaktu, szczegółowych regulacji wewnętrznych w sferze organizacyjnej, nadawania numeru NIP, REGON
+0121;Organizacja (w tym tworzenie, likwidacja) urzędów obsługujących organy gminy;A;dotyczy między innymi statutów, regulaminów organizacyjnych, ich zmian, informacji o zmianach w organizacji i w adresach do kontaktu, szczegółowych regulacji wewnętrznych w sferze organizacyjnej, nadawania numeru NIP, REGON
+0122;Organizacja jednostek organizacyjnych, stanowiących aparat pomocniczy kierowników powiatowych służb, inspekcji i straży;A;zadanie tylko powiatu rodzaje dokumentacji i spraw jak przy klasie 0121
+0122;Organizacja jednostek organizacyjnych, stanowiących aparat pomocniczy kierowników powiatowych służb, inspekcji i straży;A;zadanie tylko powiatu rodzaje dokumentacji i spraw jak przy klasie 0121
+0123;Tworzenie, łączenie, przekształcanie i likwidacja samorządowych jednostek organizacyjnych oraz ich organizacja;A;innych niż wymienione przy klasach 0121 i 0122
+0123;Tworzenie, łączenie, przekształcanie i likwidacja samorządowych jednostek organizacyjnych oraz ich organizacja;A;innych niż wymienione przy klasach 0121 i 0122
+0124;Organizacja innych jednostek organizacyjnych niż jednostki zależne od gminy;BE5;dotyczy między innymi informacji czy materiałów przekazywanych  do wiadomości czy zaopiniowania gminie
+0124;Organizacja innych jednostek organizacyjnych niż jednostki zależne od gminy;BE5;dotyczy między innymi informacji czy materiałów przekazywanych  do wiadomości czy zaopiniowania gminie
+013;Herby, flagi, emblematy, insygnia, odznaczenia, medale lub inne symbole gminy i jej jednostek;A;ustalanie, zmiany, korespondencja uzgodnieniowa itp.
+013;Herby, flagi, emblematy, insygnia, odznaczenia, medale lub inne symbole gminy i jej jednostek;A;ustalanie, zmiany, korespondencja uzgodnieniowa itp.
+014;Systemy zarządzania jakością;;
+014;Systemy zarządzania jakością;;
+0140;Wdrażanie systemu zarządzania jakością;A;
+0140;Wdrażanie systemu zarządzania jakością;A;
+0141;Polityka jakości i księga jakości oraz ich zmiany;A;
+0141;Polityka jakości i księga jakości oraz ich zmiany;A;
+0142;Procedury i instrukcje dotyczące zarządzania jakością oraz ich zmiany;A;
+0142;Procedury i instrukcje dotyczące zarządzania jakością oraz ich zmiany;A;
+0143;Karty usług i karty informacyjne w systemie zarządzania jakością oraz ich zmiany;A;
+0143;Karty usług i karty informacyjne w systemie zarządzania jakością oraz ich zmiany;A;
+0144;Audyty jakości zewnętrzne;A;
+0144;Audyty jakości zewnętrzne;A;
+0145;Audyty jakości wewnętrzne;A;
+0145;Audyty jakości wewnętrzne;A;
+0146;Doskonalenie systemu zarządzania jakością;BE5;
+0146;Doskonalenie systemu zarządzania jakością;BE5;
+0147;Prowadzenie i koordynacja działań w systemie zarządzania jakością;B5;między innymi korespondencja porządkowa
+0147;Prowadzenie i koordynacja działań w systemie zarządzania jakością;B5;między innymi korespondencja porządkowa
+015;Usprawnianie organizacji urzędów, wdrażanie nowoczesnych metod zarządzania;A;
+015;Usprawnianie organizacji urzędów, wdrażanie nowoczesnych metod zarządzania;A;
+02;Udział gminy w tworzeniu i działalności innych jednostek organizacyjnych oraz nadzór właścicielski gminy;;
+02;Udział gminy w tworzeniu i działalności innych jednostek organizacyjnych oraz nadzór właścicielski gminy;;
+020;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące udziału gminy w tworzeniu i działalności innych jednostek oraz nadzoru właścicielskiego gminy;A;
+020;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące udziału gminy w tworzeniu i działalności innych jednostek oraz nadzoru właścicielskiego gminy;A;
+021;Udział gminy w tworzeniu związków międzygminnych, stowarzyszeń lub porozumień oraz ich organizacja i zmiany;A;
+021;Udział gminy w tworzeniu związków międzygminnych, stowarzyszeń lub porozumień oraz ich organizacja i zmiany;A;
+022;Monitorowanie przez gminę działalności związków międzygminnych i stowarzyszeń oraz sposobu funkcjonowania porozumień ;A;
+022;Monitorowanie przez gminę działalności związków międzygminnych i stowarzyszeń oraz sposobu funkcjonowania porozumień ;A;
+023;Nadzór właścicielski gminy;;
+023;Nadzór właścicielski gminy;;
+0230;Tworzenie przez gminę spółek i fundacji oraz ich likwidowanie;A;
+0230;Tworzenie przez gminę spółek i fundacji oraz ich likwidowanie;A;
+0231;Przystępowanie do spółek i fundacji;A;
+0231;Przystępowanie do spółek i fundacji;A;
+0232;Realizacja nadzoru właścicielskiego;A;
+0232;Realizacja nadzoru właścicielskiego;A;
+03;Współdziałanie gminy z innymi jednostkami organizacyjnymi w kraju i za granicą;;
+03;Współdziałanie gminy z innymi jednostkami organizacyjnymi w kraju i za granicą;;
+030;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące współdziałania gminy z innymi jednostkami organizacyjnymi;A;
+030;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące współdziałania gminy z innymi jednostkami organizacyjnymi;A;
+031;Zawieranie i realizacja porozumień gminy z organami administracji państwowej lub samorządowej;A;
+031;Zawieranie i realizacja porozumień gminy z organami administracji państwowej lub samorządowej;A;
+032;Zawieranie umów w zakresie realizacji zadań gminy i monitorowanie ich wykonania;A;
+032;Zawieranie umów w zakresie realizacji zadań gminy i monitorowanie ich wykonania;A;
+033;Nawiązywanie kontaktów i określanie zakresu współdziałania gminy i jej jednostek organizacyjnych z innymi podmiotami lub jednostkami organizacyjnymi na gruncie krajowym;A;
+033;Nawiązywanie kontaktów i określanie zakresu współdziałania gminy i jej jednostek organizacyjnych z innymi podmiotami lub jednostkami organizacyjnymi na gruncie krajowym;A;
+034;Działalność gminy w sprawach zagranicznych;;
+034;Działalność gminy w sprawach zagranicznych;;
+0340;Programowanie, określanie strategii i planów w zakresie współdziałania z partnerami zagranicznymi;A;
+0340;Programowanie, określanie strategii i planów w zakresie współdziałania z partnerami zagranicznymi;A;
+0341;Nawiązywanie kontaktów i określanie zakresu współpracy gminy oraz jej jednostek organizacyjnych w sprawach zagranicznych;A;
+0341;Nawiązywanie kontaktów i określanie zakresu współpracy gminy oraz jej jednostek organizacyjnych w sprawach zagranicznych;A;
+0342;Wyjazdy zagraniczne przedstawicieli gminy;A;w tym programy, sprawozdania
+0342;Wyjazdy zagraniczne przedstawicieli gminy;A;w tym programy, sprawozdania
+0343;Przyjmowanie przedstawicieli i gości z zagranicy;A;
+0343;Przyjmowanie przedstawicieli i gości z zagranicy;A;
+035;Zjazdy, konferencje, seminaria, sympozja, fora;;
+035;Zjazdy, konferencje, seminaria, sympozja, fora;;
+0350;Własne zjazdy, konferencje, seminaria, sympozja, fora;A;
+0350;Własne zjazdy, konferencje, seminaria, sympozja, fora;A;
+0351;Udział w obcych zjazdach, konferencjach, seminariach, sympozjach, forach;BE5;
+0351;Udział w obcych zjazdach, konferencjach, seminariach, sympozjach, forach;BE5;
+04;Programy i projekty współfinansowane ze środków zewnętrznych, w tym Unii Europejskiej;;
+04;Programy i projekty współfinansowane ze środków zewnętrznych, w tym Unii Europejskiej;;
+040;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu programów i projektów finansowanych ze środków zewnętrznych;A;
+040;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu programów i projektów finansowanych ze środków zewnętrznych;A;
+041;Wnioskowanie o udział w programach i projektach finansowanych ze środków zewnętrznych;A;
+041;Wnioskowanie o udział w programach i projektach finansowanych ze środków zewnętrznych;A;
+042;Realizacja programów i projektów finansowanych ze środków zewnętrznych;A;w tym ich audyt i kontrola
+042;Realizacja programów i projektów finansowanych ze środków zewnętrznych;A;w tym ich audyt i kontrola
+05;Reprezentacja i promowanie gminy;;
+05;Reprezentacja i promowanie gminy;;
+050;Wyjaśnienia, interpretacje, opinie, akty prawne w zakresie reprezentacji i promowania gminy;A;
+050;Wyjaśnienia, interpretacje, opinie, akty prawne w zakresie reprezentacji i promowania gminy;A;
+051;Honorowe obywatelstwo gminy;A;
+051;Honorowe obywatelstwo gminy;A;
+052;Nadawanie odznaczeń, medali lub innych tytułów przez gminę;A;
+052;Nadawanie odznaczeń, medali lub innych tytułów przez gminę;A;
+053;Kontakty ze środkami publicznego przekazu;;
+053;Kontakty ze środkami publicznego przekazu;;
+0530;Informacje własne dla środków publicznego przekazu, odpowiedzi na informacje medialne ;A;
+0530;Informacje własne dla środków publicznego przekazu, odpowiedzi na informacje medialne ;A;
+0531;Konferencje prasowe i wywiady;A;
+0531;Konferencje prasowe i wywiady;A;
+0532;Monitoring środków publicznego przekazu;A;w tym wycinki prasowe
+0532;Monitoring środków publicznego przekazu;A;w tym wycinki prasowe
+054;Promocja gminy w kraju i za granicą;;
+054;Promocja gminy w kraju i za granicą;;
+0540;Strategie, programy i plany promocji gminy;A;
+0540;Strategie, programy i plany promocji gminy;A;
+0541;Własne akcje promocyjne i reklamowe gminy;A;
+0541;Własne akcje promocyjne i reklamowe gminy;A;
+0542;Udział w obcych wydarzeniach promocyjnych;A;na przykład targi, festiwale
+0542;Udział w obcych wydarzeniach promocyjnych;A;na przykład targi, festiwale
+0543;Materiały promocyjne gminy i jej jednostek;A;między innymi opracowanie projektów, ich zatwierdzanie
+0543;Materiały promocyjne gminy i jej jednostek;A;między innymi opracowanie projektów, ich zatwierdzanie
+0544;Materiały do serwisu internetowego;A;
+0544;Materiały do serwisu internetowego;A;
+055;Własne wydawnictwa oraz udział w obcych wydawnictwach;A;na każde wydawnictwo książkowe, broszurowe lub kolejne numery periodyków zakłada się odrębne teki wydawnicze (akta sprawy)
+055;Własne wydawnictwa oraz udział w obcych wydawnictwach;A;na każde wydawnictwo książkowe, broszurowe lub kolejne numery periodyków zakłada się odrębne teki wydawnicze (akta sprawy)
+056;Techniczne wykonanie materiałów promocyjnych i wydawnictw oraz ich rozpowszechnianie;B5;
+056;Techniczne wykonanie materiałów promocyjnych i wydawnictw oraz ich rozpowszechnianie;B5;
+057;Materiały fotograficzne lub audiowizualne z wydarzeń, akcji i imprez;A;układ według tematów i wydarzeń
+057;Materiały fotograficzne lub audiowizualne z wydarzeń, akcji i imprez;A;układ według tematów i wydarzeń
+06;Strategie, programy, planowanie, sprawozdawczość i analizy dotyczące działalności gminy oraz jej jednostek organizacyjnych z wyłączeniem tych wymienionych przy danym zagadnieniu;;
+06;Strategie, programy, planowanie, sprawozdawczość i analizy dotyczące działalności gminy oraz jej jednostek organizacyjnych z wyłączeniem tych wymienionych przy danym zagadnieniu;;
+060;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące strategii, programów, planowania, sprawozdawczości i analiz z działalności gminy oraz jej jednostek organizacyjnych;A;
+060;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące strategii, programów, planowania, sprawozdawczości i analiz z działalności gminy oraz jej jednostek organizacyjnych;A;
+061;Strategie;A;projekty, tekst ostateczny, korespondencja, dokumentacja z uzgodnień
+061;Strategie;A;projekty, tekst ostateczny, korespondencja, dokumentacja z uzgodnień
+062;Programy;A;projekty, tekst ostateczny, korespondencja, dokumentacja z uzgodnień
+062;Programy;A;projekty, tekst ostateczny, korespondencja, dokumentacja z uzgodnień
+063;Planowanie;;
+063;Planowanie;;
+0630;Planowanie na poziomie całej gminy;A;w tym korespondencja
+0630;Planowanie na poziomie całej gminy;A;w tym korespondencja
+0631;Planowanie na poziomie każdego urzędu lub jednostki organizacyjnej;A;w tym korespondencja
+0631;Planowanie na poziomie każdego urzędu lub jednostki organizacyjnej;A;w tym korespondencja
+0632;Planowanie w komórkach organizacyjnych;BE5;
+0632;Planowanie w komórkach organizacyjnych;BE5;
+064;Sprawozdawczość;;
+064;Sprawozdawczość;;
+0640;Sprawozdawczość na poziomie całej gminy;A;jeżeli sprawozdania cząstkowe w danym roku są zgodne co do zakresu i rodzaju danych ze sprawozdaniami o większym zakresie czasowym, to można akta spraw w zakresie sprawozdawczości cząstkowej zakwalifikować do kategorii B5
+0640;Sprawozdawczość na poziomie całej gminy;A;jeżeli sprawozdania cząstkowe w danym roku są zgodne co do zakresu i rodzaju danych ze sprawozdaniami o większym zakresie czasowym, to można akta spraw w zakresie sprawozdawczości cząstkowej zakwalifikować do kategorii B5
+0641;Sprawozdawczość na poziomie każdego urzędu i jednostki organizacyjnej;A;jeżeli sprawozdania cząstkowe w danym roku są zgodne co do zakresu i rodzaju danych ze sprawozdaniami o większym zakresie czasowym, to można akta spraw w zakresie sprawozdawczości cząstkowej zakwalifikować do kategorii B5
+0641;Sprawozdawczość na poziomie każdego urzędu i jednostki organizacyjnej;A;jeżeli sprawozdania cząstkowe w danym roku są zgodne co do zakresu i rodzaju danych ze sprawozdaniami o większym zakresie czasowym, to można akta spraw w zakresie sprawozdawczości cząstkowej zakwalifikować do kategorii B5
+0642;Sprawozdawczość statystyczna;A;jeżeli sprawozdania cząstkowe w danym roku są zgodne co do zakresu i rodzaju danych ze sprawozdaniami o większym zakresie czasowym, to można akta spraw w zakresie sprawozdawczości cząstkowej zakwalifikować do kategorii B5
+0642;Sprawozdawczość statystyczna;A;jeżeli sprawozdania cząstkowe w danym roku są zgodne co do zakresu i rodzaju danych ze sprawozdaniami o większym zakresie czasowym, to można akta spraw w zakresie sprawozdawczości cząstkowej zakwalifikować do kategorii B5
+0643;Sprawozdawczość z działalności komórek organizacyjnych;BE5;jeżeli sprawozdania cząstkowe w danym roku są zgodne co do zakresu i rodzaju danych ze sprawozdaniami o większym zakresie czasowym, to można akta spraw w zakresie sprawozdawczości cząstkowej zakwalifikować do kategorii B5
+0643;Sprawozdawczość z działalności komórek organizacyjnych;BE5;jeżeli sprawozdania cząstkowe w danym roku są zgodne co do zakresu i rodzaju danych ze sprawozdaniami o większym zakresie czasowym, to można akta spraw w zakresie sprawozdawczości cząstkowej zakwalifikować do kategorii B5
+0644;Meldunki i raporty sytuacyjne;BE5;
+0644;Meldunki i raporty sytuacyjne;BE5;
+065;Analizy tematyczne lub przekrojowe, ankietyzacja;A;
+065;Analizy tematyczne lub przekrojowe, ankietyzacja;A;
+066;Informacje o charakterze analitycznym i sprawozdawczym dla innych podmiotów i jednostek organizacyjnych;A;inne niż w klasie 065 na przykład dla Prezydenta RP, Parlamentu, Premiera RP, wojewody itp.
+066;Informacje o charakterze analitycznym i sprawozdawczym dla innych podmiotów i jednostek organizacyjnych;A;inne niż w klasie 065 na przykład dla Prezydenta RP, Parlamentu, Premiera RP, wojewody itp.
+07;Legislacja, obsługa prawna gminy i jej jednostek organizacyjnych;;
+07;Legislacja, obsługa prawna gminy i jej jednostek organizacyjnych;;
+070;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące legislacji i obsługi prawnej;A;
+070;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące legislacji i obsługi prawnej;A;
+071;Akty prawa miejscowego;;
+071;Akty prawa miejscowego;;
+0710;Zbiór aktów prawa miejscowego;A;
+0710;Zbiór aktów prawa miejscowego;A;
+0711;Przekazywanie aktów prawa miejscowego do ogłoszenia i badanie zgodności z prawem aktów prawa miejscowego;A;w tym korespondencja
+0711;Przekazywanie aktów prawa miejscowego do ogłoszenia i badanie zgodności z prawem aktów prawa miejscowego;A;w tym korespondencja
+072;Legislacja;;
+072;Legislacja;;
+0720;Własne działania legislacyjne w zakresie aktów prawnych powszechnie obowiązujących dotyczących samorządu terytorialnego;A;
+0720;Własne działania legislacyjne w zakresie aktów prawnych powszechnie obowiązujących dotyczących samorządu terytorialnego;A;
+0721;Opiniowanie przez gminę i jej jednostki organizacyjne projektów aktów prawa powszechnie obowiązującego;A;
+0721;Opiniowanie przez gminę i jej jednostki organizacyjne projektów aktów prawa powszechnie obowiązującego;A;
+0722;Opiniowanie przez gminę i jej jednostki organizacyjne projektów aktów prawa miejscowego;A;
+0722;Opiniowanie przez gminę i jej jednostki organizacyjne projektów aktów prawa miejscowego;A;
+0723;Opiniowanie przez gminę i jej jednostki organizacyjne innych projektów aktów prawa;BE10;
+0723;Opiniowanie przez gminę i jej jednostki organizacyjne innych projektów aktów prawa;BE10;
+0724;Opiniowanie przez gminę i jej jednostki organizacyjne projektów dokumentów nie mających charakteru aktu prawnego;BE10;
+0724;Opiniowanie przez gminę i jej jednostki organizacyjne projektów dokumentów nie mających charakteru aktu prawnego;BE10;
+073;Rozstrzyganie sporów kompetencyjnych między organami administracji publicznej;BE10;
+073;Rozstrzyganie sporów kompetencyjnych między organami administracji publicznej;BE10;
+074;Opinie prawne na potrzeby gminy i jej jednostek organizacyjnych;BE10;
+074;Opinie prawne na potrzeby gminy i jej jednostek organizacyjnych;BE10;
+075;Prowadzenie spraw sądowych;;
+075;Prowadzenie spraw sądowych;;
+0750;Prowadzenie spraw sądowych przed sądami powszechnymi;BE10;w tym repertoria
+0750;Prowadzenie spraw sądowych przed sądami powszechnymi;BE10;w tym repertoria
+0751;Prowadzenie spraw sądowych przed sądami administracyjnymi;BE10;w tym repertoria
+0751;Prowadzenie spraw sądowych przed sądami administracyjnymi;BE10;w tym repertoria
+076;Obsługa prawna w zakresie windykacji lub egzekucji należności;BE10;
+076;Obsługa prawna w zakresie windykacji lub egzekucji należności;BE10;
+077;Pełnomocnictwa, upoważnienia, wzory podpisów, podpisy elektroniczne;BE10;w tym ich rejestryinne upoważnienia przy klasie 0052
+077;Pełnomocnictwa, upoważnienia, wzory podpisów, podpisy elektroniczne;BE10;w tym ich rejestryinne upoważnienia przy klasie 0052
+1;ZARZĄDZANIE URZĘDAMI OBSŁUGUJĄCYMI ORGANY GMINY I ZWIĄZKI MIĘDZYGMINNE;;
+1;ZARZĄDZANIE URZĘDAMI OBSŁUGUJĄCYMI ORGANY GMINY I ZWIĄZKI MIĘDZYGMINNE;;
+10;Udział w posiedzeniach organów kolegialnych gminy;A;
+10;Udział w posiedzeniach organów kolegialnych gminy;A;
+11;Gremia kolegialne urzędu i udział przedstawicieli urzędu w obcych gremiach;;
+11;Gremia kolegialne urzędu i udział przedstawicieli urzędu w obcych gremiach;;
+110;Posiedzenia kierownictwa urzędu;A;
+110;Posiedzenia kierownictwa urzędu;A;
+111;Komisje, zespoły, grupy robocze w urzędzie;A;powoływanie, dokumentacja z posiedzeń i prac, itp.
+111;Komisje, zespoły, grupy robocze w urzędzie;A;powoływanie, dokumentacja z posiedzeń i prac, itp.
+112;Udział w obcych komisjach, zespołach, grupach roboczych;BE10;
+112;Udział w obcych komisjach, zespołach, grupach roboczych;BE10;
+113;Narady (zebrania) pracowników;A;
+113;Narady (zebrania) pracowników;A;
+12;Zbiory aktów normatywnych;;
+12;Zbiory aktów normatywnych;;
+120;Zbiory aktów normatywnych własnych kierownictw urzędów;A;akty normatywne organów gminy przy klasach 0007, 0014, 0050 komplet podpisanych zarządzeń, pism okólnych, wytycznych itp. oraz ich rejestry. Każdy rodzaj aktów grupuje się oddzielnie na każdy rok kalendarzowy. Założenie i prowadzenie sprawy w związku z przygotowywaniem danego aktu następuje we właściwych klasach wykazu akt odpowiadających merytorycznie zakresowi danego aktu
+120;Zbiory aktów normatywnych własnych kierownictw urzędów;A;akty normatywne organów gminy przy klasach 0007, 0014, 0050 komplet podpisanych zarządzeń, pism okólnych, wytycznych itp. oraz ich rejestry. Każdy rodzaj aktów grupuje się oddzielnie na każdy rok kalendarzowy. Założenie i prowadzenie sprawy w związku z przygotowywaniem danego aktu następuje we właściwych klasach wykazu akt odpowiadających merytorycznie zakresowi danego aktu
+121;Zbiory aktów normatywnych obcych;BE10;
+121;Zbiory aktów normatywnych obcych;BE10;
+13;Informatyzacja;;
+13;Informatyzacja;;
+130;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu informatyzacji;A;
+130;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu informatyzacji;A;
+131;Projektowanie, homologacje i wdrażanie oprogramowania i systemów teleinformatycznych;BE10;
+131;Projektowanie, homologacje i wdrażanie oprogramowania i systemów teleinformatycznych;BE10;
+132;Licencje na oprogramowanie i systemy teleinformatyczne;B10;
+132;Licencje na oprogramowanie i systemy teleinformatyczne;B10;
+133;Eksploatacja systemów teleinformatycznych i oprogramowania;;
+133;Eksploatacja systemów teleinformatycznych i oprogramowania;;
+1330;Organizacja prac eksploatacyjnych systemów teleinformatycznych i oprogramowania;BE5;
+1330;Organizacja prac eksploatacyjnych systemów teleinformatycznych i oprogramowania;BE5;
+1331;Instrukcje eksploatacji systemów teleinformatycznych, systemów ewidencjonowania informacji, nośników i kopii bezpieczeństwa oraz archiwizowania oprogramowania i zbiorów danych;A;
+1331;Instrukcje eksploatacji systemów teleinformatycznych, systemów ewidencjonowania informacji, nośników i kopii bezpieczeństwa oraz archiwizowania oprogramowania i zbiorów danych;A;
+1332;Ewidencja stosowanych systemów i programów;A;
+1332;Ewidencja stosowanych systemów i programów;A;
+1333;Użytkowanie i utrzymanie systemów oraz programów;BE5;
+1333;Użytkowanie i utrzymanie systemów oraz programów;BE5;
+1334;Ustalanie uprawnień dostępu do danych i systemów;B10;
+1334;Ustalanie uprawnień dostępu do danych i systemów;B10;
+134;Projektowanie i eksploatacja gminnych stron i portali internetowych;BE10;
+134;Projektowanie i eksploatacja gminnych stron i portali internetowych;BE10;
+135;Bezpieczeństwo systemów teleinformatycznych;BE10;dotyczy spraw włamania do systemów i złego użytkowania (notatki, protokoły, korespondencja, decyzje o blokadzie dostępu do systemu)
+135;Bezpieczeństwo systemów teleinformatycznych;BE10;dotyczy spraw włamania do systemów i złego użytkowania (notatki, protokoły, korespondencja, decyzje o blokadzie dostępu do systemu)
+14;Ochrona i udostępnianie informacji ustawowo chronionych oraz informacji publicznej;;
+14;Ochrona i udostępnianie informacji ustawowo chronionych oraz informacji publicznej;;
+140;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu ochrony i udostępniania informacji ustawowo chronionych oraz informacji publicznej;A;
+140;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu ochrony i udostępniania informacji ustawowo chronionych oraz informacji publicznej;A;
+141;Informacje niejawne;;
+141;Informacje niejawne;;
+1410;Organizacja systemu ochrony informacji niejawnych oraz wykazu tych informacji dla poszczególnych klauzul;A;obsługa kancelaryjna przy klasach 1620-1623, akta postępowań sprawdzających przy klasie 218
+1410;Organizacja systemu ochrony informacji niejawnych oraz wykazu tych informacji dla poszczególnych klauzul;A;obsługa kancelaryjna przy klasach 1620-1623, akta postępowań sprawdzających przy klasie 218
+1411;Bieżące działania podejmowane w zakresie ochrony informacji niejawnych;BE10;
+1411;Bieżące działania podejmowane w zakresie ochrony informacji niejawnych;BE10;
+1412;Udostępnianie informacji niejawnych;BE10;
+1412;Udostępnianie informacji niejawnych;BE10;
+142;Ochrona danych osobowych;BE10;
+142;Ochrona danych osobowych;BE10;
+143;Informacja publiczna;;
+143;Informacja publiczna;;
+1430;Obsługa merytoryczna Biuletynu Informacji Publicznej;A;
+1430;Obsługa merytoryczna Biuletynu Informacji Publicznej;A;
+1431;Udostępnianie informacji publicznej;BE5;
+1431;Udostępnianie informacji publicznej;BE5;
+144;Obsługa merytoryczna systemów powiadamiania mieszkańców gminy;A;
+144;Obsługa merytoryczna systemów powiadamiania mieszkańców gminy;A;
+15;Skargi, wnioski, petycje oraz postulaty i inicjatywy obywateli;;
+15;Skargi, wnioski, petycje oraz postulaty i inicjatywy obywateli;;
+150;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu skarg, wniosków, petycji oraz postulatów i inicjatyw obywateli;A;
+150;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu skarg, wniosków, petycji oraz postulatów i inicjatyw obywateli;A;
+151;Skargi i wnioski;;
+151;Skargi i wnioski;;
+1510;Skargi i wnioski załatwiane bezpośrednio (w tym na jednostki podległe);A;w tym ich rejestr
+1510;Skargi i wnioski załatwiane bezpośrednio (w tym na jednostki podległe);A;w tym ich rejestr
+1511;Skargi i wnioski przekazane do załatwienia według właściwości;BE5;
+1511;Skargi i wnioski przekazane do załatwienia według właściwości;BE5;
+152;Petycje, postulaty i inicjatywy obywateli;A;
+152;Petycje, postulaty i inicjatywy obywateli;A;
+16;Obsługa kancelaryjna, archiwalna i biblioteczna;;
+16;Obsługa kancelaryjna, archiwalna i biblioteczna;;
+160;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu obsługi kancelaryjnej, archiwalnej i bibliotecznej;A;w tym dotyczące instrukcji kancelaryjnej, wykazu akt, instrukcji archiwalnej
+160;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu obsługi kancelaryjnej, archiwalnej i bibliotecznej;A;w tym dotyczące instrukcji kancelaryjnej, wykazu akt, instrukcji archiwalnej
+161;Obsługa kancelaryjna;;
+161;Obsługa kancelaryjna;;
+1610;Urządzenia do rejestracji i monitorowania obiegu przesyłek i pism;B5;
+1610;Urządzenia do rejestracji i monitorowania obiegu przesyłek i pism;B5;
+1611;Opracowywanie lub wdrażanie wzorów formularzy oraz ich wykazy;A;
+1611;Opracowywanie lub wdrażanie wzorów formularzy oraz ich wykazy;A;
+1612;Ewidencja druków ścisłego zarachowania;B10;przy czym zamówienia i realizacja zamówień przy klasie 2601
+1612;Ewidencja druków ścisłego zarachowania;B10;przy czym zamówienia i realizacja zamówień przy klasie 2601
+1613;Ewidencja pieczęci i pieczątek oraz ich odcisków;A;przy czym zamówienia i realizacja zamówień przy klasie 2601
+1613;Ewidencja pieczęci i pieczątek oraz ich odcisków;A;przy czym zamówienia i realizacja zamówień przy klasie 2601
+1614;Przekazywanie dokumentacji spraw niezakończonych między komórkami i jednostkami organizacyjnymi w związku ze zmianami organizacyjnymi;A;
+1614;Przekazywanie dokumentacji spraw niezakończonych między komórkami i jednostkami organizacyjnymi w związku ze zmianami organizacyjnymi;A;
+162;Obsługa kancelaryjna dokumentacji zawierającej informacje niejawne;;
+162;Obsługa kancelaryjna dokumentacji zawierającej informacje niejawne;;
+1620;Rejestr teczek (rejestr klas końcowych);A;
+1620;Rejestr teczek (rejestr klas końcowych);A;
+1621;Dzienniki korespondencyjne dla dokumentacji o różnych klauzulach niejawności;BE50;
+1621;Dzienniki korespondencyjne dla dokumentacji o różnych klauzulach niejawności;BE50;
+1622;Dziennik wykonanej dokumentacji;B10;
+1622;Dziennik wykonanej dokumentacji;B10;
+1623;Przekazywanie dokumentacji spraw niezakończonych zawierającej informacje niejawne między komórkami i jednostkami organizacyjnymi w związku ze zmianami organizacyjnymi;A;
+1623;Przekazywanie dokumentacji spraw niezakończonych zawierającej informacje niejawne między komórkami i jednostkami organizacyjnymi w związku ze zmianami organizacyjnymi;A;
+163;Archiwum zakładowe;;
+163;Archiwum zakładowe;;
+1630;Ewidencja dokumentacji przechowywanej w archiwum zakładowym;A;przy czym sposób prowadzenia ewidencji uregulowano w instrukcji o organizacji i zakresie działania archiwum zakładowego
+1630;Ewidencja dokumentacji przechowywanej w archiwum zakładowym;A;przy czym sposób prowadzenia ewidencji uregulowano w instrukcji o organizacji i zakresie działania archiwum zakładowego
+1631;Przekazywanie materiałów archiwalnych do archiwów państwowych;A;
+1631;Przekazywanie materiałów archiwalnych do archiwów państwowych;A;
+1632;Brakowanie dokumentacji niearchiwalnej;A;
+1632;Brakowanie dokumentacji niearchiwalnej;A;
+1633;Ewidencja udostępniania dokumentacji w archiwum zakładowym;B5;
+1633;Ewidencja udostępniania dokumentacji w archiwum zakładowym;B5;
+1634;Kwerendy archiwalne w dokumentacji w archiwum zakładowym;BE5;w tym wydawanie zaświadczeń, odpisów, uwierzytelnionych kopii
+1634;Kwerendy archiwalne w dokumentacji w archiwum zakładowym;BE5;w tym wydawanie zaświadczeń, odpisów, uwierzytelnionych kopii
+1635;Skontrum dokumentacji w archiwum zakładowym;A;
+1635;Skontrum dokumentacji w archiwum zakładowym;A;
+1636;Profilaktyka i konserwacja dokumentacji w archiwum zakładowym;BE10;
+1636;Profilaktyka i konserwacja dokumentacji w archiwum zakładowym;BE10;
+1637;Doradzanie komórkom organizacyjnym w zakresie postępowania z dokumentacją oraz ustalanie terminów przejęcia dokumentacji;BE5;
+1637;Doradzanie komórkom organizacyjnym w zakresie postępowania z dokumentacją oraz ustalanie terminów przejęcia dokumentacji;BE5;
+164;Zbiory biblioteczne w podmiotach;;
+164;Zbiory biblioteczne w podmiotach;;
+1640;Ewidencja zbiorów bibliotecznych;A;
+1640;Ewidencja zbiorów bibliotecznych;A;
+1641;Gromadzenie zbiorów bibliotecznych;BE5;między innymi zakupy, prenumeraty, dary, wymiana
+1641;Gromadzenie zbiorów bibliotecznych;BE5;między innymi zakupy, prenumeraty, dary, wymiana
+1642;Udostępnianie zbiorów bibliotecznych;B5;
+1642;Udostępnianie zbiorów bibliotecznych;B5;
+17;Kontrola, audyt, szacowanie ryzyka dla realizacji zadań;;
+17;Kontrola, audyt, szacowanie ryzyka dla realizacji zadań;;
+170;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu nadzoru, kontroli, audytu, szacowania ryzyka dla realizacji zadań;A;
+170;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu nadzoru, kontroli, audytu, szacowania ryzyka dla realizacji zadań;A;
+171;Kontrole;;
+171;Kontrole;;
+1710;Kontrole zewnętrzne w podmiotach;A;
+1710;Kontrole zewnętrzne w podmiotach;A;
+1711;Kontrole przeprowadzane przez podmioty w jednostkach im podległych;A;
+1711;Kontrole przeprowadzane przez podmioty w jednostkach im podległych;A;
+1712;Kontrole wewnętrzne w podmiocie;A;
+1712;Kontrole wewnętrzne w podmiocie;A;
+1713;Udział podmiotów w kontrolach przeprowadzonych przez inne organy lub jednostki organizacyjne;BE10;
+1713;Udział podmiotów w kontrolach przeprowadzonych przez inne organy lub jednostki organizacyjne;BE10;
+1714;Książka kontroli;BE5;
+1714;Książka kontroli;BE5;
+172;Audyt;;
+172;Audyt;;
+1720;Bieżące akta audytu;A;
+1720;Bieżące akta audytu;A;
+1721;Stałe akta audytu;A;
+1721;Stałe akta audytu;A;
+173;Szacowanie ryzyka dla realizacji zadań;A;
+173;Szacowanie ryzyka dla realizacji zadań;A;
+2;SPRAWY KADROWE I ADMINISTRACYJNE PROWADZONE PRZEZ GMINĘ I JEJ JEDNOSTKI ORGANIZACYJNE;;
+2;SPRAWY KADROWE I ADMINISTRACYJNE PROWADZONE PRZEZ GMINĘ I JEJ JEDNOSTKI ORGANIZACYJNE;;
+20;Regulacje oraz wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu spraw kadrowych i administracyjnych;;
+20;Regulacje oraz wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu spraw kadrowych i administracyjnych;;
+200;Regulacje oraz wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu spraw kadrowych;;
+200;Regulacje oraz wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu spraw kadrowych;;
+2000;Własne regulacje, ich projekty oraz wyjaśnienia, interpretacje, opinie w sprawach kadrowych;A;między innymi regulaminy pracy
+2000;Własne regulacje, ich projekty oraz wyjaśnienia, interpretacje, opinie w sprawach kadrowych;A;między innymi regulaminy pracy
+2001;Otrzymane od organów i jednostek zewnętrznych regulacje, wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu spraw kadrowych;BE10;
+2001;Otrzymane od organów i jednostek zewnętrznych regulacje, wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu spraw kadrowych;BE10;
+2002;Wykazy etatów;A;
+2002;Wykazy etatów;A;
+2003;Opisy stanowisk pracy i określanie zakresu kompetencji i zadań;A;
+2003;Opisy stanowisk pracy i określanie zakresu kompetencji i zadań;A;
+2004;Umowy zbiorowe i ich negocjowanie;A;
+2004;Umowy zbiorowe i ich negocjowanie;A;
+201;Regulacje oraz wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu spraw administracyjnych;;
+201;Regulacje oraz wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu spraw administracyjnych;;
+2010;Własne regulacje, ich projekty oraz wyjaśnienia, interpretacje, opinie w sprawach administracyjnych;A;
+2010;Własne regulacje, ich projekty oraz wyjaśnienia, interpretacje, opinie w sprawach administracyjnych;A;
+2011;Otrzymane od organów i jednostek zewnętrznych regulacje, wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu spraw administracyjnych;BE10;
+2011;Otrzymane od organów i jednostek zewnętrznych regulacje, wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu spraw administracyjnych;BE10;
+21;Nawiązywanie, przebieg i rozwiązywanie stosunku pracy oraz innych form zatrudnienia w imieniu organów gminy i kierowników podmiotów;;
+21;Nawiązywanie, przebieg i rozwiązywanie stosunku pracy oraz innych form zatrudnienia w imieniu organów gminy i kierowników podmiotów;;
+210;Zapotrzebowanie i nabór kandydatów do pracy;B5;przy czym okres przechowywania ofert kandydatów nieprzyjętych i tryb ich niszczenia wynika z odrębnych przepisów
+210;Zapotrzebowanie i nabór kandydatów do pracy;B5;przy czym okres przechowywania ofert kandydatów nieprzyjętych i tryb ich niszczenia wynika z odrębnych przepisów
+211;Konkursy na stanowiska;;
+211;Konkursy na stanowiska;;
+2110;Konkursy na stanowiska w urzędach;B5;akta pracowników przyjętych odkłada się do akt osobowych przy czym dokumentację posiedzeń komisji klasyfikuje się przy klasie 111
+2110;Konkursy na stanowiska w urzędach;B5;akta pracowników przyjętych odkłada się do akt osobowych przy czym dokumentację posiedzeń komisji klasyfikuje się przy klasie 111
+2111;Konkursy na stanowiska w jednostkach podległych;B5;akta pracowników przyjętych odkłada się do akt osobowych przy czym dokumentację posiedzeń komisji klasyfikuje się przy klasie 111
+2111;Konkursy na stanowiska w jednostkach podległych;B5;akta pracowników przyjętych odkłada się do akt osobowych przy czym dokumentację posiedzeń komisji klasyfikuje się przy klasie 111
+212;Obsługa zatrudnienia;;
+212;Obsługa zatrudnienia;;
+2120;Obsługa zatrudnienia kierownictw urzędów oraz kierownictw jednostek podległych;BE5;w tym zakończenia stosunku pracy akta dotyczące konkretnych pracowników odkłada się do akt osobowych danego pracownika
+2120;Obsługa zatrudnienia kierownictw urzędów oraz kierownictw jednostek podległych;BE5;w tym zakończenia stosunku pracy akta dotyczące konkretnych pracowników odkłada się do akt osobowych danego pracownika
+2121;Obsługa zatrudnienia pracowników urzędów;B5;w tym zakończenia stosunku pracy akta dotyczące konkretnych pracowników odkłada się do akt osobowych danego pracownika
+2121;Obsługa zatrudnienia pracowników urzędów;B5;w tym zakończenia stosunku pracy akta dotyczące konkretnych pracowników odkłada się do akt osobowych danego pracownika
+2122;Rozmieszczanie i wynagradzanie pracowników urzędów;B5;między innymi delegowanie, przeniesienia, zastępstwa, awanse, podwyżki, przydziałakta dotyczące konkretnych pracowników odkłada się do akt osobowych danego pracownika
+2122;Rozmieszczanie i wynagradzanie pracowników urzędów;B5;między innymi delegowanie, przeniesienia, zastępstwa, awanse, podwyżki, przydziałakta dotyczące konkretnych pracowników odkłada się do akt osobowych danego pracownika
+2123;Rozmieszczanie i wynagradzanie kierownictw jednostek podległych;B5;między innymi delegowanie, przeniesienia, zastępstwa, awanse, podwyżki, przydziałakta dotyczące konkretnych pracowników odkłada się do akt osobowych danego pracownika
+2123;Rozmieszczanie i wynagradzanie kierownictw jednostek podległych;B5;między innymi delegowanie, przeniesienia, zastępstwa, awanse, podwyżki, przydziałakta dotyczące konkretnych pracowników odkłada się do akt osobowych danego pracownika
+2124;Oświadczenia majątkowe lub inne oświadczenia o osobach zatrudnionych i członkach ich rodzin;B*);*) czas przechowywania wynika z odrębnych przepisów prawa, w innym przypadku wynosi 5 lat
+2124;Oświadczenia majątkowe lub inne oświadczenia o osobach zatrudnionych i członkach ich rodzin;B*);*) czas przechowywania wynika z odrębnych przepisów prawa, w innym przypadku wynosi 5 lat
+213;Opiniowanie i ocenianie osób zatrudnionych;;
+213;Opiniowanie i ocenianie osób zatrudnionych;;
+2130;Opiniowanie i ocenianie pracowników urzędów;BE5;przy czym akta dotyczące konkretnych pracowników można odłożyć do akt osobowych danego pracownika
+2130;Opiniowanie i ocenianie pracowników urzędów;BE5;przy czym akta dotyczące konkretnych pracowników można odłożyć do akt osobowych danego pracownika
+2131;Opiniowanie i ocenianie kierownictw jednostek podległych;BE5;przy czym akta dotyczące konkretnych pracowników można odłożyć do akt osobowych danego pracownika
+2131;Opiniowanie i ocenianie kierownictw jednostek podległych;BE5;przy czym akta dotyczące konkretnych pracowników można odłożyć do akt osobowych danego pracownika
+214;Staże, wolontariat, praktyki;;
+214;Staże, wolontariat, praktyki;;
+2140;Staże zawodowe;BE10;
+2140;Staże zawodowe;BE10;
+2141;Wolontariat;BE10;
+2141;Wolontariat;BE10;
+2142;Praktyki;BE10;
+2142;Praktyki;BE10;
+215;Prace zlecone (umowy cywilno-prawne);;
+215;Prace zlecone (umowy cywilno-prawne);;
+2150;Prace zlecone ze składką na ubezpieczenie społeczne;B50;
+2150;Prace zlecone ze składką na ubezpieczenie społeczne;B50;
+2151;Prace zlecone bez składki na ubezpieczenie społeczne;B10;
+2151;Prace zlecone bez składki na ubezpieczenie społeczne;B10;
+216;Nagradzanie, odznaczanie i karanie;;
+216;Nagradzanie, odznaczanie i karanie;;
+2160;Nagrody, podziękowania, listy gratulacyjne;BE10;akta dotyczące konkretnych pracowników odkłada się do akt osobowych danego pracownika
+2160;Nagrody, podziękowania, listy gratulacyjne;BE10;akta dotyczące konkretnych pracowników odkłada się do akt osobowych danego pracownika
+2161;Odznaczenia państwowe, samorządowe i inne;BE10;akta dotyczące konkretnych pracowników odkłada się do akt osobowych danego pracownika
+2161;Odznaczenia państwowe, samorządowe i inne;BE10;akta dotyczące konkretnych pracowników odkłada się do akt osobowych danego pracownika
+2162;Karanie;B*);*) okres przechowywania uzależniony jest od obowiązujących przepisów prawa 
+2162;Karanie;B*);*) okres przechowywania uzależniony jest od obowiązujących przepisów prawa 
+2163;Postępowanie dyscyplinarne;B*);*) okres przechowywania uzależniony jest od obowiązujących przepisów prawaposiedzenia Komisji Dyscyplinarnej klasyfikuje się przy klasie 111
+2163;Postępowanie dyscyplinarne;B*);*) okres przechowywania uzależniony jest od obowiązujących przepisów prawaposiedzenia Komisji Dyscyplinarnej klasyfikuje się przy klasie 111
+217;Sprawy wojskowe osób zatrudnionych;BE10;
+217;Sprawy wojskowe osób zatrudnionych;BE10;
+218;Dostęp osób zatrudnionych do informacji chronionych przepisami prawa;BE20;między innymi akta postępowań sprawdzających
+218;Dostęp osób zatrudnionych do informacji chronionych przepisami prawa;BE20;między innymi akta postępowań sprawdzających
+22;Ewidencja osobowa;;
+22;Ewidencja osobowa;;
+220;Akta osobowe osób zatrudnionych;BE50;
+220;Akta osobowe osób zatrudnionych;BE50;
+221;Pomoce ewidencyjne do akt osobowych;BE50;w tym programy i systemy teleinformatyczne
+221;Pomoce ewidencyjne do akt osobowych;BE50;w tym programy i systemy teleinformatyczne
+222;Pomocnicza dokumentacja osobowa w komórkach organizacyjnych;B5;
+222;Pomocnicza dokumentacja osobowa w komórkach organizacyjnych;B5;
+223;Legitymacje służbowe;B5;
+223;Legitymacje służbowe;B5;
+224;Zaświadczenia o zatrudnieniu i wynagrodzeniu;B5;
+224;Zaświadczenia o zatrudnieniu i wynagrodzeniu;B5;
+23;Bezpieczeństwo i higiena pracy oraz dyscyplina pracy;;
+23;Bezpieczeństwo i higiena pracy oraz dyscyplina pracy;;
+230;Przeglądy warunków i bezpieczeństwa pracy;A;
+230;Przeglądy warunków i bezpieczeństwa pracy;A;
+231;Działania w zakresie zwalczania wypadków, chorób zawodowych, ryzyka w pracy;A;
+231;Działania w zakresie zwalczania wypadków, chorób zawodowych, ryzyka w pracy;A;
+232;Wypadki;;
+232;Wypadki;;
+2320;Wypadki przy pracy;BE10;przy czym dokumentacja wypadków zbiorowych, śmiertelnych i inwalidzkich kwalifikowana jest do kategorii A
+2320;Wypadki przy pracy;BE10;przy czym dokumentacja wypadków zbiorowych, śmiertelnych i inwalidzkich kwalifikowana jest do kategorii A
+2321;Wypadki w drodze do pracy i z pracy;BE10;przy czym dokumentacja wypadków zbiorowych, śmiertelnych i inwalidzkich kwalifikowana jest do kategorii A
+2321;Wypadki w drodze do pracy i z pracy;BE10;przy czym dokumentacja wypadków zbiorowych, śmiertelnych i inwalidzkich kwalifikowana jest do kategorii A
+233;Warunki szkodliwe i choroby zawodowe;;
+2330;Warunki szkodliwe;BE10;
+2330;Warunki szkodliwe;BE10;
+2331;Rejestr warunków szkodliwych;B40;
+2331;Rejestr warunków szkodliwych;B40;
+2332;Choroby zawodowe;BE10;
+2332;Choroby zawodowe;BE10;
+234;Czas pracy;;
+2340;Dowody obecności w pracy;B3;
+2340;Dowody obecności w pracy;B3;
+2341;Absencje w pracy;B3;
+2341;Absencje w pracy;B3;
+2342;Rozliczenia czasu pracy;B5;
+2342;Rozliczenia czasu pracy;B5;
+2343;Delegacje służbowe;B3;w tym ich ewidencja
+2343;Delegacje służbowe;B3;w tym ich ewidencja
+2344;Ustalanie i zmiany czasu pracy;B3;
+2344;Ustalanie i zmiany czasu pracy;B3;
+235;Urlopy osób zatrudnionych;;
+2350;Urlopy wypoczynkowe;B5;
+2350;Urlopy wypoczynkowe;B5;
+2351;Urlopy macierzyńskie, ojcowskie i wychowawcze itp.;B5;przy czym akta dotyczące konkretnych pracowników można odłożyć do akt osobowych danego pracownika
+2351;Urlopy macierzyńskie, ojcowskie i wychowawcze itp.;B5;przy czym akta dotyczące konkretnych pracowników można odłożyć do akt osobowych danego pracownika
+2352;Urlopy bezpłatne;B5;przy czym akta dotyczące konkretnych pracowników można odłożyć do akt osobowych danego pracownika
+2352;Urlopy bezpłatne;B5;przy czym akta dotyczące konkretnych pracowników można odłożyć do akt osobowych danego pracownika
+236;Dodatkowe zatrudnienie osób zatrudnionych oraz umowy o zakazie konkurencji;B5;
+236;Dodatkowe zatrudnienie osób zatrudnionych oraz umowy o zakazie konkurencji;B5;
+24;Szkolenie i doskonalenie zawodowe osób zatrudnionych, sprawy socjalno-bytowe oraz ubezpieczenia społeczne i opieka zdrowotna;;
+240;Szkolenie i doskonalenie zawodowe osób zatrudnionych;;
+2400;Ustalanie ścieżek rozwoju zawodowego dla osób zatrudnionych;BE10;
+2400;Ustalanie ścieżek rozwoju zawodowego dla osób zatrudnionych;BE10;
+2401;Służba przygotowawcza;BE10;
+2401;Służba przygotowawcza;BE10;
+2402;Szkolenia organizowane we własnym zakresie dla osób zatrudnionych w podmiotach;BE10;w tym przy pomocy jednostek zewnętrznych
+2402;Szkolenia organizowane we własnym zakresie dla osób zatrudnionych w podmiotach;BE10;w tym przy pomocy jednostek zewnętrznych
+2403;Dokształcanie pracowników;B5;studia, szkolenia, specjalizacje, aplikacje organizowane przez inne instytucje dla osób zatrudnionychkopie dokumentów ukończenia odkłada się do akt osobowych
+2403;Dokształcanie pracowników;B5;studia, szkolenia, specjalizacje, aplikacje organizowane przez inne instytucje dla osób zatrudnionychkopie dokumentów ukończenia odkłada się do akt osobowych
+241;Sprawy socjalno-bytowe;;
+2410;Sprawy socjalno-bytowe załatwiane w ramach zakładowego funduszu świadczeń socjalnych;B5;
+2410;Sprawy socjalno-bytowe załatwiane w ramach zakładowego funduszu świadczeń socjalnych;B5;
+2411;Zaopatrzenie rzeczowe osób zatrudnionych;B5;
+2411;Zaopatrzenie rzeczowe osób zatrudnionych;B5;
+2412;Opieka nad emerytami, rencistami i osobami niepełnosprawnymi;BE5;
+2412;Opieka nad emerytami, rencistami i osobami niepełnosprawnymi;BE5;
+2413;Akcje socjalne i imprezy kulturalne poza zakładowym funduszem świadczeń socjalnych;BE5;
+2413;Akcje socjalne i imprezy kulturalne poza zakładowym funduszem świadczeń socjalnych;BE5;
+2414;Wspieranie osób zatrudnionych w zakresie zaspokajania potrzeb mieszkaniowych i ulg na przejazdy;B5;
+2414;Wspieranie osób zatrudnionych w zakresie zaspokajania potrzeb mieszkaniowych i ulg na przejazdy;B5;
+242;Ubezpieczenia społeczne;;
+2420;Zgłoszenia do ubezpieczenia społecznego;B10;
+2420;Zgłoszenia do ubezpieczenia społecznego;B10;
+2421;Obsługa ubezpieczenia społecznego;B10;w tym deklaracje rozliczeniowe dla ZUS
+2421;Obsługa ubezpieczenia społecznego;B10;w tym deklaracje rozliczeniowe dla ZUS
+2422;Legitymacje ubezpieczeniowe;B5;
+2422;Legitymacje ubezpieczeniowe;B5;
+2423;Dowody uprawnień do zasiłków;B5;
+2423;Dowody uprawnień do zasiłków;B5;
+2424;Emerytury i renty;B10;
+2424;Emerytury i renty;B10;
+2425;Ubezpieczenia zbiorowe, pracownicze, itp.;B10;
+2425;Ubezpieczenia zbiorowe, pracownicze, itp.;B10;
+243;Opieka zdrowotna;;
+2430;Organizowanie i obsługa opieki zdrowotnej;BE10;
+2430;Organizowanie i obsługa opieki zdrowotnej;BE10;
+2431;Badania lekarskie w zakresie medycyny pracy;B10;
+2431;Badania lekarskie w zakresie medycyny pracy;B10;
+25;Administrowanie i eksploatowanie obiektów będących w dyspozycji urzędów i innych jednostek organizacyjnych gminy;;
+250;Administracja obiektami;;
+2500;Przejmowanie obiektów na potrzeby urzędów i jednostek organizacyjnych gminy;A;
+2500;Przejmowanie obiektów na potrzeby urzędów i jednostek organizacyjnych gminy;A;
+2501;Udostępnianie i oddawanie w najem lub w dzierżawę własnych obiektów i lokali innym jednostkom i osobom;B5;
+2501;Udostępnianie i oddawanie w najem lub w dzierżawę własnych obiektów i lokali innym jednostkom i osobom;B5;
+2502;Najmowanie lokali od innych na potrzeby własne;B5;
+2502;Najmowanie lokali od innych na potrzeby własne;B5;
+251;Eksploatacja budynków i lokali przez urzędy i jednostki organizacyjne gminy;;
+2510;Przygotowanie i realizacja remontów bieżących budynków, lokali i pomieszczeń;B5;
+2510;Przygotowanie i realizacja remontów bieżących budynków, lokali i pomieszczeń;B5;
+2511;Dokumentacja techniczna prac remontowych;B5;
+2511;Dokumentacja techniczna prac remontowych;B5;
+2512;Konserwacja i eksploatacja bieżąca budynków, lokali i pomieszczeń;B5;korespondencja dotycząca konserwacji, zaopatrzenia w energię elektryczną, wodę, gaz, sprawy oświetlenia i ogrzewania, utrzymanie czystości, dekorowanie, flagowanie itp.
+2512;Konserwacja i eksploatacja bieżąca budynków, lokali i pomieszczeń;B5;korespondencja dotycząca konserwacji, zaopatrzenia w energię elektryczną, wodę, gaz, sprawy oświetlenia i ogrzewania, utrzymanie czystości, dekorowanie, flagowanie itp.
+252;Podatki i opłaty publiczne;B10;
+252;Podatki i opłaty publiczne;B10;
+253;Ubezpieczenia majątkowe;B10;między innymi ubezpieczenia od pożaru, kradzieży, nieruchomości, ruchomości, środków transportu, itp. Sprawy odszkodowań.                                       Okres przechowywania liczy się od daty wygaśnięcia umowy
+253;Ubezpieczenia majątkowe;B10;między innymi ubezpieczenia od pożaru, kradzieży, nieruchomości, ruchomości, środków transportu, itp. Sprawy odszkodowań.                                       Okres przechowywania liczy się od daty wygaśnięcia umowy
+254;Ochrona mienia własnej jednostki;BE10;plany ochrony obiektów, dokumentacja ochrony, przepustki, karty magnetyczne, ewidencja wydanych przepustek i kart magnetycznych, upoważnienia
+254;Ochrona mienia własnej jednostki;BE10;plany ochrony obiektów, dokumentacja ochrony, przepustki, karty magnetyczne, ewidencja wydanych przepustek i kart magnetycznych, upoważnienia
+255;Ochrona przeciwpożarowa;BE10;instrukcje, plany ochrony ppoż., oświadczenia o przeszkoleniu ppoż., interwencje jednostek ochrony ppoż. itp.
+255;Ochrona przeciwpożarowa;BE10;instrukcje, plany ochrony ppoż., oświadczenia o przeszkoleniu ppoż., interwencje jednostek ochrony ppoż. itp.
+26;Gospodarka materiałowa;;
+260;Zaopatrzenie;;
+2600;Źródła zaopatrzenia;B5;zamówienia wysyłane do firm zewnętrznych, reklamacje, korespondencja handlowa
+2600;Źródła zaopatrzenia;B5;zamówienia wysyłane do firm zewnętrznych, reklamacje, korespondencja handlowa
+2601;Zaopatrzenie materiałowe;B5;
+2601;Zaopatrzenie materiałowe;B5;
+261;Obsługa materiałowa środków rzeczowych;;
+2610;Magazynowanie środków trwałych i nietrwałych;B10;dowody przychodu i rozchodu, kartoteki ilościowo-wartościowe
+2610;Magazynowanie środków trwałych i nietrwałych;B10;dowody przychodu i rozchodu, kartoteki ilościowo-wartościowe
+2611;Ewidencja środków trwałych i nietrwałych;B10;
+2611;Ewidencja środków trwałych i nietrwałych;B10;
+2612;Ewidencja osobistego wyposażenia pracowników;B10;
+2612;Ewidencja osobistego wyposażenia pracowników;B10;
+2613;Eksploatacja i likwidacja środków trwałych i przedmiotów nietrwałych;B10;
+2613;Eksploatacja i likwidacja środków trwałych i przedmiotów nietrwałych;B10;
+2614;Konserwacja i remonty środków trwałych ;B5;
+2614;Konserwacja i remonty środków trwałych ;B5;
+2615;Dokumentacja techniczno-eksploatacyjna środków trwałych;B5;
+2615;Dokumentacja techniczno-eksploatacyjna środków trwałych;B5;
+262;Gospodarka odpadami (surowcami wtórnymi);B5;
+262;Gospodarka odpadami (surowcami wtórnymi);B5;
+263;Transport, łączność, infrastruktura informatyczna i telekomunikacyjna;;
+2630;Zakupy środków i usług transportowych, łączności, pocztowych i kurierskich;B5;
+2630;Zakupy środków i usług transportowych, łączności, pocztowych i kurierskich;B5;
+2631;Ewidencja środków transportu;B10;
+2631;Ewidencja środków transportu;B10;
+2632;Eksploatacja własnych środków transportowych;B5;karty drogowe samochodów, karty eksploatacji samochodów, przeglądy techniczne, remonty bieżące i kapitalne, sprawy garaży i myjni
+2632;Eksploatacja własnych środków transportowych;B5;karty drogowe samochodów, karty eksploatacji samochodów, przeglądy techniczne, remonty bieżące i kapitalne, sprawy garaży i myjni
+2633;Użytkowanie obcych środków transportowych;B5;zlecenia, umowy o wykorzystaniu prywatnych samochodów
+2633;Użytkowanie obcych środków transportowych;B5;zlecenia, umowy o wykorzystaniu prywatnych samochodów
+2634;Eksploatacja środków łączności (telefonów, telefaksów, modemów, łączy internetowych);B10;w tym dokumentacja dotycząca konserwacji i remontów środków łączności
+2634;Eksploatacja środków łączności (telefonów, telefaksów, modemów, łączy internetowych);B10;w tym dokumentacja dotycząca konserwacji i remontów środków łączności
+2635;Organizacja i eksploatacja infrastruktury informatycznej i telekomunikacyjnej;BE10;
+2635;Organizacja i eksploatacja infrastruktury informatycznej i telekomunikacyjnej;BE10;
+27;Zamówienia publiczne;;
+270;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu zamówień publicznych;A;
+270;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu zamówień publicznych;A;
+271;Dokumentacja zamówień publicznych;B5;
+271;Dokumentacja zamówień publicznych;B5;
+272;Umowy zawarte w wyniku postępowania w trybie zamówień publicznych;B10;
+272;Umowy zawarte w wyniku postępowania w trybie zamówień publicznych;B10;
+3;FINANSE GMINY ORAZ OBSŁUGA FINANSOWO-KSIĘGOWA URZĘDÓW I JEDNOSTEK ORGANIZACYJNYCH GMINY;;
+30;Planowanie i realizacja budżetu;;
+300;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu planowania i realizacji budżetu;A;
+300;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu planowania i realizacji budżetu;A;
+301;Wieloletnia prognoza finansowa;A;
+301;Wieloletnia prognoza finansowa;A;
+302;Planowanie budżetu gminy;;
+3020;Przygotowanie projektu budżetu gminy;BE5;między innymi materiały, projekty, korespondencja, uzgodnienia
+3020;Przygotowanie projektu budżetu gminy;BE5;między innymi materiały, projekty, korespondencja, uzgodnienia
+3021;Budżet gminy i jego zmiany;A;
+3021;Budżet gminy i jego zmiany;A;
+3022;Opiniowanie budżetu przez Regionalną Izbę Obrachunkową;A;
+3022;Opiniowanie budżetu przez Regionalną Izbę Obrachunkową;A;
+3023;Informacja o stanie mienia komunalnego;A;
+3023;Informacja o stanie mienia komunalnego;A;
+3024;Analizowanie i weryfikowanie planów finansowych dysponentów budżetu;BE5;
+3024;Analizowanie i weryfikowanie planów finansowych dysponentów budżetu;BE5;
+3025;Propozycje organów jednostek pomocniczych gminy dotyczące rozdysponowania środków budżetowych;A;
+3025;Propozycje organów jednostek pomocniczych gminy dotyczące rozdysponowania środków budżetowych;A;
+3026;Budżety komórek organizacyjnych i ich zmiany;BE10;
+3026;Budżety komórek organizacyjnych i ich zmiany;BE10;
+303;Realizacja budżetu;;
+3030;Układ wykonawczy budżetu gminy;A;
+3030;Układ wykonawczy budżetu gminy;A;
+3031;Przekazywanie środków finansowych dla urzędów, ich komórek i jednostek organizacyjnych gminy;B5;
+3031;Przekazywanie środków finansowych dla urzędów, ich komórek i jednostek organizacyjnych gminy;B5;
+3032;Rozliczanie dochodów, wydatków, subwencji i dotacji;B5;w tym z urzędami skarbowymi
+3032;Rozliczanie dochodów, wydatków, subwencji i dotacji;B5;w tym z urzędami skarbowymi
+3033;Ewidencjonowanie dochodów, wykorzystania środków, dotacji i subwencji;B5;
+3033;Ewidencjonowanie dochodów, wykorzystania środków, dotacji i subwencji;B5;
+3034;Sprawozdania okresowe z wykonania budżetu;BE5;jeżeli sprawozdania cząstkowe w danym roku są zgodne co do zakresu i rodzaju danych ze sprawozdaniami o większym zakresie czasowym, to można akta spraw w zakresie sprawozdawczości cząstkowej zakwalifikować do kategorii B5
+3034;Sprawozdania okresowe z wykonania budżetu;BE5;jeżeli sprawozdania cząstkowe w danym roku są zgodne co do zakresu i rodzaju danych ze sprawozdaniami o większym zakresie czasowym, to można akta spraw w zakresie sprawozdawczości cząstkowej zakwalifikować do kategorii B5
+3035;Sprawozdanie roczne, bilans i analizy z wykonania budżetu;A;
+3035;Sprawozdanie roczne, bilans i analizy z wykonania budżetu;A;
+3036;Rewizja budżetu i jego bilansu;A;
+3036;Rewizja budżetu i jego bilansu;A;
+3037;Realizacja budżetów komórek organizacyjnych;BE10;
+3037;Realizacja budżetów komórek organizacyjnych;BE10;
+304;Finansowanie;;
+3040;Finansowanie działalności urzędów i jednostek organizacyjnych gminy;B5;
+3040;Finansowanie działalności urzędów i jednostek organizacyjnych gminy;B5;
+3041;Finansowanie inwestycji;BE5;
+3041;Finansowanie inwestycji;BE5;
+3042;Finansowanie remontów;B5;
+3042;Finansowanie remontów;B5;
+305;Obsługa finansowa funduszy, środków dodatkowych, pożyczek, kredytów, dochodów pozabudżetowych;;
+3050;Obsługa finansowa funduszy i środków dodatkowych;B5;
+3050;Obsługa finansowa funduszy i środków dodatkowych;B5;
+3051;Obsługa finansowa pożyczek i kredytów;B5;
+3051;Obsługa finansowa pożyczek i kredytów;B5;
+3052;Współpraca z bankami finansującymi i kredytującymi;B5;
+3052;Współpraca z bankami finansującymi i kredytującymi;B5;
+3053;Obsługa finansowa funduszy ze środków zagranicznych, w tym Unii Europejskiej;B*);*) czas przechowywania wynika z odrębnych regulacji lub umów, w innym przypadku wynosi co najmniej 5 lat
+3053;Obsługa finansowa funduszy ze środków zagranicznych, w tym Unii Europejskiej;B*);*) czas przechowywania wynika z odrębnych regulacji lub umów, w innym przypadku wynosi co najmniej 5 lat
+3054;Gospodarka pozabudżetowa;B5;
+3054;Gospodarka pozabudżetowa;B5;
+306;Emitowanie obligacji;;
+3060;Emitowanie obligacji na terenie kraju;BE5;
+3060;Emitowanie obligacji na terenie kraju;BE5;
+3061;Emitowanie obligacji za granicą;BE5;
+3061;Emitowanie obligacji za granicą;BE5;
+31;Dochody, podatki i opłaty;;
+310;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu dochodów, podatków, opłat, egzekucji i windykacji;A;
+310;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu dochodów, podatków, opłat, egzekucji i windykacji;A;
+311;Zobowiązania podatkowe;;
+3110;Planowanie dochodów z podatków i opłat oraz sprawozdawczość w tym zakresie;A;
+3110;Planowanie dochodów z podatków i opłat oraz sprawozdawczość w tym zakresie;A;
+3111;Rejestry podatkowe, ewidencje i wykazy w tym zakresie;B10;
+3111;Rejestry podatkowe, ewidencje i wykazy w tym zakresie;B10;
+312;Podatki i ich wymiary;;
+3120;Podatek od nieruchomości;B10;
+3120;Podatek od nieruchomości;B10;
+3121;Podatek rolny;B10;
+3121;Podatek rolny;B10;
+3122;Podatek leśny;B10;
+3122;Podatek leśny;B10;
+3123;Łączne zobowiązanie podatkowe rolników;B10;
+3123;Łączne zobowiązanie podatkowe rolników;B10;
+3124;Podatek od środków transportowych;B10;
+3124;Podatek od środków transportowych;B10;
+3125;Podatek od osób fizycznych;B10;
+3125;Podatek od osób fizycznych;B10;
+3126;Podatek od spadków i darowizn;B10;
+3126;Podatek od spadków i darowizn;B10;
+3127;Łączne zobowiązanie podatkowe dla osób nie będących rolnikami;B10;
+3127;Łączne zobowiązanie podatkowe dla osób nie będących rolnikami;B10;
+313;Opłaty;;
+3130;Opłata skarbowa;B10;
+3130;Opłata skarbowa;B10;
+3131;Opłata eksploatacyjna;B10;
+3131;Opłata eksploatacyjna;B10;
+3132;Opłata targowa;B10;
+3132;Opłata targowa;B10;
+3133;Opłata ewidencyjna CEPiK;B10;
+3133;Opłata ewidencyjna CEPiK;B10;
+3134;Opłata adiacencka;B10;
+3134;Opłata adiacencka;B10;
+3135;Opłata miejscowa;B10;
+3135;Opłata miejscowa;B10;
+3136;Opłaty za zarząd gruntami i za ich użytkowanie;B10;
+3136;Opłaty za zarząd gruntami i za ich użytkowanie;B10;
+3137;Opłata administracyjna;B10;
+3137;Opłata administracyjna;B10;
+3138;Opłata od posiadania psów;B10;
+3138;Opłata od posiadania psów;B10;
+314;Zaświadczenia;;
+3140;Zaświadczenia w sprawach podatkowych;B5;
+3140;Zaświadczenia w sprawach podatkowych;B5;
+3141;Zaświadczenia w sprawach opłat;B5;
+3141;Zaświadczenia w sprawach opłat;B5;
+315;Inne dochody gminy;;
+3150;Dochody z majątku gminy;B5;
+3150;Dochody z majątku gminy;B5;
+3151;Odsetki;B5;
+3151;Odsetki;B5;
+3152;Dochody z majątku Skarbu Państwa;B5;
+3152;Dochody z majątku Skarbu Państwa;B5;
+3153;Dotacje;B5;
+3153;Dotacje;B5;
+3154;Subwencje;B5;
+3154;Subwencje;B5;
+316;Egzekucja i windykacja;;
+3160;Egzekucja administracyjna prowadzona przez podmiot;B5;
+3160;Egzekucja administracyjna prowadzona przez podmiot;B5;
+3161;Egzekucja administracyjna prowadzona przez inne organy egzekucyjne;B5;
+3161;Egzekucja administracyjna prowadzona przez inne organy egzekucyjne;B5;
+3162;Windykacja należności;B5;
+3162;Windykacja należności;B5;
+3163;Kontrole podatkowe przeprowadzane przez przedstawicieli gminy u podatników;BE10;
+3163;Kontrole podatkowe przeprowadzane przez przedstawicieli gminy u podatników;BE10;
+317;Opłaty i inkaso sołtysów;B5;
+317;Opłaty i inkaso sołtysów;B5;
+32;Rachunkowość, księgowość, obsługa kasowa;;
+320;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu rachunkowości, księgowości i obsługi kasowej;;
+3200;Polityka rachunkowości i plany kont;A;w tym jej projekty, uzgodnienia
+3200;Polityka rachunkowości i plany kont;A;w tym jej projekty, uzgodnienia
+3201;Wyjaśnienia, interpretacje, opinie dotyczące zagadnień z zakresu rachunkowości, księgowości i obsługi kasowej;A;
+3201;Wyjaśnienia, interpretacje, opinie dotyczące zagadnień z zakresu rachunkowości, księgowości i obsługi kasowej;A;
+321;Obrót gotówkowy i bezgotówkowy;;
+3210;Obrót gotówkowy;B5;plany i raporty kasowe (niestanowiące dowodów kasowych), kopie asygnat i kwitariuszy, grzbiety książeczek czekowych i rozrachunkowych)
+3210;Obrót gotówkowy;B5;plany i raporty kasowe (niestanowiące dowodów kasowych), kopie asygnat i kwitariuszy, grzbiety książeczek czekowych i rozrachunkowych)
+3211;Obrót bezgotówkowy;B5;wyciągi bankowe, przelewy
+3211;Obrót bezgotówkowy;B5;wyciągi bankowe, przelewy
+3212;Depozyty kasowe, obsługa wadium;B5;
+3212;Depozyty kasowe, obsługa wadium;B5;
+322;Księgowość;;
+3220;Dowody księgowe;B5;
+3220;Dowody księgowe;B5;
+3221;Dokumentacja księgowa;B5;
+3221;Dokumentacja księgowa;B5;
+3222;Rozliczenia;B5;rozliczenia z dostawcami, odbiorcami, pracownikami, instytucjami ubezpieczeniowymi i podatkowymi (VAT), w tym wezwania do zapłaty
+3222;Rozliczenia;B5;rozliczenia z dostawcami, odbiorcami, pracownikami, instytucjami ubezpieczeniowymi i podatkowymi (VAT), w tym wezwania do zapłaty
+3223;Ewidencja syntetyczna i analityczna;B5;
+3223;Ewidencja syntetyczna i analityczna;B5;
+3224;Uzgadnianie sald;B5;
+3224;Uzgadnianie sald;B5;
+3225;Kontrole i rewizje kasy;B5;
+3225;Kontrole i rewizje kasy;B5;
+3226;Zobowiązania, poręczenia;B5;
+3226;Zobowiązania, poręczenia;B5;
+3227;Księgowość materiałowo-towarowa;B5;
+3227;Księgowość materiałowo-towarowa;B5;
+3228;Obsługa księgowa w zakresie VAT;B10;
+3228;Obsługa księgowa w zakresie VAT;B10;
+323;Rozliczenia płac i wynagrodzeń;;
+3230;Dokumentacja płac i potrąceń z płac;B5;
+3230;Dokumentacja płac i potrąceń z płac;B5;
+3231;Listy płac;B50;
+3231;Listy płac;B50;
+3232;Kartoteki wynagrodzeń;B50;
+3232;Kartoteki wynagrodzeń;B50;
+3233;Wypłaty diet radnym;B10;
+3233;Wypłaty diet radnym;B10;
+3234;Deklaracje podatkowe i rozliczenia podatku dochodowego;B5;
+3234;Deklaracje podatkowe i rozliczenia podatku dochodowego;B5;
+3235;Rozliczenia składek na ubezpieczenie społeczne;B50;
+3235;Rozliczenia składek na ubezpieczenie społeczne;B50;
+3236;Deklaracje na PFRON;B5;
+3236;Deklaracje na PFRON;B5;
+3237;Dokumentacja wynagrodzeń z bezosobowego funduszu płac;B50;
+3237;Dokumentacja wynagrodzeń z bezosobowego funduszu płac;B50;
+324;Inwentaryzacja;;
+3240;Wycena i przecena;B10;
+3240;Wycena i przecena;B10;
+3241;Spisy i protokoły inwentaryzacyjne, sprawozdania z przebiegu inwentaryzacji i różnice inwentaryzacyjne;B5;
+3241;Spisy i protokoły inwentaryzacyjne, sprawozdania z przebiegu inwentaryzacji i różnice inwentaryzacyjne;B5;
+325;Dyscyplina finansowa;;
+3250;Interwencje Głównego Księgowego;A;
+3250;Interwencje Głównego Księgowego;A;
+3251;Inne sprawy nadzoru finansowego;BE5;
+3251;Inne sprawy nadzoru finansowego;BE5;
+4;KULTURA, OCHRONA ZABYTKÓW, KULTURA FIZYCZNA, TURYSTYKA I WYPOCZYNEK ORAZ SYSTEM OŚWIATY;;
+40;Kultura;;
+400;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu kultury;A;
+400;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu kultury;A;
+401;Programy rozwoju kultury i ochrony dziedzictwa kulturowego;A;
+401;Programy rozwoju kultury i ochrony dziedzictwa kulturowego;A;
+402;Rejestracja instytucji kultury i monitorowanie ich działalności;A;
+402;Rejestracja instytucji kultury i monitorowanie ich działalności;A;
+403;Mecenat nad działalnością kulturalną;A;
+403;Mecenat nad działalnością kulturalną;A;
+404;Organizacja imprez kulturalnych, uroczystości, obchodów;;w tym obchodów rocznic narodowych;
+4040;Organizacja imprez, uroczystości i obchodów stałych oraz periodycznych;A;
+4040;Organizacja imprez, uroczystości i obchodów stałych oraz periodycznych;A;
+4041;Organizacja imprez, uroczystości i obchodów jednorazowych;A;
+4041;Organizacja imprez, uroczystości i obchodów jednorazowych;A;
+41;Zabytki;;
+410;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu ochrony zabytków;A;
+410;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu ochrony zabytków;A;
+411;Programy opieki nad zabytkami i sprawozdawczość w tym zakresie;A;
+411;Programy opieki nad zabytkami i sprawozdawczość w tym zakresie;A;
+412;Ochrona zabytków;;
+4120;Zabytki nieruchome;A;w tym gminna ewidencja zabytków nieruchomych
+4120;Zabytki nieruchome;A;w tym gminna ewidencja zabytków nieruchomych
+4121;Zabytki ruchome;A;
+4121;Zabytki ruchome;A;
+4122;Zgłaszanie o odkryciach lub ujawnieniach przedmiotów zabytkowych;A;
+4122;Zgłaszanie o odkryciach lub ujawnieniach przedmiotów zabytkowych;A;
+4123;Współdziałanie z wojewódzkim konserwatorem zabytków i otrzymywanie informacji z rejestrów zabytków;BE10;
+4123;Współdziałanie z wojewódzkim konserwatorem zabytków i otrzymywanie informacji z rejestrów zabytków;BE10;
+4124;Przejmowanie w zarząd obiektu zabytkowego;A;
+4124;Przejmowanie w zarząd obiektu zabytkowego;A;
+4125;Prace konserwatorskie, restauratorskie i roboty budowlane przy zabytku;A;
+4125;Prace konserwatorskie, restauratorskie i roboty budowlane przy zabytku;A;
+4126;Znakowanie obiektów zabytkowych;A;zadanie tylko powiatu
+4126;Znakowanie obiektów zabytkowych;A;zadanie tylko powiatu
+413;Społeczni opiekunowie zabytków;BE10;zadanie tylko powiatu
+413;Społeczni opiekunowie zabytków;BE10;zadanie tylko powiatu
+414;Opieka nad pomnikami i miejscami pamięci;A;
+414;Opieka nad pomnikami i miejscami pamięci;A;
+415;Parki kulturowe;A;między innymi sprawy utworzenia parku, planu jego ochrony
+415;Parki kulturowe;A;między innymi sprawy utworzenia parku, planu jego ochrony
+416;Popularyzacja i upowszechnianie wiedzy o zabytkach;A;
+416;Popularyzacja i upowszechnianie wiedzy o zabytkach;A;
+42;Kultura fizyczna;;
+420;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu kultury fizycznej;A;
+420;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu kultury fizycznej;A;
+421;Programy rozwoju kultury fizycznej oraz sprawozdawczość w tym zakresie;A;
+421;Programy rozwoju kultury fizycznej oraz sprawozdawczość w tym zakresie;A;
+422;Prowadzenie ewidencji i rejestrów oraz dokumentacji jednostek organizacyjnych odpowiedzialnych za kulturę fizyczną;;
+4220;Kluby sportowe, związki sportowe, stowarzyszenia kultury fizycznej;A;zadanie tylko powiatu
+4220;Kluby sportowe, związki sportowe, stowarzyszenia kultury fizycznej;A;zadanie tylko powiatu
+4221;Uczniowskie kluby sportowe;A;
+4221;Uczniowskie kluby sportowe;A;
+4222;Stowarzyszenia kultury fizycznej nieprowadzące działalności gospodarczej;A;zadanie tylko powiatu
+4222;Stowarzyszenia kultury fizycznej nieprowadzące działalności gospodarczej;A;zadanie tylko powiatu
+4223;Obiekty sportowe i rekreacyjne;A;zadanie tylko powiatu
+4223;Obiekty sportowe i rekreacyjne;A;zadanie tylko powiatu
+423;Opieka nad sportowcami oraz działalnością sportową;BE10;w tym stypendia
+423;Opieka nad sportowcami oraz działalnością sportową;BE10;w tym stypendia
+424;Popularyzacja walorów rekreacji ruchowej;BE10;
+424;Popularyzacja walorów rekreacji ruchowej;BE10;
+425;Organizacja zajęć, zawodów i imprez sportowo-rekreacyjnych;BE10;
+425;Organizacja zajęć, zawodów i imprez sportowo-rekreacyjnych;BE10;
+426;Wspieranie jednostek organizacyjnych odpowiedzialnych za kulturę fizyczną;BE10;
+426;Wspieranie jednostek organizacyjnych odpowiedzialnych za kulturę fizyczną;BE10;
+43;Turystyka i wypoczynek;;
+430;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu turystyki i wypoczynku;A;
+430;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu turystyki i wypoczynku;A;
+431;Programy rozwoju turystyki i wypoczynku oraz sprawozdawczość w tym zakresie;A;
+431;Programy rozwoju turystyki i wypoczynku oraz sprawozdawczość w tym zakresie;A;
+432;Organizacja informacji turystycznej;BE10;
+432;Organizacja informacji turystycznej;BE10;
+433;Wyznaczanie szlaków turystycznych i tras rowerowych;A;
+433;Wyznaczanie szlaków turystycznych i tras rowerowych;A;
+434;Wspieranie działalności w zakresie turystyki i wypoczynku;BE10;
+434;Wspieranie działalności w zakresie turystyki i wypoczynku;BE10;
+44;System oświaty;;
+440;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu systemu oświaty;A;
+440;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu systemu oświaty;A;
+441;Programy oświatowe oraz sprawozdawczość w tym zakresie;A;
+441;Programy oświatowe oraz sprawozdawczość w tym zakresie;A;
+442;System oświaty publicznej;;
+4420;Ustalanie sieci przedszkoli publicznych;A;
+4420;Ustalanie sieci przedszkoli publicznych;A;
+4421;Ustalanie sieci szkół publicznych oraz granic ich obwodów;A;
+4421;Ustalanie sieci szkół publicznych oraz granic ich obwodów;A;
+4422;Uzyskiwanie zezwoleń na założenie szkoły lub placówki publicznej;A;
+4422;Uzyskiwanie zezwoleń na założenie szkoły lub placówki publicznej;A;
+4423;Nadawanie i cofanie uprawnień szkoły publicznej dla szkół niepublicznych;A;
+4423;Nadawanie i cofanie uprawnień szkoły publicznej dla szkół niepublicznych;A;
+4424;Nadzór nad działalnością szkół i placówek oświatowych;A;w tym arkusze organizacyjne szkół
+4424;Nadzór nad działalnością szkół i placówek oświatowych;A;w tym arkusze organizacyjne szkół
+443;Szkoły niepubliczne;;
+4430;Prowadzenie ewidencji szkół niepublicznych;A;w tym procedura dokonywania wpisu, wykreślenia
+4430;Prowadzenie ewidencji szkół niepublicznych;A;w tym procedura dokonywania wpisu, wykreślenia
+4431;Wspieranie szkół niepublicznych;BE10;między innymi przekazywanie dotacji
+4431;Wspieranie szkół niepublicznych;BE10;między innymi przekazywanie dotacji
+444;System informacji oświatowej;A;
+444;System informacji oświatowej;A;
+445;Organizacja i realizacja zadań z zakresu nauczania i wychowania;;
+4450;Realizacja obowiązku nauki oraz sprawy rekrutacji do szkół;BE10;
+4450;Realizacja obowiązku nauki oraz sprawy rekrutacji do szkół;BE10;
+4451;Kierowanie dzieci do szkół specjalnych lub ośrodków poza granicami powiatu;B10;zadanie tylko powiatu
+4451;Kierowanie dzieci do szkół specjalnych lub ośrodków poza granicami powiatu;B10;zadanie tylko powiatu
+4452;Nauczanie indywidualne i rewalidacja indywidualna;B10;
+4452;Nauczanie indywidualne i rewalidacja indywidualna;B10;
+4453;Dofinansowanie kosztów kształcenia młodocianych;B10;
+4453;Dofinansowanie kosztów kształcenia młodocianych;B10;
+4454;Pomoc psychologiczno-pedagogiczna i klasy integracyjne;BE10;
+4454;Pomoc psychologiczno-pedagogiczna i klasy integracyjne;BE10;
+4455;Olimpiady i konkursy edukacyjne;BE10;
+4455;Olimpiady i konkursy edukacyjne;BE10;
+446;Wspieranie uczniów;;
+4460;Programy pomocy materialnej dla uczniów;A;
+4460;Programy pomocy materialnej dla uczniów;A;
+4461;Przyznawanie zasiłków szkolnych uczniom;B5;
+4461;Przyznawanie zasiłków szkolnych uczniom;B5;
+4462;Przyznawanie stypendiów szkolnych uczniom;B5;
+4462;Przyznawanie stypendiów szkolnych uczniom;B5;
+4463;Pomoc materialna uczniom o charakterze motywacyjnym;BE5;
+4463;Pomoc materialna uczniom o charakterze motywacyjnym;BE5;
+4464;Dowóz uczniów do szkół;BE5;
+4464;Dowóz uczniów do szkół;BE5;
+447;Rozwój zawodowy nauczycieli;;
+4470;Awans zawodowy nauczycieli;BE50;
+4470;Awans zawodowy nauczycieli;BE50;
+4471;Wspieranie doskonalenia zawodowego nauczycieli;BE5;
+4471;Wspieranie doskonalenia zawodowego nauczycieli;BE5;
+4472;Nagradzanie i wyróżnianie nauczycieli;BE10;
+4472;Nagradzanie i wyróżnianie nauczycieli;BE10;
+448;Sprawy nauczycieli;;
+4480;Realizacja i wykorzystanie funduszu świadczeń socjalnych nauczycieli ;BE5;
+4480;Realizacja i wykorzystanie funduszu świadczeń socjalnych nauczycieli ;BE5;
+4481;Uzgodnienia ze związkami zawodowymi w sprawach dotyczących nauczycieli;A;
+4481;Uzgodnienia ze związkami zawodowymi w sprawach dotyczących nauczycieli;A;
+5;WYBORY, REFERENDA, SPISY POWSZECHNE, SPRAWY SPOŁECZNE I OBYWATELSKIE, STAN CYWILNY, OBSŁUGA LUDNOŚCI I JEJ BEZPIECZEŃSTWO;;
+50;Wybory i referenda, spisy powszechne;;
+500;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące wyborów i referendów, spisów powszechnych;A;
+500;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące wyborów i referendów, spisów powszechnych;A;
+501;Rejestry i spisy wyborców;;
+5010;Prowadzenie i obsługa rejestru wyborców;BE5;
+5010;Prowadzenie i obsługa rejestru wyborców;BE5;
+5011;Spisy wyborców;B5*);*) chyba że przepis odrębny określa inny czas przechowywania
+5011;Spisy wyborców;B5*);*) chyba że przepis odrębny określa inny czas przechowywania
+5012;Udostępnianie danych z rejestru i spisów wyborców;B5;
+5012;Udostępnianie danych z rejestru i spisów wyborców;B5;
+502;Obsługa organizacyjna wyborów;BE5*);*) chyba że przepis odrębny określa inny czas przechowywania
+502;Obsługa organizacyjna wyborów;BE5*);*) chyba że przepis odrębny określa inny czas przechowywania
+503;Obsługa organizacyjna referendów;BE5*);*) chyba że przepis odrębny określa inny czas przechowywania
+503;Obsługa organizacyjna referendów;BE5*);*) chyba że przepis odrębny określa inny czas przechowywania
+504;Obsługa spisów powszechnych;;
+5040;Gminne biura spisowe;BE5;
+5040;Gminne biura spisowe;BE5;
+5041;Rachmistrze spisowi;B5;
+5041;Rachmistrze spisowi;B5;
+5042;Nadzorowanie prac spisowych;BE5;
+5042;Nadzorowanie prac spisowych;BE5;
+5043;Popularyzacja spisów powszechnych;BE5;
+5043;Popularyzacja spisów powszechnych;BE5;
+51;Stowarzyszenia i fundacje;;zadanie tylko powiatu
+51;Stowarzyszenia i fundacje;;zadanie tylko powiatu
+510;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu nadzoru nad stowarzyszeniami i fundacjami;A;zadanie tylko powiatu
+510;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu nadzoru nad stowarzyszeniami i fundacjami;A;zadanie tylko powiatu
+511;Monitorowanie działalności stowarzyszeń;A;zadanie tylko powiatu
+511;Monitorowanie działalności stowarzyszeń;A;zadanie tylko powiatu
+512;Monitorowanie działalności stowarzyszeń zwykłych;A;zadanie tylko powiatu
+512;Monitorowanie działalności stowarzyszeń zwykłych;A;zadanie tylko powiatu
+513;Monitorowanie działalności fundacji;A;zadanie tylko powiatu w tym dokumentacja przekazywana z sądu, czy fundacji
+513;Monitorowanie działalności fundacji;A;zadanie tylko powiatu w tym dokumentacja przekazywana z sądu, czy fundacji
+514;Udostępnianie jednostkom zewnętrznym i osobom fizycznym informacji dotyczących działalności stowarzyszeń i fundacji;BE5;zadanie tylko powiatu
+514;Udostępnianie jednostkom zewnętrznym i osobom fizycznym informacji dotyczących działalności stowarzyszeń i fundacji;BE5;zadanie tylko powiatu
+52;Działalność organizacji pożytku publicznego;;
+520;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące działalności organizacji pożytku publicznego;A;
+520;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące działalności organizacji pożytku publicznego;A;
+521;Gminna Rada Działalności Pożytku Publicznego;A;
+521;Gminna Rada Działalności Pożytku Publicznego;A;
+522;Wspólne zespoły doradcze i opiniodawcze gminy i organizacji pożytku publicznego;A;
+522;Wspólne zespoły doradcze i opiniodawcze gminy i organizacji pożytku publicznego;A;
+523;Wymiana informacji o kierunkach działalności organizacji pożytku publicznego pomiędzy gminą i tymi organizacjami ;A;
+523;Wymiana informacji o kierunkach działalności organizacji pożytku publicznego pomiędzy gminą i tymi organizacjami ;A;
+524;Otwarte konkursy ofert w zakresie działalności pożytku publicznego;BE5;
+524;Otwarte konkursy ofert w zakresie działalności pożytku publicznego;BE5;
+525;Oferty z własnej inicjatywy organizacji pożytku publicznego na realizację zadań z zakresu tej działalności;BE5;
+525;Oferty z własnej inicjatywy organizacji pożytku publicznego na realizację zadań z zakresu tej działalności;BE5;
+526;Realizacja zadań z zakresu działalności pożytku publicznego przez organizacje pożytku publicznego;BE10;
+526;Realizacja zadań z zakresu działalności pożytku publicznego przez organizacje pożytku publicznego;BE10;
+53;Sprawy społeczne i obywatelskie;;
+530;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące spraw społecznych i obywatelskich;A;
+530;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące spraw społecznych i obywatelskich;A;
+531;Sprawy społeczne;;
+5310;Zgromadzenia i imprezy masowe;BE5;
+5310;Zgromadzenia i imprezy masowe;BE5;
+5311;Zbiórki publiczne;BE5;
+5311;Zbiórki publiczne;BE5;
+5312;Mniejszości narodowe;A;
+5312;Mniejszości narodowe;A;
+5313;Repatrianci;A;
+5313;Repatrianci;A;
+5314;Obsługa rzeczy znalezionych;BE5;
+5314;Obsługa rzeczy znalezionych;BE5;
+5315;Przekazywanie do publicznej wiadomości informacji, zawiadomień itp. od innych organów.;B5;w tym od organów ścigania i wymiaru sprawiedliwości
+5315;Przekazywanie do publicznej wiadomości informacji, zawiadomień itp. od innych organów.;B5;w tym od organów ścigania i wymiaru sprawiedliwości
+532;Przyjmowanie oświadczeń i poświadczenia;;
+5320;Oświadczenia ostatniej woli spadkodawcy;A;
+5320;Oświadczenia ostatniej woli spadkodawcy;A;
+5321;Poświadczanie własnoręczności podpisu;B10;
+5321;Poświadczanie własnoręczności podpisu;B10;
+5322;Poświadczanie pozostawania osoby przy życiu lub w określonym miejscu;BE10;
+5322;Poświadczanie pozostawania osoby przy życiu lub w określonym miejscu;BE10;
+533;Wybory ławników sądowych;BE5;
+533;Wybory ławników sądowych;BE5;
+534;Sprawy obywatelskie;;
+5340;Obywatelstwo;BE10;
+5340;Obywatelstwo;BE10;
+5341;Ewidencja ludności;BE50;
+5341;Ewidencja ludności;BE50;
+5342;Aktualizowanie danych w ewidencji ludności;B5;
+5342;Aktualizowanie danych w ewidencji ludności;B5;
+5343;Sprawy meldunkowe;B10;
+5343;Sprawy meldunkowe;B10;
+5344;Obsługa dowodów osobistych;B10*);*) przy czym dokumentacja dotycząca dowodów osobistych wydanych w okresie do 1979 r. (włącznie) kwalifikowana jest do kategorii A, w okresie od 1980 do 2010 do kategorii BE50
+5344;Obsługa dowodów osobistych;B10*);*) przy czym dokumentacja dotycząca dowodów osobistych wydanych w okresie do 1979 r. (włącznie) kwalifikowana jest do kategorii A, w okresie od 1980 do 2010 do kategorii BE50
+5345;Udostępnianie danych i wydawanie zaświadczeń z ewidencji ludności lub dokumentacji wydanych dowodów osobistych;B5;
+5345;Udostępnianie danych i wydawanie zaświadczeń z ewidencji ludności lub dokumentacji wydanych dowodów osobistych;B5;
+535;Stan cywilny;;
+5350;Statystyka urodzeń, małżeństw, zgonów;A;
+5350;Statystyka urodzeń, małżeństw, zgonów;A;
+5351;Rejestracja aktów urodzenia, małżeństwa, zgonu i ich zmiany;A;
+5351;Rejestracja aktów urodzenia, małżeństwa, zgonu i ich zmiany;A;
+5352;Unieważnienie, sprostowanie, ustalenie treści, odtworzenie i uzupełnienie aktu stanu cywilnego;B5*);*) podana kwalifikacja jest obowiązująca, jeżeli właściwa dokumentacja z tych spraw została odłożona do akt zbiorowych
+5352;Unieważnienie, sprostowanie, ustalenie treści, odtworzenie i uzupełnienie aktu stanu cywilnego;B5*);*) podana kwalifikacja jest obowiązująca, jeżeli właściwa dokumentacja z tych spraw została odłożona do akt zbiorowych
+5353;Wpisywanie akt stanu cywilnego sporządzonych za granicą do polskich ksiąg;B10*);*) podana kwalifikacja jest obowiązująca, jeżeli właściwa dokumentacja z tych spraw została odłożona do akt zbiorowych
+5353;Wpisywanie akt stanu cywilnego sporządzonych za granicą do polskich ksiąg;B10*);*) podana kwalifikacja jest obowiązująca, jeżeli właściwa dokumentacja z tych spraw została odłożona do akt zbiorowych
+5354;Zezwolenia na zawarcie małżeństwa przed upływem miesiąca;B5*);*) podana kwalifikacja jest obowiązująca, jeżeli właściwa dokumentacja z tych spraw została odłożona do akt zbiorowych
+5354;Zezwolenia na zawarcie małżeństwa przed upływem miesiąca;B5*);*) podana kwalifikacja jest obowiązująca, jeżeli właściwa dokumentacja z tych spraw została odłożona do akt zbiorowych
+5355;Zmiany imion i nazwisk;B10*);*) podana kwalifikacja jest obowiązująca, jeżeli właściwa dokumentacja z tych spraw została odłożona do akt zbiorowych
+5355;Zmiany imion i nazwisk;B10*);*) podana kwalifikacja jest obowiązująca, jeżeli właściwa dokumentacja z tych spraw została odłożona do akt zbiorowych
+5356;Nadawanie medalu za długoletnie pożycie małżeńskie;A;
+5356;Nadawanie medalu za długoletnie pożycie małżeńskie;A;
+536;Udostępnianie i wymiana danych i informacji z akt stanu cywilnego oraz ich zabezpieczanie;;
+5360;Zaświadczenia o zdolności do zawarcia małżeństwa za granicą;B5*);*) podana kwalifikacja jest obowiązująca, jeżeli właściwa dokumentacja z tych spraw została odłożona do akt zbiorowych
+5360;Zaświadczenia o zdolności do zawarcia małżeństwa za granicą;B5*);*) podana kwalifikacja jest obowiązująca, jeżeli właściwa dokumentacja z tych spraw została odłożona do akt zbiorowych
+5361;Zaświadczenia o braku okoliczności wyłączających zawarcie małżeństwa;B5*);*) podana kwalifikacja jest obowiązująca, jeżeli właściwa dokumentacja z tych spraw została odłożona do akt zbiorowych
+5361;Zaświadczenia o braku okoliczności wyłączających zawarcie małżeństwa;B5*);*) podana kwalifikacja jest obowiązująca, jeżeli właściwa dokumentacja z tych spraw została odłożona do akt zbiorowych
+5362;Odpisy zupełne, skrócone i wielojęzyczne aktów stanu cywilnego;B5;
+5362;Odpisy zupełne, skrócone i wielojęzyczne aktów stanu cywilnego;B5;
+5363;Powiadamianie innych podmiotów i jednostek organizacyjnych o zmianach dokonywanych w aktach stanu cywilnego;B5;
+5363;Powiadamianie innych podmiotów i jednostek organizacyjnych o zmianach dokonywanych w aktach stanu cywilnego;B5;
+5364;Udostępnianie innych informacji na podstawie akt stanu cywilnego;B5;w tym zaświadczenia o dokonanych wpisach ich braku, zaginięciu lub zniszczeniu księgi
+5364;Udostępnianie innych informacji na podstawie akt stanu cywilnego;B5;w tym zaświadczenia o dokonanych wpisach ich braku, zaginięciu lub zniszczeniu księgi
+5365;Profilaktyka i konserwacja akt stanu cywilnego;BE10;w tym uzyskiwanie zgody od wojewody na wyniesienie akt poza urząd stanu cywilnego
+5365;Profilaktyka i konserwacja akt stanu cywilnego;BE10;w tym uzyskiwanie zgody od wojewody na wyniesienie akt poza urząd stanu cywilnego
+537;Sprawy konsularne;BE5;
+537;Sprawy konsularne;BE5;
+54;Rejestracja pojazdów, wydawanie uprawnień do kierowania pojazdami;;zadanie tylko powiatu
+54;Rejestracja pojazdów, wydawanie uprawnień do kierowania pojazdami;;zadanie tylko powiatu
+540;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące rejestracji pojazdów i wydawania uprawnień do kierowania pojazdami;A;zadanie tylko powiatu
+540;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące rejestracji pojazdów i wydawania uprawnień do kierowania pojazdami;A;zadanie tylko powiatu
+541;Rejestracja pojazdów;;zadanie tylko powiatu
+541;Rejestracja pojazdów;;zadanie tylko powiatu
+5410;Dokumentacja rejestracji pojazdów;BE10;zadanie tylko powiatu
+5410;Dokumentacja rejestracji pojazdów;BE10;zadanie tylko powiatu
+5411;Udostępnianie danych i wydawanie zaświadczeń w zakresie rejestracji pojazdów;B5;zadanie tylko powiatu
+5411;Udostępnianie danych i wydawanie zaświadczeń w zakresie rejestracji pojazdów;B5;zadanie tylko powiatu
+542;Stacje kontroli pojazdów, diagności;;zadanie tylko powiatu
+542;Stacje kontroli pojazdów, diagności;;zadanie tylko powiatu
+5420;Rejestrowanie przedsiębiorców prowadzących stacje kontroli pojazdów;BE10;zadanie tylko powiatu
+5420;Rejestrowanie przedsiębiorców prowadzących stacje kontroli pojazdów;BE10;zadanie tylko powiatu
+5421;Nadzór nad działalnością stacji kontroli pojazdów;BE10;zadanie tylko powiatu
+5421;Nadzór nad działalnością stacji kontroli pojazdów;BE10;zadanie tylko powiatu
+5422;Wydawanie i cofanie uprawnień dla diagnostów;BE10;zadanie tylko powiatu
+5422;Wydawanie i cofanie uprawnień dla diagnostów;BE10;zadanie tylko powiatu
+543;Wydawanie uprawnień do kierowania pojazdami;;zadanie tylko powiatu
+543;Wydawanie uprawnień do kierowania pojazdami;;zadanie tylko powiatu
+5430;Ewidencjonowanie kierowców;BE10;zadanie tylko powiatu
+5430;Ewidencjonowanie kierowców;BE10;zadanie tylko powiatu
+5431;Ewidencjonowanie osób bez uprawnień do kierowania pojazdami;BE10;zadanie tylko powiatu
+5431;Ewidencjonowanie osób bez uprawnień do kierowania pojazdami;BE10;zadanie tylko powiatu
+5432;Udostępnianie danych i wydawanie zaświadczeń w zakresie uprawnień do kierowania pojazdami;B5;zadanie tylko powiatu
+5432;Udostępnianie danych i wydawanie zaświadczeń w zakresie uprawnień do kierowania pojazdami;B5;zadanie tylko powiatu
+544;Ośrodki szkolenia kierowców, instruktorzy nauki jazdy;;zadanie tylko powiatu
+544;Ośrodki szkolenia kierowców, instruktorzy nauki jazdy;;zadanie tylko powiatu
+5440;Rejestrowanie działalności przedsiębiorców prowadzących ośrodki szkolenia kierowców;BE10;zadanie tylko powiatu
+5440;Rejestrowanie działalności przedsiębiorców prowadzących ośrodki szkolenia kierowców;BE10;zadanie tylko powiatu
+5441;Wpisywanie i skreślanie z ewidencji instruktorów;BE10;zadanie tylko powiatu
+5441;Wpisywanie i skreślanie z ewidencji instruktorów;BE10;zadanie tylko powiatu
+55;Bezpieczeństwo ludności, sprawy wojskowe i obronne;;
+550;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące bezpieczeństwa ludności, spraw wojskowych i obronnych;A;
+550;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące bezpieczeństwa ludności, spraw wojskowych i obronnych;A;
+551;Komisja bezpieczeństwa i porządku;;zadanie tylko powiatu
+551;Komisja bezpieczeństwa i porządku;;zadanie tylko powiatu
+5510;Organizacja Komisji bezpieczeństwa i porządku;A;zadanie tylko powiatu w tym powoływanie, odwoływanie, kierowanie do prac, regulaminy
+5510;Organizacja Komisji bezpieczeństwa i porządku;A;zadanie tylko powiatu w tym powoływanie, odwoływanie, kierowanie do prac, regulaminy
+5511;Posiedzenia Komisji bezpieczeństwa i porządku;A;zadanie tylko powiatu
+5511;Posiedzenia Komisji bezpieczeństwa i porządku;A;zadanie tylko powiatu
+552;Bezpieczeństwo ludności;;
+5520;Zapewnienie bezpieczeństwa mieszkańcom gminy i osobom przebywającym czasowo na terenie gminy;BE5;
+5520;Zapewnienie bezpieczeństwa mieszkańcom gminy i osobom przebywającym czasowo na terenie gminy;BE5;
+5521;Organizacja i działalność straży gminnych (miejskich);A;
+5521;Organizacja i działalność straży gminnych (miejskich);A;
+5522;Współdziałanie z organizacjami zajmującymi się organizowaniem i niesieniem pomocy i ratunku;BE5;między innymi WOPR, GOPR
+5522;Współdziałanie z organizacjami zajmującymi się organizowaniem i niesieniem pomocy i ratunku;BE5;między innymi WOPR, GOPR
+553;Zarządzanie kryzysowe;;
+5530;Prace Zespołu Zarządzania Kryzysowego;A;
+5530;Prace Zespołu Zarządzania Kryzysowego;A;
+5531;Monitorowanie działalności centrów zarządzania kryzysowego;A;
+5531;Monitorowanie działalności centrów zarządzania kryzysowego;A;
+5532;Planowanie i prognozowanie działań w wypadku wystąpienia zagrożeń miejscowych oraz ich analizowanie ;A;
+5532;Planowanie i prognozowanie działań w wypadku wystąpienia zagrożeń miejscowych oraz ich analizowanie ;A;
+5533;Planowanie i organizowanie systemów ostrzegania ludności;A;
+5533;Planowanie i organizowanie systemów ostrzegania ludności;A;
+5534;Organizacja łączności alarmowej;BE10;
+5534;Organizacja łączności alarmowej;BE10;
+5535;Zapobieganie i reagowanie w sytuacjach nadzwyczajnych i kryzysowych;A;
+5535;Zapobieganie i reagowanie w sytuacjach nadzwyczajnych i kryzysowych;A;
+554;Ochrona przeciwpożarowa i przeciwpowodziowa;;
+5540;Programowanie i analizowanie działalności straży pożarnej;A;
+5540;Programowanie i analizowanie działalności straży pożarnej;A;
+5541;Popularyzacja ochrony przeciwpożarowej ;A;
+5541;Popularyzacja ochrony przeciwpożarowej ;A;
+5542;Szkolenie funkcjonariuszy straży pożarnej;BE10;
+5542;Szkolenie funkcjonariuszy straży pożarnej;BE10;
+5543;Wyposażenie w sprzęt służb przeciwpożarowych;B10;
+5543;Wyposażenie w sprzęt służb przeciwpożarowych;B10;
+5544;Planowanie zabezpieczenia gminy przed powodzią oraz analizowanie zagrożenia;A;
+5544;Planowanie zabezpieczenia gminy przed powodzią oraz analizowanie zagrożenia;A;
+5545;Akcje przeciwpowodziowe;BE10;
+5545;Akcje przeciwpowodziowe;BE10;
+555;Obrona cywilna;;
+5550;Plany obrony cywilnej ;A;
+5550;Plany obrony cywilnej ;A;
+5551;Opracowywanie i uzgadnianie planów działania w zakresie obrony cywilnej;A;
+5551;Opracowywanie i uzgadnianie planów działania w zakresie obrony cywilnej;A;
+5552;Organizacja formacji obronnych;A;
+5552;Organizacja formacji obronnych;A;
+5553;Ocena stanu przygotowań obrony cywilnej ;A;
+5553;Ocena stanu przygotowań obrony cywilnej ;A;
+5554;Organizacja ewakuacji ludności;B10;
+5554;Organizacja ewakuacji ludności;B10;
+5555;Zaopatrzenie ludności i zakładów pracy w sprzęt obronny;B10;
+5555;Zaopatrzenie ludności i zakładów pracy w sprzęt obronny;B10;
+5556;Baza służąca obronie cywilnej;B10;
+5556;Baza służąca obronie cywilnej;B10;
+5557;Popularyzacja obrony cywilnej oraz szkolenia w tym zakresie;A;
+5557;Popularyzacja obrony cywilnej oraz szkolenia w tym zakresie;A;
+556;Sprawy obronne;;
+5560;Planowanie w zakresie spraw obronnych;A;
+5560;Planowanie w zakresie spraw obronnych;A;
+5561;Organizowanie systemu kierowania obronnością;B10;
+5561;Organizowanie systemu kierowania obronnością;B10;
+5562;Przygotowanie publicznej i niepublicznej służby zdrowia na potrzeby obronne państwa;B10;
+5562;Przygotowanie publicznej i niepublicznej służby zdrowia na potrzeby obronne państwa;B10;
+5563;Przygotowanie obiektów i dróg o znaczeniu obronnym na potrzeby obronne państwa;B10;
+5563;Przygotowanie obiektów i dróg o znaczeniu obronnym na potrzeby obronne państwa;B10;
+5564;Organizacja jednostek zmilitaryzowanych;B10;
+5564;Organizacja jednostek zmilitaryzowanych;B10;
+5565;Nakładanie obowiązku świadczeń osobistych na rzecz obronności i ich wykonywanie;B10;
+5565;Nakładanie obowiązku świadczeń osobistych na rzecz obronności i ich wykonywanie;B10;
+5566;Przeznaczanie nieruchomości i rzeczy ruchomych na cele świadczeń na rzecz obronności oraz wykonywanie tych świadczeń;B10;
+5566;Przeznaczanie nieruchomości i rzeczy ruchomych na cele świadczeń na rzecz obronności oraz wykonywanie tych świadczeń;B10;
+5567;Odszkodowania za utratę lub uszkodzenie oraz za szkody wynikłe z utrzymania przedmiotów świadczeń rzeczowych;B10;
+5567;Odszkodowania za utratę lub uszkodzenie oraz za szkody wynikłe z utrzymania przedmiotów świadczeń rzeczowych;B10;
+5568;Realizacja zadań na rzecz wojsk sojuszniczych wynikających z obowiązków państwa-gospodarza (HNS);B10;
+5568;Realizacja zadań na rzecz wojsk sojuszniczych wynikających z obowiązków państwa-gospodarza (HNS);B10;
+557;Sprawy wojskowe oraz z zakresu kwalifikacji wojskowej;;
+5570;Organizacja kwalifikacji wojskowej;B10;
+5570;Organizacja kwalifikacji wojskowej;B10;
+5571;Działalność komisji kwalifikacyjnej;B10;
+5571;Działalność komisji kwalifikacyjnej;B10;
+5572;Orzekanie w sprawach wojskowych;B10;
+5572;Orzekanie w sprawach wojskowych;B10;
+5573;Reklamowanie osób od obowiązku pełnienia czynnej służby wojskowej w czasie ogłoszenia mobilizacji i czasie wojny;B10;
+5573;Reklamowanie osób od obowiązku pełnienia czynnej służby wojskowej w czasie ogłoszenia mobilizacji i czasie wojny;B10;
+6;KSZTAŁTOWANIE I OCHRONA ŚRODOWISKA, GOSPODAROWANIE ZASOBAMI PRZYRODY I ZIEMI, GEODEZJA I KARTOGRAFIA ORAZ PLANOWANIE PRZESTRZENNE, BUDOWNICTWO I GOSPODAROWANIE NIERUCHOMOŚCIAMI;;
+60;Kształtowanie i ochrona środowiska;;
+600;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące kształtowania i ochrony środowiska;A;
+600;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące kształtowania i ochrony środowiska;A;
+601;Ustalanie i opiniowanie polityki ekologicznej;A;
+601;Ustalanie i opiniowanie polityki ekologicznej;A;
+602;Programy, projekty, analizy z zakresu ochrony środowiska;A;
+602;Programy, projekty, analizy z zakresu ochrony środowiska;A;
+603;Monitoring w zakresie ochrony środowiska;A;
+603;Monitoring w zakresie ochrony środowiska;A;
+604;Informacje o środowisku i jego ochronie;BE10;
+604;Informacje o środowisku i jego ochronie;BE10;
+605;Kształtowanie postaw proekologicznych;BE10;
+605;Kształtowanie postaw proekologicznych;BE10;
+606;Wnioskowanie o ściganie za wykroczenia określone w przepisach prawa dotyczących ochrony przyrody i środowiska ;BE10;
+606;Wnioskowanie o ściganie za wykroczenia określone w przepisach prawa dotyczących ochrony przyrody i środowiska ;BE10;
+61;Gospodarowanie zasobami przyrody;;
+610;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące gospodarowania zasobami przyrody;A;
+610;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące gospodarowania zasobami przyrody;A;
+611;Programy, projekty, analizy z zakresu gospodarowania zasobami przyrody;A;
+611;Programy, projekty, analizy z zakresu gospodarowania zasobami przyrody;A;
+612;Ochrona przyrody, gruntów rolnych i leśnych;;
+6120;Ustanawianie form ochrony przyrody;A;
+6120;Ustanawianie form ochrony przyrody;A;
+6121;Utrzymywanie form ochrony przyrody;B5;
+6121;Utrzymywanie form ochrony przyrody;B5;
+6122;Ochrona gatunkowa roślin i zwierząt;BE5;
+6122;Ochrona gatunkowa roślin i zwierząt;BE5;
+6123;Zwierzęta i rośliny podlegające ograniczeniom przewozowym;BE10;w tym rejestr i wydawanie zaświadczeń
+6123;Zwierzęta i rośliny podlegające ograniczeniom przewozowym;BE10;w tym rejestr i wydawanie zaświadczeń
+6124;Rekultywacja gruntów rolnych;BE10;
+6124;Rekultywacja gruntów rolnych;BE10;
+6125;Przeznaczanie gruntów rolnych i leśnych na cele nierolnicze i nieleśne;BE10;
+6125;Przeznaczanie gruntów rolnych i leśnych na cele nierolnicze i nieleśne;BE10;
+613;Ochrona roślin, zieleni i zadrzewień;;
+6130;Ustanawianie i ochrona zieleni, zadrzewień, parków gminnych;A;
+6130;Ustanawianie i ochrona zieleni, zadrzewień, parków gminnych;A;
+6131;Zezwalanie na usuwanie drzew i krzewów;B5;
+6131;Zezwalanie na usuwanie drzew i krzewów;B5;
+6132;Nakładanie kar za zniszczenie, usuwanie, niewłaściwą pielęgnację terenów zieleni, drzew, krzewów;B5;
+6132;Nakładanie kar za zniszczenie, usuwanie, niewłaściwą pielęgnację terenów zieleni, drzew, krzewów;B5;
+614;Ochrona zwierząt i ochrona weterynaryjna;;
+6140;Ochrona zwierząt gospodarskich i domowych;BE5;między innymi informacje o zasadach hodowli zwierzątzapobieganie bezdomności, rejestr psów agresywnych, odbieranie zwierząt właścicielom
+6140;Ochrona zwierząt gospodarskich i domowych;BE5;między innymi informacje o zasadach hodowli zwierzątzapobieganie bezdomności, rejestr psów agresywnych, odbieranie zwierząt właścicielom
+6141;Informacje o posiadaczach i hodowcach zwierząt podlegających ochronie;BE5;między innymi rejestr posiadaczy, wnioski o wpis do rejestru, zaświadczenia o wpisie
+6141;Informacje o posiadaczach i hodowcach zwierząt podlegających ochronie;BE5;między innymi rejestr posiadaczy, wnioski o wpis do rejestru, zaświadczenia o wpisie
+6142;Zwalczanie zakaźnych chorób zwierzęcych;BE5;
+6142;Zwalczanie zakaźnych chorób zwierzęcych;BE5;
+6143;Profilaktyka weterynaryjna i upowszechnianie higieny pozyskiwania produktów zwierzęcych;BE5;
+6143;Profilaktyka weterynaryjna i upowszechnianie higieny pozyskiwania produktów zwierzęcych;BE5;
+615;Gospodarka łowiecka;;
+6150;Administrowanie łowiectwem;BE10;między innymi ustalanie obwodów łowieckich, dzierżawa obwodów łowieckich, odstrzał redukcyjny zwierząt, nadzór nad pogotowiami dla zwierząt dziko żyjących
+6150;Administrowanie łowiectwem;BE10;między innymi ustalanie obwodów łowieckich, dzierżawa obwodów łowieckich, odstrzał redukcyjny zwierząt, nadzór nad pogotowiami dla zwierząt dziko żyjących
+6151;Plany łowieckie;BE5;między innymi opiniowanie planów łowieckich
+6151;Plany łowieckie;BE5;między innymi opiniowanie planów łowieckich
+6152;Zezwalanie na hodowlę chartów rasowych i ich mieszańców;BE5;zadanie tylko powiatu
+6152;Zezwalanie na hodowlę chartów rasowych i ich mieszańców;BE5;zadanie tylko powiatu
+616;Ochrona lasów i gospodarka leśna w lasach niestanowiących własności Skarbu Państwa;;
+6160;Powierzanie realizacji zadań z zakresu gospodarki leśnej;A;zadanie tylko powiatu
+6160;Powierzanie realizacji zadań z zakresu gospodarki leśnej;A;zadanie tylko powiatu
+6161;Roczne limity zalesienia;A;uzgodnienia z powiatem
+6161;Roczne limity zalesienia;A;uzgodnienia z powiatem
+6162;Uproszczone plany urządzenia lasów oraz inwentaryzacja stanu lasów;A;zadanie tylko powiatu
+6162;Uproszczone plany urządzenia lasów oraz inwentaryzacja stanu lasów;A;zadanie tylko powiatu
+6163;Kontrola realizacji zadań z zakresu gospodarki leśnej;BE10;zadanie tylko powiatu
+6163;Kontrola realizacji zadań z zakresu gospodarki leśnej;BE10;zadanie tylko powiatu
+6164;Realizacja zadań z zakresu gospodarki leśnej;BE10;zadanie tylko powiatu między innymi przyznawanie dotacji
+6164;Realizacja zadań z zakresu gospodarki leśnej;BE10;zadanie tylko powiatu między innymi przyznawanie dotacji
+617;Rybactwo śródlądowe;;
+6170;Śródlądowe obwody rybackie;A;zadanie tylko powiatu
+6170;Śródlądowe obwody rybackie;A;zadanie tylko powiatu
+6171;Nadzór nad śródlądową gospodarką rybacką;BE5;zadanie tylko powiatu
+6171;Nadzór nad śródlądową gospodarką rybacką;BE5;zadanie tylko powiatu
+6172;Wydawanie kart wędkarskich i kart łowiectwa podwodnego;B5;zadanie tylko powiatu
+6172;Wydawanie kart wędkarskich i kart łowiectwa podwodnego;B5;zadanie tylko powiatu
+6173;Rejestracja sprzętu pływackiego służącego do połowu ryb;B5;zadanie tylko powiatu
+6173;Rejestracja sprzętu pływackiego służącego do połowu ryb;B5;zadanie tylko powiatu
+6174;Zezwalanie na przegradzanie sieciowymi rybackimi narzędziami połowowymi wód płynących;B5;zadanie tylko powiatu
+6174;Zezwalanie na przegradzanie sieciowymi rybackimi narzędziami połowowymi wód płynących;B5;zadanie tylko powiatu
+6175;Zezwalanie na ustawianie sieciowych rybackich narzędzi połowowych na wodach śródlądowych;B5;zadanie tylko powiatu
+6175;Zezwalanie na ustawianie sieciowych rybackich narzędzi połowowych na wodach śródlądowych;B5;zadanie tylko powiatu
+618;Produkcja roślinna;;
+6180;Zezwalanie na uprawę maku i konopi;BE5;
+6180;Zezwalanie na uprawę maku i konopi;BE5;
+6181;Ochrona roślin uprawnych przed chorobami i szkodnikami;BE5;
+6181;Ochrona roślin uprawnych przed chorobami i szkodnikami;BE5;
+6182;Nakazy wykonania określonych czynności i zabiegów w zakresie ochron roślin;BE5;
+6182;Nakazy wykonania określonych czynności i zabiegów w zakresie ochron roślin;BE5;
+62;Wprowadzanie do środowiska substancji lub energii, gospodarowanie odpadami oraz ochrona przed hałasem;;
+620;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące wprowadzania do środowiska substancji lub energii, gospodarowania odpadami oraz ochrony przed hałasem;A;
+620;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące wprowadzania do środowiska substancji lub energii, gospodarowania odpadami oraz ochrony przed hałasem;A;
+621;Programy, projekty, analizy z zakresu wprowadzania do środowiska substancji lub energii, gospodarowania odpadami oraz ochrony przed hałasem;A;
+621;Programy, projekty, analizy z zakresu wprowadzania do środowiska substancji lub energii, gospodarowania odpadami oraz ochrony przed hałasem;A;
+622;Wprowadzanie substancji lub energii do środowiska;;
+6220;Ustalanie wpływu realizacji inwestycji na środowisko;BE10;między innymi decyzje o środowiskowych uwarunkowaniach realizacji inwestycji, opiniowanie przedsięwzięć w zakresie wpływu na środowisko
+6220;Ustalanie wpływu realizacji inwestycji na środowisko;BE10;między innymi decyzje o środowiskowych uwarunkowaniach realizacji inwestycji, opiniowanie przedsięwzięć w zakresie wpływu na środowisko
+6221;Pozwalanie na wprowadzanie do środowiska substancji lub energii;BE10;między innymi wydanie, cofanie, ograniczanie, wygasanie pozwoleń
+6221;Pozwalanie na wprowadzanie do środowiska substancji lub energii;BE10;między innymi wydanie, cofanie, ograniczanie, wygasanie pozwoleń
+6222;Zgłaszanie eksploatacji instalacji, których użytkowanie nie wymaga pozwolenia;BE5;
+6222;Zgłaszanie eksploatacji instalacji, których użytkowanie nie wymaga pozwolenia;BE5;
+6223;Pozwolenia zintegrowane w zakresie wprowadzania substancji lub energii do środowiska;BE10;
+6223;Pozwolenia zintegrowane w zakresie wprowadzania substancji lub energii do środowiska;BE10;
+6224;Pomiary wielkości emisji zanieczyszczeń powietrza;BE5;między innymi informacje o pomiarach w skali województwa, informacje o pomiarach prowadzonych przez zobowiązane podmioty, monitorowanie pomiarów
+6224;Pomiary wielkości emisji zanieczyszczeń powietrza;BE5;między innymi informacje o pomiarach w skali województwa, informacje o pomiarach prowadzonych przez zobowiązane podmioty, monitorowanie pomiarów
+6225;Pozwolenia na wprowadzanie gazów i pyłów do powietrza;BE10;
+6225;Pozwolenia na wprowadzanie gazów i pyłów do powietrza;BE10;
+6226;Wydawanie opinii w zakresie ochrony przed substancjami lub polami elektromagnetycznymi;BE5;
+6226;Wydawanie opinii w zakresie ochrony przed substancjami lub polami elektromagnetycznymi;BE5;
+6227;Uczestnictwo w systemie handlu uprawnieniami do emisji i monitorowanie wielkości emisji;BE10;między innymi zezwolenia, monitorowanie
+6227;Uczestnictwo w systemie handlu uprawnieniami do emisji i monitorowanie wielkości emisji;BE10;między innymi zezwolenia, monitorowanie
+6228;Bilanse źródeł szkodliwego zanieczyszczenia powietrza;A;
+6228;Bilanse źródeł szkodliwego zanieczyszczenia powietrza;A;
+623;Gospodarka odpadami;;
+6230;Zatwierdzanie programów gospodarki odpadami niebezpiecznymi;BE10;w tym także wstrzymywanie działalności w zakresie gospodarowania odpadami niebezpiecznymi
+6230;Zatwierdzanie programów gospodarki odpadami niebezpiecznymi;BE10;w tym także wstrzymywanie działalności w zakresie gospodarowania odpadami niebezpiecznymi
+6231;Informacje o poważnych awariach;BE10;
+6231;Informacje o poważnych awariach;BE10;
+6232;Informacje o wytwarzaniu odpadów oraz sposobach gospodarowania odpadami;BE5;między innymi zatwierdzanie informacji
+6232;Informacje o wytwarzaniu odpadów oraz sposobach gospodarowania odpadami;BE5;między innymi zatwierdzanie informacji
+6233;Zezwalanie na prowadzenie odzyskiwania, unieszkodliwiania, zbierania lub transportu odpadów;B5;
+6233;Zezwalanie na prowadzenie odzyskiwania, unieszkodliwiania, zbierania lub transportu odpadów;B5;
+6234;Opiniowanie wniosków o wydanie zezwoleń na prowadzenie odzyskiwania lub unieszkodliwiania odpadów;B5;opinie dla innych organów
+6234;Opiniowanie wniosków o wydanie zezwoleń na prowadzenie odzyskiwania lub unieszkodliwiania odpadów;B5;opinie dla innych organów
+6235;Zgłaszanie posiadania oraz prowadzenia transportu odpadów;B5;wraz z rejestrem
+6235;Zgłaszanie posiadania oraz prowadzenia transportu odpadów;B5;wraz z rejestrem
+6236;Nakazy usunięcia odpadów z miejsc nieprzeznaczonych do ich składowania lub magazynowania;BE5;
+6236;Nakazy usunięcia odpadów z miejsc nieprzeznaczonych do ich składowania lub magazynowania;BE5;
+6237;Zezwolenia na międzynarodowe przemieszczanie odpadów oraz zezwolenia wstępne na prowadzenie instalacji, w której prowadzone są procesy odzysku;BE5;tj. zezwolenia otrzymywane do wiadomości
+6237;Zezwolenia na międzynarodowe przemieszczanie odpadów oraz zezwolenia wstępne na prowadzenie instalacji, w której prowadzone są procesy odzysku;BE5;tj. zezwolenia otrzymywane do wiadomości
+624;Opłaty za gospodarcze korzystanie ze środowiska;B10;
+624;Opłaty za gospodarcze korzystanie ze środowiska;B10;
+625;Ochrona przed hałasem;;
+6250;Mapy akustyczne;A;
+6250;Mapy akustyczne;A;
+6251;Decydowanie o dopuszczalnym poziomie hałasu, w tym pozwolenia na emitowanie hałasu do środowiska;BE10;między innymi wydawane w odpowiedzi na interwencje mieszkańców
+6251;Decydowanie o dopuszczalnym poziomie hałasu, w tym pozwolenia na emitowanie hałasu do środowiska;BE10;między innymi wydawane w odpowiedzi na interwencje mieszkańców
+6252;Zgłaszanie instalacji emitujących hałas, których eksploatacja nie wymaga pozwolenia;BE5;
+6252;Zgłaszanie instalacji emitujących hałas, których eksploatacja nie wymaga pozwolenia;BE5;
+6253;Pomiary emisji hałasu;BE5;
+6253;Pomiary emisji hałasu;BE5;
+6254;Wydawanie opinii w zakresie ochrony przed hałasem;BE5;
+6254;Wydawanie opinii w zakresie ochrony przed hałasem;BE5;
+63;Ochrona wód i gospodarowanie wodami;;
+630;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące ochrony wód i gospodarowania wodami;A;
+630;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące ochrony wód i gospodarowania wodami;A;
+631;Programy, projekty, analizy z zakresu ochrony wód i gospodarowania wodami;A;
+631;Programy, projekty, analizy z zakresu ochrony wód i gospodarowania wodami;A;
+632;Ochrona wód oraz ochrona przed powodzią i suszą;;
+6320;Ustalanie stref ochronnych ujęć wody;BE10;
+6320;Ustalanie stref ochronnych ujęć wody;BE10;
+6321;Studium ochrony przeciwpowodziowej;A;w tym opinie
+6321;Studium ochrony przeciwpowodziowej;A;w tym opinie
+6322;Odszkodowania w związku z zalaniem gruntów podczas powodzi;BE10;
+6322;Odszkodowania w związku z zalaniem gruntów podczas powodzi;BE10;
+6323;Nakazy usunięcia drzew i krzewów;BE10;zadanie tylko powiatu między innymi z terenów wałów przeciwpowodziowych
+6323;Nakazy usunięcia drzew i krzewów;BE10;zadanie tylko powiatu między innymi z terenów wałów przeciwpowodziowych
+6324;Przeciwdziałanie zanieczyszczeniom wód;B5;
+6324;Przeciwdziałanie zanieczyszczeniom wód;B5;
+633;Prawo własności wód;;
+6330;Ustalanie linii brzegu;BE10;zadanie tylko powiatu
+6330;Ustalanie linii brzegu;BE10;zadanie tylko powiatu
+6331;Naruszenie stanu wody na gruncie;B5;
+6331;Naruszenie stanu wody na gruncie;B5;
+6332;Użytkowanie gruntów pokrytych wodami;BE10;
+6332;Użytkowanie gruntów pokrytych wodami;BE10;
+634;Zarządzanie zasobami wodnymi;;
+6340;Ustalanie stref ochronnych urządzeń pomiarowych państwowej sieci hydrologiczno-meteorologicznej;BE10;zadanie tylko powiatu
+6340;Ustalanie stref ochronnych urządzeń pomiarowych państwowej sieci hydrologiczno-meteorologicznej;BE10;zadanie tylko powiatu
+6341;Pozwolenia wodnoprawne;BE10;zadanie tylko powiatu
+6341;Pozwolenia wodnoprawne;BE10;zadanie tylko powiatu
+6342;Zgłaszanie instalacji wodnych, których eksploatacja nie wymaga pozwolenia;BE5;
+6342;Zgłaszanie instalacji wodnych, których eksploatacja nie wymaga pozwolenia;BE5;
+6343;Spółki wodne;BE10;zadanie tylko powiatu
+6343;Spółki wodne;BE10;zadanie tylko powiatu
+6344;Ewidencjonowanie kąpielisk;A;
+6344;Ewidencjonowanie kąpielisk;A;
+64;Ochrona powierzchni ziemi;;zadanie tylko powiatu
+64;Ochrona powierzchni ziemi;;zadanie tylko powiatu
+640;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące ochrony powierzchni ziemi;A;zadanie tylko powiatu
+640;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące ochrony powierzchni ziemi;A;zadanie tylko powiatu
+641;Programy, projekty, analizy z zakresu ochrony powierzchni ziemi;A;zadanie tylko powiatu
+641;Programy, projekty, analizy z zakresu ochrony powierzchni ziemi;A;zadanie tylko powiatu
+642;Badanie jakości gleby i ziemi;BE10;zadanie tylko powiatu
+642;Badanie jakości gleby i ziemi;BE10;zadanie tylko powiatu
+643;Obserwacje terenów zagrożonych ruchami masowymi ziemi oraz terenów, na których występują te ruchy;A;zadanie tylko powiatu
+643;Obserwacje terenów zagrożonych ruchami masowymi ziemi oraz terenów, na których występują te ruchy;A;zadanie tylko powiatu
+644;Uzgodnienia w odniesieniu do terenów zagrożonych osuwaniem się mas ziemnych;BE10;zadanie tylko powiatu
+644;Uzgodnienia w odniesieniu do terenów zagrożonych osuwaniem się mas ziemnych;BE10;zadanie tylko powiatu
+645;Wydawanie opinii w zakresie ochrony powierzchni ziemi;BE5;zadanie tylko powiatu
+645;Wydawanie opinii w zakresie ochrony powierzchni ziemi;BE5;zadanie tylko powiatu
+65;Gospodarowanie złożami i kopalinami;;
+650;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące gospodarowania złożami i kopalinami;A;
+650;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące gospodarowania złożami i kopalinami;A;
+651;Programy, projekty, analizy z zakresu gospodarowania złożami i kopalinami;A;
+651;Programy, projekty, analizy z zakresu gospodarowania złożami i kopalinami;A;
+652;Geologia surowcowa;;
+6520;Ewidencja złóż kopalin;A;
+6520;Ewidencja złóż kopalin;A;
+6521;Inwentaryzacja i bilanse zasobów złóż kopalin;A;
+6521;Inwentaryzacja i bilanse zasobów złóż kopalin;A;
+6522;Przyznawanie koncesji na poszukiwanie, rozpoznawanie i wydobywanie kopalin pospolitych;BE10;zadanie tylko powiatu
+6522;Przyznawanie koncesji na poszukiwanie, rozpoznawanie i wydobywanie kopalin pospolitych;BE10;zadanie tylko powiatu
+6523;Opiniowanie koncesji na poszukiwanie, rozpoznawanie i wydobywanie kopalin pospolitych;BE5;
+6523;Opiniowanie koncesji na poszukiwanie, rozpoznawanie i wydobywanie kopalin pospolitych;BE5;
+6524;Opiniowanie planów ruchu zakładu górniczego;A;
+6524;Opiniowanie planów ruchu zakładu górniczego;A;
+6525;Analizy wykonawstwa prac w zakresie geologii surowcowej;BE5;
+6525;Analizy wykonawstwa prac w zakresie geologii surowcowej;BE5;
+6526;Zatwierdzanie kryteriów bilansowości złóż;BE5;
+6526;Zatwierdzanie kryteriów bilansowości złóż;BE5;
+6527;Zatwierdzanie projektu zagospodarowania złoża;BE5;
+6527;Zatwierdzanie projektu zagospodarowania złoża;BE5;
+6528;Przyjmowanie dokumentacji ustalającej zasoby złóż kopalin pospolitych;BE5;
+6528;Przyjmowanie dokumentacji ustalającej zasoby złóż kopalin pospolitych;BE5;
+653;Hydrogeologia;;
+6530;Zatwierdzanie projektów prac hydrogeologicznych;BE5;
+6530;Zatwierdzanie projektów prac hydrogeologicznych;BE5;
+6531;Przyjmowanie dokumentacji hydrogeologicznych;BE5;
+6531;Przyjmowanie dokumentacji hydrogeologicznych;BE5;
+654;Geologia inżynierska;;
+6540;Zatwierdzanie projektów prac geologiczno-inżynierskich;BE5;
+6540;Zatwierdzanie projektów prac geologiczno-inżynierskich;BE5;
+6541;Przyjmowanie dokumentacji geologiczno-inżynierskiej;BE5;
+6541;Przyjmowanie dokumentacji geologiczno-inżynierskiej;BE5;
+655;Inne prace geologiczne;BE10;
+655;Inne prace geologiczne;BE10;
+656;Szkody górnicze;;
+6560;Analizy i informacje dotyczące występowania szkód górniczych;A;
+6560;Analizy i informacje dotyczące występowania szkód górniczych;A;
+6561;Programy, plany, sprawozdania w zakresie usuwania szkód górniczych;A;
+6561;Programy, plany, sprawozdania w zakresie usuwania szkód górniczych;A;
+6562;Koordynacja zamierzeń i współpraca z innymi instytucjami w zakresie zapobiegania i likwidacji szkód;BE10;zadanie tylko powiatu
+6562;Koordynacja zamierzeń i współpraca z innymi instytucjami w zakresie zapobiegania i likwidacji szkód;BE10;zadanie tylko powiatu
+6563;Orzekanie w sprawie szkód górniczych;BE10;
+6563;Orzekanie w sprawie szkód górniczych;BE10;
+6564;Ewidencja budynków mieszkalnych zakwalifikowanych do rozbiórki na skutek szkód górniczych;A;
+6564;Ewidencja budynków mieszkalnych zakwalifikowanych do rozbiórki na skutek szkód górniczych;A;
+6565;Przeglądy okresowe budynków przeznaczonych do rozbiórki na skutek szkód;BE5;
+6565;Przeglądy okresowe budynków przeznaczonych do rozbiórki na skutek szkód;BE5;
+657;Nadzór nad robotami geologicznymi;;
+6570;Nadzór i kontrola nad prowadzeniem badań i sporządzaniem dokumentacji geologicznej;BE10;
+6570;Nadzór i kontrola nad prowadzeniem badań i sporządzaniem dokumentacji geologicznej;BE10;
+6571;Orzecznictwo w sprawach szkód powstałych w związku z robotami geologicznymi;BE10;
+6571;Orzecznictwo w sprawach szkód powstałych w związku z robotami geologicznymi;BE10;
+6572;Zezwolenia na prowadzenie prac geologicznych;BE5;
+6572;Zezwolenia na prowadzenie prac geologicznych;BE5;
+6573;Kontrola realizacji planów prac geologicznych;BE10;
+6573;Kontrola realizacji planów prac geologicznych;BE10;
+658;Informacja geologiczna i zawiadomienia;;
+6580;Informacja geologiczna;BE5;
+6580;Informacja geologiczna;BE5;
+6581;Zawiadomienia o odkryciu kopalnych roślin lub zwierząt;A;
+6581;Zawiadomienia o odkryciu kopalnych roślin lub zwierząt;A;
+66;Geodezja i kartografia;;zadanie tylko powiatu klasyfikacja i kwalifikacja dokumentacji z państwowego zasobu geodezyjnego i kartograficznego wynika z odrębnych przepisów
+66;Geodezja i kartografia;;zadanie tylko powiatu klasyfikacja i kwalifikacja dokumentacji z państwowego zasobu geodezyjnego i kartograficznego wynika z odrębnych przepisów
+660;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące geodezji i kartografii;A;zadanie tylko powiatu
+660;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące geodezji i kartografii;A;zadanie tylko powiatu
+661;Programy, projekty, analizy z zakresu geodezji i kartografii;A;zadanie tylko powiatu
+661;Programy, projekty, analizy z zakresu geodezji i kartografii;A;zadanie tylko powiatu
+662;Ewidencjonowanie gruntów i budynków;;zadanie tylko powiatu
+662;Ewidencjonowanie gruntów i budynków;;zadanie tylko powiatu
+6620;Obsługa ewidencji gruntów i budynków;BE10;zadanie tylko powiatu
+6620;Obsługa ewidencji gruntów i budynków;BE10;zadanie tylko powiatu
+6621;Informacje, wypisy oraz wyrysy z operatu ewidencyjnego;B5;zadanie tylko powiatu
+6621;Informacje, wypisy oraz wyrysy z operatu ewidencyjnego;B5;zadanie tylko powiatu
+6622;Zmiana formy użytkowania gruntów;BE10;zadanie tylko powiatu
+6622;Zmiana formy użytkowania gruntów;BE10;zadanie tylko powiatu
+6623;Aktualizacja użytków gruntowych;BE10;zadanie tylko powiatu
+6623;Aktualizacja użytków gruntowych;BE10;zadanie tylko powiatu
+6624;Numeracja porządkowa nieruchomości;A;
+6624;Numeracja porządkowa nieruchomości;A;
+6625;Nazewnictwo placów i ulic;A;
+6625;Nazewnictwo placów i ulic;A;
+663;Sieć uzbrojenia terenu;;zadanie tylko powiatu
+663;Sieć uzbrojenia terenu;;zadanie tylko powiatu
+6630;Koordynacja usytuowania projektowanych sieci uzbrojenia terenu;BE10;zadanie tylko powiatu
+6630;Koordynacja usytuowania projektowanych sieci uzbrojenia terenu;BE10;zadanie tylko powiatu
+6631;Nadzór nad prowadzeniem prac związanych z siecią uzbrojenia terenu;BE5;zadanie tylko powiatu
+6631;Nadzór nad prowadzeniem prac związanych z siecią uzbrojenia terenu;BE5;zadanie tylko powiatu
+664;Państwowy zasób geodezyjny i kartograficzny;;
+6640;Obsługa państwowego zasobu geodezyjnego i kartograficznego;BE10;zadanie tylko powiatu
+6640;Obsługa państwowego zasobu geodezyjnego i kartograficznego;BE10;zadanie tylko powiatu
+6641;Nadzór nad pracami geodezyjnymi i kartograficznymi oraz zlecanie prowadzenia prac geodezyjnych i kartograficznych;B5;zadanie tylko powiatu
+6641;Nadzór nad pracami geodezyjnymi i kartograficznymi oraz zlecanie prowadzenia prac geodezyjnych i kartograficznych;B5;zadanie tylko powiatu
+6642;Udostępnianie państwowego zasobu geodezyjno-kartograficznego;B5;zadanie tylko powiatu
+6642;Udostępnianie państwowego zasobu geodezyjno-kartograficznego;B5;zadanie tylko powiatu
+6643;Ochrona znaków geodezyjnych, grawimetrycznych i magnetycznych;B5;zadanie tylko powiatu
+6643;Ochrona znaków geodezyjnych, grawimetrycznych i magnetycznych;B5;zadanie tylko powiatu
+67;Planowanie i zagospodarowanie przestrzenne oraz sprawy budownictwa;;
+670;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące planowania i zagospodarowania przestrzennego oraz spraw budownictwa;A;
+670;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące planowania i zagospodarowania przestrzennego oraz spraw budownictwa;A;
+671;Programy, projekty, analizy z zakresu planowania i zagospodarowania przestrzennego oraz spraw budownictwa;A;
+671;Programy, projekty, analizy z zakresu planowania i zagospodarowania przestrzennego oraz spraw budownictwa;A;
+672;Planowanie i zagospodarowanie przestrzenne;;
+6720;Studium uwarunkowań i kierunków zagospodarowania przestrzennego;A;
+6720;Studium uwarunkowań i kierunków zagospodarowania przestrzennego;A;
+6721;Ustalanie miejscowego planu zagospodarowania przestrzennego;A;
+6721;Ustalanie miejscowego planu zagospodarowania przestrzennego;A;
+6722;Miejscowy plan zagospodarowania przestrzennego;A;wraz ze skargami na ustalenia planu, rozstrzygnięciami
+6722;Miejscowy plan zagospodarowania przestrzennego;A;wraz ze skargami na ustalenia planu, rozstrzygnięciami
+6723;Nadzór nad realizacją ustaleń planów zagospodarowania przestrzennego;BE10;
+6723;Nadzór nad realizacją ustaleń planów zagospodarowania przestrzennego;BE10;
+6724;Przeznaczenie terenów w miejscowym planie zagospodarowania przestrzennego;B5;w tym informacje, zawiadomienia, opinie, w tym opiniowanie projektów prac na przykład geologicznych, wstępnych projektów podziałów nieruchomości, zaświadczenia o zgodności projektu albo sposobu użytkowania (budynku) z miejscowym planem zagospodarowania przestrzennego, wnioski o zmianę przeznaczenie terenu
+6724;Przeznaczenie terenów w miejscowym planie zagospodarowania przestrzennego;B5;w tym informacje, zawiadomienia, opinie, w tym opiniowanie projektów prac na przykład geologicznych, wstępnych projektów podziałów nieruchomości, zaświadczenia o zgodności projektu albo sposobu użytkowania (budynku) z miejscowym planem zagospodarowania przestrzennego, wnioski o zmianę przeznaczenie terenu
+6725;Roszczenia w związku ze zmianą wartości nieruchomości w miejscowym planie zagospodarowania przestrzennego;BE10;w tym opłaty z tytułu wzrostu wartości nieruchomości, roszczenia odszkodowawcze w związku z uchwaleniem albo zmianą planu zagospodarowania przestrzennego
+6725;Roszczenia w związku ze zmianą wartości nieruchomości w miejscowym planie zagospodarowania przestrzennego;BE10;w tym opłaty z tytułu wzrostu wartości nieruchomości, roszczenia odszkodowawcze w związku z uchwaleniem albo zmianą planu zagospodarowania przestrzennego
+6726;Okresowe oceny skutków zmian w zagospodarowaniu przestrzennym wynikających z realizacji planu miejscowego;A;
+6726;Okresowe oceny skutków zmian w zagospodarowaniu przestrzennym wynikających z realizacji planu miejscowego;A;
+6727;Wydawanie wypisów, wyrysów, zaświadczeń, itp. w zakresie planowania i zagospodarowania przestrzennego;B5;
+6727;Wydawanie wypisów, wyrysów, zaświadczeń, itp. w zakresie planowania i zagospodarowania przestrzennego;B5;
+673;Lokalizacja inwestycji;;
+6730;Ustalanie warunków zabudowy i zagospodarowania terenu ;A;w tym decyzje, opiniowanie decyzji, a także przenoszenie decyzji o warunkach zabudowy i zagospodarowania terenu na rzecz innego podmiotu
+6730;Ustalanie warunków zabudowy i zagospodarowania terenu ;A;w tym decyzje, opiniowanie decyzji, a także przenoszenie decyzji o warunkach zabudowy i zagospodarowania terenu na rzecz innego podmiotu
+6731;Wstrzymywanie użytkowania terenu oraz przywracanie poprzedniego sposobu zagospodarowania;A;
+6731;Wstrzymywanie użytkowania terenu oraz przywracanie poprzedniego sposobu zagospodarowania;A;
+6732;Stwierdzanie wygaśnięcia decyzji o warunkach zabudowy i zagospodarowania terenu;B5;
+6732;Stwierdzanie wygaśnięcia decyzji o warunkach zabudowy i zagospodarowania terenu;B5;
+6733;Ustalanie lokalizacji inwestycji celu publicznego;A;w tym decyzje, opiniowanie decyzji
+6733;Ustalanie lokalizacji inwestycji celu publicznego;A;w tym decyzje, opiniowanie decyzji
+674;Budownictwo;;
+6740;Pozwolenia na budowę, przebudowę i rozbudowę obiektów budowlanych oraz zmiany sposobu użytkowania obiektów budowlanych lub ich części;BE10;przy czym okres przechowywania liczony jest zgodnie z ustawą - Prawo budowlanew tym zatwierdzanie projektu budowlanego,  pozwolenia na budowę, przebudowę i rozbudowę obiektów budowlanych, zmianę sposobu użytkowania obiektów budowlanych lub ich części, remonty obiektów budowlanych, przenoszenie pozwolenia na innego inwestora
+6740;Pozwolenia na budowę, przebudowę i rozbudowę obiektów budowlanych oraz zmiany sposobu użytkowania obiektów budowlanych lub ich części;BE10;przy czym okres przechowywania liczony jest zgodnie z ustawą - Prawo budowlanew tym zatwierdzanie projektu budowlanego,  pozwolenia na budowę, przebudowę i rozbudowę obiektów budowlanych, zmianę sposobu użytkowania obiektów budowlanych lub ich części, remonty obiektów budowlanych, przenoszenie pozwolenia na innego inwestora
+6741;Rozbiórka obiektów budowlanych;B10;w tym pozwolenia, decyzje
+6741;Rozbiórka obiektów budowlanych;B10;w tym pozwolenia, decyzje
+6742;Zezwolenia na wejście w teren sąsiedniej nieruchomości w celu wykonania niezbędnych robót budowlanych;B5;
+6742;Zezwolenia na wejście w teren sąsiedniej nieruchomości w celu wykonania niezbędnych robót budowlanych;B5;
+6743;Zgłaszanie zamiaru przystąpienia do wykonywania robót budowlanych, rozbiórki, zmiany sposobu użytkowania obiektu budowlanego lub jego części;B5;
+6743;Zgłaszanie zamiaru przystąpienia do wykonywania robót budowlanych, rozbiórki, zmiany sposobu użytkowania obiektu budowlanego lub jego części;B5;
+68;Gospodarowanie nieruchomościami;;
+680;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące gospodarowania nieruchomościami;A;
+680;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące gospodarowania nieruchomościami;A;
+681;Wiedza o nieruchomościach i jej aktualizacja;;
+6810;Ewidencja nieruchomości;A;
+6810;Ewidencja nieruchomości;A;
+6811;Inwentaryzowanie nieruchomości;A;
+6811;Inwentaryzowanie nieruchomości;A;
+6812;Oszacowanie wartości i wycena nieruchomości;A;
+6812;Oszacowanie wartości i wycena nieruchomości;A;
+682;Stan prawny nieruchomości;;
+6820;Przejmowanie nieruchomości na rzecz Skarbu Państwa;A;
+6820;Przejmowanie nieruchomości na rzecz Skarbu Państwa;A;
+6821;Wykonywanie, ograniczanie, pozbawianie praw do nieruchomości oraz zwrot nieruchomości;A;zadanie tylko powiatu
+6821;Wykonywanie, ograniczanie, pozbawianie praw do nieruchomości oraz zwrot nieruchomości;A;zadanie tylko powiatu
+6822;Przejmowanie nieruchomości na rzecz gminy;A;
+6822;Przejmowanie nieruchomości na rzecz gminy;A;
+6823;Zakup nieruchomości;A;
+6823;Zakup nieruchomości;A;
+6824;Zniesienie współwłasności nieruchomości;A;
+6824;Zniesienie współwłasności nieruchomości;A;
+6825;Komunalizacja mienia Skarbu Państwa;A;
+6825;Komunalizacja mienia Skarbu Państwa;A;
+6826;Przekształcanie prawa użytkowania wieczystego w prawo własności;A;
+6826;Przekształcanie prawa użytkowania wieczystego w prawo własności;A;
+683;Rozgraniczanie, scalanie i podział nieruchomości;;przy czym opłata adiacencka przy klasie 3134
+683;Rozgraniczanie, scalanie i podział nieruchomości;;przy czym opłata adiacencka przy klasie 3134
+6830;Rozgraniczanie nieruchomości;A;
+6830;Rozgraniczanie nieruchomości;A;
+6831;Podział nieruchomości;A;
+6831;Podział nieruchomości;A;
+6832;Scalanie nieruchomości;A;
+6832;Scalanie nieruchomości;A;
+6833;Odszkodowania za nieruchomości przejęte pod drogi publiczne;BE10;
+6833;Odszkodowania za nieruchomości przejęte pod drogi publiczne;BE10;
+684;Zarządzanie nieruchomościami;;
+6840;Sprzedaż nieruchomości;A;
+6840;Sprzedaż nieruchomości;A;
+6841;Oddawanie nieruchomości w użytkowanie wieczyste;A;
+6841;Oddawanie nieruchomości w użytkowanie wieczyste;A;
+6842;Rozwiązywanie i wygaszanie umów użytkowania wieczystego;BE5;
+6842;Rozwiązywanie i wygaszanie umów użytkowania wieczystego;BE5;
+6843;Opłaty za użytkowanie wieczyste;B5;
+6843;Opłaty za użytkowanie wieczyste;B5;
+6844;Oddawanie nieruchomości w trwały zarząd;BE10;
+6844;Oddawanie nieruchomości w trwały zarząd;BE10;
+6845;Przekazywanie nieruchomości do korzystania, w tym w dzierżawę lub najem;BE10;
+6845;Przekazywanie nieruchomości do korzystania, w tym w dzierżawę lub najem;BE10;
+6846;Przekazywanie nieruchomości na cele szczególne;BE10;
+6846;Przekazywanie nieruchomości na cele szczególne;BE10;
+6847;Służebności gruntowe;BE5;
+6847;Służebności gruntowe;BE5;
+685;Użyczenia nieruchomości;;
+6850;Użyczanie nieruchomości;BE5;
+6850;Użyczanie nieruchomości;BE5;
+6851;Udostępnianie nieruchomości pod lokalizację nośników reklamowych;B5;
+6851;Udostępnianie nieruchomości pod lokalizację nośników reklamowych;B5;
+6852;Zezwolenia na czasowe zajęcie nieruchomości;B5;
+6852;Zezwolenia na czasowe zajęcie nieruchomości;B5;
+6853;Zezwolenia na zakładanie, przeprowadzanie i wykonanie na nieruchomościach urządzeń technicznych;B10;
+6853;Zezwolenia na zakładanie, przeprowadzanie i wykonanie na nieruchomościach urządzeń technicznych;B10;
+686;Tereny pod budownictwo mieszkaniowe;;
+6860;Tworzenie zasobu gruntów na cele rozbudowy pod budownictwo mieszkaniowe;A;
+6860;Tworzenie zasobu gruntów na cele rozbudowy pod budownictwo mieszkaniowe;A;
+6861;Stan prawny terenów pod budownictwo mieszkaniowe;A;
+6861;Stan prawny terenów pod budownictwo mieszkaniowe;A;
+6862;Planowanie szczegółowe dla terenów pod budownictwo mieszkaniowe;A;
+6862;Planowanie szczegółowe dla terenów pod budownictwo mieszkaniowe;A;
+6863;Zarządzanie zasobem terenów na cele budownictwa mieszkaniowego;BE10;
+6863;Zarządzanie zasobem terenów na cele budownictwa mieszkaniowego;BE10;
+687;Nadzór nad zarządzaniem gruntami;;
+6870;Organizacja zarządzania gruntami;BE10;
+6870;Organizacja zarządzania gruntami;BE10;
+6871;Nadzór i kontrola zarządzania gruntami;BE10;
+6871;Nadzór i kontrola zarządzania gruntami;BE10;
+6872;Opiniowanie sposobu zarządzania gruntami;BE5;
+6872;Opiniowanie sposobu zarządzania gruntami;BE5;
+6873;Wspólnoty gruntowe;BE10;
+6873;Wspólnoty gruntowe;BE10;
+7;GOSPODARKA KOMUNALNA, DROGOWNICTWO, SYSTEM KOMUNIKACYJNY, WSPIERANIE GOSPODARKI, RYNKU PRACY ORAZ PRAW KONSUMENCKICH;;
+70;Gospodarka komunalna;;
+700;Zagadnienia ogólne w zakresie gospodarki komunalnej;;
+7000;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu gospodarki komunalnej;A;
+7000;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu gospodarki komunalnej;A;
+7001;Analizowanie, prognozowanie i planowanie z zakresu prowadzenia gospodarki komunalnej;A;
+7001;Analizowanie, prognozowanie i planowanie z zakresu prowadzenia gospodarki komunalnej;A;
+7002;Przekazywanie zadań z zakresu prowadzenia gospodarki komunalnej;A;
+7002;Przekazywanie zadań z zakresu prowadzenia gospodarki komunalnej;A;
+7003;Nadzorowanie i monitorowanie realizacji przekazanych zadań z zakresu prowadzenia gospodarki komunalnej;A;w tym opiniowanie planów  działalności jednostek, którym przekazano zadania
+7003;Nadzorowanie i monitorowanie realizacji przekazanych zadań z zakresu prowadzenia gospodarki komunalnej;A;w tym opiniowanie planów  działalności jednostek, którym przekazano zadania
+701;Inwestycje komunalne;;
+7010;Planowanie inwestycji komunalnych;A;
+7010;Planowanie inwestycji komunalnych;A;
+7011;Przygotowanie inwestycji komunalnej;BE10;
+7011;Przygotowanie inwestycji komunalnej;BE10;
+7012;Opiniowanie i zatwierdzanie dokumentacji inwestycji komunalnych;BE5;
+7012;Opiniowanie i zatwierdzanie dokumentacji inwestycji komunalnych;BE5;
+7013;Realizacja i odbiór inwestycji komunalnych;BE5;
+7013;Realizacja i odbiór inwestycji komunalnych;BE5;
+7014;Ewidencja inwestycji komunalnych;A;
+7014;Ewidencja inwestycji komunalnych;A;
+702;Utrzymanie, eksploatacja i zarządzanie obiektami i urządzeniami komunalnymi;;
+7020;Ewidencja obiektów i urządzeń komunalnych;A;
+7020;Ewidencja obiektów i urządzeń komunalnych;A;
+7021;Utrzymanie i eksploatacja obiektów i urządzeń komunalnych;BE5;w tym utrzymanie, bieżące remonty i eksploatacja terenów zieleni miejskiej, komunikacyjnej, infrastruktury sportowej i rekreacyjnej, lokali, budynków, składowisk odpadów, ujęć wody etc.zgłoszenia awarii wraz z rejestrem
+7021;Utrzymanie i eksploatacja obiektów i urządzeń komunalnych;BE5;w tym utrzymanie, bieżące remonty i eksploatacja terenów zieleni miejskiej, komunikacyjnej, infrastruktury sportowej i rekreacyjnej, lokali, budynków, składowisk odpadów, ujęć wody etc.zgłoszenia awarii wraz z rejestrem
+703;Usługi komunalne;;
+7030;Ustalanie wysokości opłat za usługi komunalne oraz zatwierdzanie cenników opłat za usługi komunalne;A;
+7030;Ustalanie wysokości opłat za usługi komunalne oraz zatwierdzanie cenników opłat za usługi komunalne;A;
+7031;Zlecanie podmiotom zewnętrznym świadczenia usług komunalnych ;B5;w tym także samorządowym jednostkom organizacyjnymmiędzy innymi umowy na realizację usług komunalnych
+7031;Zlecanie podmiotom zewnętrznym świadczenia usług komunalnych ;B5;w tym także samorządowym jednostkom organizacyjnymmiędzy innymi umowy na realizację usług komunalnych
+7032;Kontrolowanie jakości dostarczanych usług komunalnych;A;
+7032;Kontrolowanie jakości dostarczanych usług komunalnych;A;
+7033;Badania i analizy w zakresie jakości świadczonych usług komunalnych;A;
+7033;Badania i analizy w zakresie jakości świadczonych usług komunalnych;A;
+704;Zarządzanie cmentarzami;;
+7040;Zakładanie, rozszerzanie i likwidacja cmentarzy komunalnych;A;
+7040;Zakładanie, rozszerzanie i likwidacja cmentarzy komunalnych;A;
+7041;Ewidencja cmentarzy na terenie jednostki samorządu;A;
+7041;Ewidencja cmentarzy na terenie jednostki samorządu;A;
+7042;Ewidencja cmentarna;A;w tym księgi, bazy danych
+7042;Ewidencja cmentarna;A;w tym księgi, bazy danych
+7043;Projekty kwater (miejsc grzebalnych);A;
+7043;Projekty kwater (miejsc grzebalnych);A;
+7044;Przydział miejsc grzebalnych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego grobu (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7044;Przydział miejsc grzebalnych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego grobu (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7045;Utrzymanie miejsc grzebalnych;B5;
+7045;Utrzymanie miejsc grzebalnych;B5;
+7046;Ekshumacje ;A;
+7046;Ekshumacje ;A;
+7047;Udostępnianie danych i informacji z ewidencji cmentarnej;B5;
+7047;Udostępnianie danych i informacji z ewidencji cmentarnej;B5;
+7048;Zezwalanie na sprowadzanie zwłok i szczątków ludzkich zza granicy w celu ich pochowania;B5*);zadanie tylko powiatu*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego grobu (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7048;Zezwalanie na sprowadzanie zwłok i szczątków ludzkich zza granicy w celu ich pochowania;B5*);zadanie tylko powiatu*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego grobu (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7049;Przekazywanie zwłok do celów  naukowych;A;zadanie tylko powiatu
+7049;Przekazywanie zwłok do celów  naukowych;A;zadanie tylko powiatu
+71;Gospodarowanie budynkami, mieszkaniami i lokalami;;
+710;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu gospodarowania budynkami, mieszkaniami i lokalami;A;
+710;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu gospodarowania budynkami, mieszkaniami i lokalami;A;
+711;Zagadnienia ogólne w zakresie gospodarowania budynkami, mieszkaniami i lokalami;;
+7110;Wieloletnie programy gospodarowania mieszkaniowym i lokalowym zasobem gminy ;A;
+7110;Wieloletnie programy gospodarowania mieszkaniowym i lokalowym zasobem gminy ;A;
+7111;Pozyskiwanie budynków i lokali na cele komunalne;A;
+7111;Pozyskiwanie budynków i lokali na cele komunalne;A;
+7112;Pozyskiwanie wsparcia finansowego na tworzenie lokali socjalnych, mieszkań chronionych, noclegowni, domów dla bezdomnych, lokali wchodzących w skład mieszkaniowego zasobu gminy nie będących lokalami socjalnymi;A;
+7112;Pozyskiwanie wsparcia finansowego na tworzenie lokali socjalnych, mieszkań chronionych, noclegowni, domów dla bezdomnych, lokali wchodzących w skład mieszkaniowego zasobu gminy nie będących lokalami socjalnymi;A;
+7113;Analizowanie cen najmu lokali mieszkalnych nienależących do publicznego zasobu mieszkaniowego ;A;
+7113;Analizowanie cen najmu lokali mieszkalnych nienależących do publicznego zasobu mieszkaniowego ;A;
+7114;Ustalanie zasad najmu lokali oraz wysokości opłat za najem lokali;A;
+7114;Ustalanie zasad najmu lokali oraz wysokości opłat za najem lokali;A;
+712;Stan prawny budynków, mieszkań i lokali;;
+7120;Samodzielność lokali mieszkalnych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danej nieruchomości (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7120;Samodzielność lokali mieszkalnych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danej nieruchomości (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7121;Ustanawianie odrębnej własności lokali;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danej nieruchomości (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7121;Ustanawianie odrębnej własności lokali;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danej nieruchomości (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7122;Znoszenie współwłasności nieruchomości;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danej nieruchomości (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7122;Znoszenie współwłasności nieruchomości;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danej nieruchomości (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7123;Ustalanie tytułów prawnych do lokali;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danej nieruchomości (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7123;Ustalanie tytułów prawnych do lokali;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danej nieruchomości (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7124;Ustalanie i poświadczanie stanu prawnego nieruchomości i lokali;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danej nieruchomości (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7124;Ustalanie i poświadczanie stanu prawnego nieruchomości i lokali;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danej nieruchomości (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7125;Wykup mieszkań i lokali przez najemców;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danej nieruchomości (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7125;Wykup mieszkań i lokali przez najemców;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danej nieruchomości (w systemie tradycyjnym w formie  teczki zbiorczej), to kwalifikuje się ją do kategorii A
+7126;Teczki zbiorcze na dokumentację budynków, lokali i mieszkań;A;w tym ich ewidencja
+7126;Teczki zbiorcze na dokumentację budynków, lokali i mieszkań;A;w tym ich ewidencja
+713;Zarząd nieruchomością wspólną;;
+7130;Wspólnoty mieszkaniowe;A;w tym protokoły z posiedzeń, uchwały, reprezentowanie gminy lub Skarbu Państwa na posiedzeniach, ewidencja wspólnot
+7130;Wspólnoty mieszkaniowe;A;w tym protokoły z posiedzeń, uchwały, reprezentowanie gminy lub Skarbu Państwa na posiedzeniach, ewidencja wspólnot
+7131;Powierzanie podmiotom zewnętrznym zarządu nieruchomościami;A;
+7131;Powierzanie podmiotom zewnętrznym zarządu nieruchomościami;A;
+7132;Kontrolowanie prawidłowości sprawowania zarządu nieruchomościami;A;
+7132;Kontrolowanie prawidłowości sprawowania zarządu nieruchomościami;A;
+7133;Kontrolowanie prawidłowości wykorzystania lokali;BE5;w tym informacje o zakłócaniu porządku domowego
+7133;Kontrolowanie prawidłowości wykorzystania lokali;BE5;w tym informacje o zakłócaniu porządku domowego
+7134;Przejmowanie ruchomości w depozyt;BE5;w tym protokoły przejęcia, wydawania depozytu, korespondencja
+7134;Przejmowanie ruchomości w depozyt;BE5;w tym protokoły przejęcia, wydawania depozytu, korespondencja
+7135;Przebudowa lokali;B5;
+7135;Przebudowa lokali;B5;
+714;Zaspokajanie potrzeb mieszkaniowych wspólnoty gminnej;;
+7140;Ustalanie uprawnień do najmu lokali z mieszkaniowego zasobu gminy;BE10;między innymi wnioski, protokoły z wizji, wywiady środowiskowe, projekty list oczekujących, protesty oczekujących, listy oczekujących, skierowania do zawarcia umowy najmu, przyznawanie lokalitakże wynajem lokali o czynszu wolnym
+7140;Ustalanie uprawnień do najmu lokali z mieszkaniowego zasobu gminy;BE10;między innymi wnioski, protokoły z wizji, wywiady środowiskowe, projekty list oczekujących, protesty oczekujących, listy oczekujących, skierowania do zawarcia umowy najmu, przyznawanie lokalitakże wynajem lokali o czynszu wolnym
+7141;Przyznawanie lokali mieszkalnych zamiennych;B10*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowego, na przykład w związku ze złym stanem technicznym budynku, klęską żywiołową
+7141;Przyznawanie lokali mieszkalnych zamiennych;B10*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowego, na przykład w związku ze złym stanem technicznym budynku, klęską żywiołową
+7142;Zapewnianie lokali mieszkalnych socjalnych;B10*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowego, między innymi wyroki sądowe o przyznaniu prawa do lokalu socjalnego, odszkodowania za zajmowanie lokalu bez tytułu prawnego, odszkodowania za niedostarczenie lokalu
+7142;Zapewnianie lokali mieszkalnych socjalnych;B10*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowego, między innymi wyroki sądowe o przyznaniu prawa do lokalu socjalnego, odszkodowania za zajmowanie lokalu bez tytułu prawnego, odszkodowania za niedostarczenie lokalu
+7143;Postępowanie o opróżnienie lokalu mieszkalnego;B10*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowego, między innymi udział przedstawicieli gminy w tzw. interwencjach ubocznych, postępowania sądowe
+7143;Postępowanie o opróżnienie lokalu mieszkalnego;B10*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowego, między innymi udział przedstawicieli gminy w tzw. interwencjach ubocznych, postępowania sądowe
+7144;Zamiana lokali mieszkalnych;B5;
+7144;Zamiana lokali mieszkalnych;B5;
+7145;Zawieranie umów o odpłatne używanie lokali mieszkalnych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowegodotyczy lokali mieszkalnych, socjalnych, zamiennychmiędzy innymi protokoły o wydanie lokali, wnioski o obniżenie czynszu, wypowiadanie umów
+7145;Zawieranie umów o odpłatne używanie lokali mieszkalnych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowegodotyczy lokali mieszkalnych, socjalnych, zamiennychmiędzy innymi protokoły o wydanie lokali, wnioski o obniżenie czynszu, wypowiadanie umów
+7146;Zadłużenie czynszowe lokali mieszkalnych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowegomiędzy innymi ulgi, umorzenia
+7146;Zadłużenie czynszowe lokali mieszkalnych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowegomiędzy innymi ulgi, umorzenia
+7147;Podnajem lokali mieszkalnych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowego
+7147;Podnajem lokali mieszkalnych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowego
+715;Lokale użytkowe;;
+7150;Przetargi na wynajem lokali użytkowych;B5;
+7150;Przetargi na wynajem lokali użytkowych;B5;
+7151;Umowy na wynajem lokali użytkowych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowego
+7151;Umowy na wynajem lokali użytkowych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowego
+7152;Przyznawanie pomocy publicznej w zakresie wynajmu lokali użytkowych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowego
+7152;Przyznawanie pomocy publicznej w zakresie wynajmu lokali użytkowych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowego
+7153;Zadłużenie czynszowe lokali użytkowych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowego
+7153;Zadłużenie czynszowe lokali użytkowych;B5*);*) jeżeli dokumentacja nie została przyporządkowana do zbioru dokumentacji dotyczącej danego mieszkania lub lokalu (w systemie tradycyjnym w formie  teczki zbiorczej), to po upływie 10 lat od dnia zamknięcia poddaje się ją ekspertyzie archiwalnej archiwum państwowego
+716;Teczki zbiorcze na dokumentację lokali mieszkalnych i użytkowych;BE10;w tym ich ewidencja, która kwalifikowana jest do kategorii A
+716;Teczki zbiorcze na dokumentację lokali mieszkalnych i użytkowych;BE10;w tym ich ewidencja, która kwalifikowana jest do kategorii A
+72;Drogownictwo i system komunikacyjny;;
+720;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu drogownictwa i systemu komunikacyjnego;A;
+720;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu drogownictwa i systemu komunikacyjnego;A;
+721;Zarządzanie drogami;;
+7210;Zaliczanie dróg do określonej kategorii;BE10;
+7210;Zaliczanie dróg do określonej kategorii;BE10;
+7211;Opinie w sprawie przebiegu dróg;BE10;
+7211;Opinie w sprawie przebiegu dróg;BE10;
+722;Organizacja i bezpieczeństwo ruchu drogowego;;
+7220;Ewidencja zatwierdzonych projektów zmian organizacji ruchu drogowego;A;zadanie tylko powiatu
+7220;Ewidencja zatwierdzonych projektów zmian organizacji ruchu drogowego;A;zadanie tylko powiatu
+7221;Projekty zmian organizacji ruchu drogowego;BE5;
+7221;Projekty zmian organizacji ruchu drogowego;BE5;
+7222;Pomiary ruchu drogowego;BE5;
+7222;Pomiary ruchu drogowego;BE5;
+7223;Znaki drogowe i sygnalizacja drogowa;BE5;
+7223;Znaki drogowe i sygnalizacja drogowa;BE5;
+7224;Wypadki drogowe;BE5;
+7224;Wypadki drogowe;BE5;
+7225;Okresowe kontrole stanu dróg i obiektów mostowych;BE5;
+7225;Okresowe kontrole stanu dróg i obiektów mostowych;BE5;
+7226;Współdziałanie w zakresie organizacji i bezpieczeństwa ruchu drogowego;BE5;
+7226;Współdziałanie w zakresie organizacji i bezpieczeństwa ruchu drogowego;BE5;
+723;Nadzór nad wykorzystaniem dróg;;
+7230;Zezwolenia na korzystanie z dróg w sposób szczególny;B5;
+7230;Zezwolenia na korzystanie z dróg w sposób szczególny;B5;
+7231;Ustalanie miejsc postoju i opłat za parkowanie;BE5;
+7231;Ustalanie miejsc postoju i opłat za parkowanie;BE5;
+7232;Ustalanie stref taryfowych taxi;BE5;
+7232;Ustalanie stref taryfowych taxi;BE5;
+7233;Wydawanie kart parkingowych;B5;zadanie tylko powiatu
+7233;Wydawanie kart parkingowych;B5;zadanie tylko powiatu
+7234;Przeciwdziałanie niszczeniu dróg;BE5;
+7234;Przeciwdziałanie niszczeniu dróg;BE5;
+7235;Usuwanie pojazdów;B5;
+7235;Usuwanie pojazdów;B5;
+724;System komunikacyjny;;
+7240;Planowanie i organizowanie publicznego transportu zbiorowego;A;
+7240;Planowanie i organizowanie publicznego transportu zbiorowego;A;
+7241;Studia, analizy, badania dotyczące komunikacji;A;
+7241;Studia, analizy, badania dotyczące komunikacji;A;
+7242;Opiniowanie rozwiązań i projektów dotyczących komunikacji zbiorowej i przewozów taksówką;BE5;
+7242;Opiniowanie rozwiązań i projektów dotyczących komunikacji zbiorowej i przewozów taksówką;BE5;
+7243;Nadzór nad realizacją usług gminnego transportu publicznego;BE5;
+7243;Nadzór nad realizacją usług gminnego transportu publicznego;BE5;
+7244;Działalność marketingowa, reklamowa i promocyjna w zakresie transportu;BE5;
+7244;Działalność marketingowa, reklamowa i promocyjna w zakresie transportu;BE5;
+73;Wspieranie gospodarki i rynku pracy;;
+730;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu wspierania gospodarki i rynku pracy;;
+731;Polityka gospodarcza;;
+7310;Strategia rozwoju gospodarczego;A;
+7310;Strategia rozwoju gospodarczego;A;
+7311;Realizacja strategii rozwoju gospodarczego i planów operacyjnych;A;
+7311;Realizacja strategii rozwoju gospodarczego i planów operacyjnych;A;
+7312;Analizy i oceny stanu oraz perspektyw rozwoju gospodarczego;A;
+7312;Analizy i oceny stanu oraz perspektyw rozwoju gospodarczego;A;
+7313;Pozyskiwanie środków pozabudżetowych i pomocowych na rozwój gminy;BE5;
+7313;Pozyskiwanie środków pozabudżetowych i pomocowych na rozwój gminy;BE5;
+732;Promocja gospodarcza;;
+7320;Konkursy i nagrody gospodarcze;A;
+7320;Konkursy i nagrody gospodarcze;A;
+7321;Wspieranie aktywności gospodarczej mieszkańców;BE5;
+7321;Wspieranie aktywności gospodarczej mieszkańców;BE5;
+7322;Pozyskiwanie inwestorów;BE5;
+7322;Pozyskiwanie inwestorów;BE5;
+7323;Informacja gospodarcza;A;
+7323;Informacja gospodarcza;A;
+7324;Specjalne strefy ekonomiczne;BE5;
+7324;Specjalne strefy ekonomiczne;BE5;
+733;Działalność gospodarcza;;
+7330;Wykonywanie zadań z zakresu obsługi ewidencji działalności gospodarczej;B10*);*) przy czym całość dokumentacji w zakresie ewidencji działalności gospodarczej , jeżeli nie wiąże się z obsługą centralnej ewidencji i informacji o działalności gospodarczej, należy zakwalifikować do kategorii A
+7330;Wykonywanie zadań z zakresu obsługi ewidencji działalności gospodarczej;B10*);*) przy czym całość dokumentacji w zakresie ewidencji działalności gospodarczej , jeżeli nie wiąże się z obsługą centralnej ewidencji i informacji o działalności gospodarczej, należy zakwalifikować do kategorii A
+7331;Poświadczenia o wpisie do ewidencji działalności gospodarczej z innych urzędów;B5;
+7331;Poświadczenia o wpisie do ewidencji działalności gospodarczej z innych urzędów;B5;
+7332;Poświadczanie danych ze zbioru ewidencji działalności gospodarczej;B5;
+7332;Poświadczanie danych ze zbioru ewidencji działalności gospodarczej;B5;
+7333;Ewidencja pól biwakowych i ich kategoryzacja;A;
+7333;Ewidencja pól biwakowych i ich kategoryzacja;A;
+7334;Ewidencja miejsc noclegowych;A;
+7334;Ewidencja miejsc noclegowych;A;
+7335;Ustalanie godzin pracy placówek;BE5;
+7335;Ustalanie godzin pracy placówek;BE5;
+734;Zezwolenia, licencje i zgłoszenia;;
+7340;Zezwolenia na sprzedaż alkoholu;B3;
+7340;Zezwolenia na sprzedaż alkoholu;B3;
+7341;Udzielanie licencji na wykonywanie krajowego transportu drogowego osób i rzeczy;BE5;zadanie tylko powiatu
+7341;Udzielanie licencji na wykonywanie krajowego transportu drogowego osób i rzeczy;BE5;zadanie tylko powiatu
+7342;Zezwolenia na wykonywanie przewozów w transporcie drogowym;BE5;
+7342;Zezwolenia na wykonywanie przewozów w transporcie drogowym;BE5;
+7343;Zgłoszenia przewozów drogowych na potrzeby własne;B5;zadanie tylko powiatu
+7343;Zgłoszenia przewozów drogowych na potrzeby własne;B5;zadanie tylko powiatu
+7344;Udzielanie licencji na wykonywanie transportu drogowego taksówką;BE5;
+7344;Udzielanie licencji na wykonywanie transportu drogowego taksówką;BE5;
+7345;Egzaminowanie osób, które ukończyły szkolenie w zakresie transportu drogowego taksówką;BE5;zadanie tylko powiatu
+7345;Egzaminowanie osób, które ukończyły szkolenie w zakresie transportu drogowego taksówką;BE5;zadanie tylko powiatu
+7346;Nadzór nad prowadzeniem działalności zgodnie z zezwoleniem (licencją);BE10;zadanie tylko powiatu
+7346;Nadzór nad prowadzeniem działalności zgodnie z zezwoleniem (licencją);BE10;zadanie tylko powiatu
+735;Pomoc publiczna dla przedsiębiorców;;
+7350;Programy pomocy publicznej przedsiębiorcom;A;
+7350;Programy pomocy publicznej przedsiębiorcom;A;
+7351;Udzielanie pomocy publicznej przedsiębiorcom;A;
+7351;Udzielanie pomocy publicznej przedsiębiorcom;A;
+7352;Sprawozdawczość w zakresie udzielonej przedsiębiorcom pomocy publicznej;A;
+7352;Sprawozdawczość w zakresie udzielonej przedsiębiorcom pomocy publicznej;A;
+736;Rynek pracy;;zadanie tylko powiatu
+736;Rynek pracy;;zadanie tylko powiatu
+7360;Powoływanie składu Powiatowej Rady Zatrudnienia;A;zadanie tylko powiatu
+7360;Powoływanie składu Powiatowej Rady Zatrudnienia;A;zadanie tylko powiatu
+7361;Powiatowa Rada Zatrudnienia;A;zadanie tylko powiatu współdziałanie z Radą
+7361;Powiatowa Rada Zatrudnienia;A;zadanie tylko powiatu współdziałanie z Radą
+7362;Analizy, obserwacje i badanie rynku pracy;A;zadanie tylko powiatu w tym materiały otrzymywane z powiatowego urzędu pracy
+7362;Analizy, obserwacje i badanie rynku pracy;A;zadanie tylko powiatu w tym materiały otrzymywane z powiatowego urzędu pracy
+7363;Monitorowanie działalności organów i urzędów odpowiedzialnych za działanie w zakresie walki z bezrobociem i wspierania rynku pracy;A;zadanie tylko powiatu
+7363;Monitorowanie działalności organów i urzędów odpowiedzialnych za działanie w zakresie walki z bezrobociem i wspierania rynku pracy;A;zadanie tylko powiatu
+7364;Wyznaczanie podmiotów, w których odbywana jest kara ograniczenia wolności oraz praca społecznie użyteczna;BE10;zadanie tylko powiatu
+7364;Wyznaczanie podmiotów, w których odbywana jest kara ograniczenia wolności oraz praca społecznie użyteczna;BE10;zadanie tylko powiatu
+74;Ochrona praw konsumenckich;;
+740;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu ochrony praw konsumenckich;A;
+740;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu ochrony praw konsumenckich;A;
+741;Poradnictwo w zakresie ochrony praw konsumenckich;A;
+741;Poradnictwo w zakresie ochrony praw konsumenckich;A;
+742;Postępowania w zakresie praw konsumenckich;BE10;
+742;Postępowania w zakresie praw konsumenckich;BE10;
+743;Edukacja konsumencka;BE10;
+743;Edukacja konsumencka;BE10;
+8;OCHRONA ZDROWIA I POMOC SPOŁECZNA;;
+80;Ochrona zdrowia;;
+800;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu ochrony zdrowia;A;
+800;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu ochrony zdrowia;A;
+801;Programowanie działań oraz monitorowanie sytuacji w ochronie zdrowia;;
+8010;Programy w zakresie ochrony zdrowia;A;
+8010;Programy w zakresie ochrony zdrowia;A;
+8011;Udział w programach i projektach zewnętrznych w zakresie ochrony zdrowia;A;
+8011;Udział w programach i projektach zewnętrznych w zakresie ochrony zdrowia;A;
+8012;Analizy i oceny potrzeb zdrowotnych i stanu zdrowia mieszkańców;A;
+8012;Analizy i oceny potrzeb zdrowotnych i stanu zdrowia mieszkańców;A;
+8013;Analizy i oceny efektów realizowanych programów zdrowotnych;A;
+8013;Analizy i oceny efektów realizowanych programów zdrowotnych;A;
+8014;Przygotowywanie danych do Wojewódzkiego Planu Zdrowotnego;BE5;
+8014;Przygotowywanie danych do Wojewódzkiego Planu Zdrowotnego;BE5;
+8015;Plan zabezpieczenia medycznych działań ratowniczych;A;
+8015;Plan zabezpieczenia medycznych działań ratowniczych;A;
+802;Organizacja opieki zdrowotnej;;
+8020;Stan prawny i własnościowy zakładów opieki zdrowotnej;A;
+8020;Stan prawny i własnościowy zakładów opieki zdrowotnej;A;
+8021;Rady społeczne zakładów opieki zdrowotnej;A;w tym powoływanie, materiały z prac rad
+8021;Rady społeczne zakładów opieki zdrowotnej;A;w tym powoływanie, materiały z prac rad
+8022;Rozpatrywanie odwołań od uchwał rad społecznych;A;
+8022;Rozpatrywanie odwołań od uchwał rad społecznych;A;
+8023;Nadzór nad zakładami opieki zdrowotnej;BE10;
+8023;Nadzór nad zakładami opieki zdrowotnej;BE10;
+8024;Analizowanie i ocenianie działalności zakładów opieki zdrowotnej;A;
+8024;Analizowanie i ocenianie działalności zakładów opieki zdrowotnej;A;
+803;Promocja zdrowia i edukacja zdrowotna;;
+8030;Organizacja i realizacja działań w zakresie promocji zdrowia i edukacji zdrowotnej;BE10;
+8030;Organizacja i realizacja działań w zakresie promocji zdrowia i edukacji zdrowotnej;BE10;
+8031;Współdziałanie z różnymi jednostkami organizacyjnymi zajmującymi się promocją zdrowia i edukacją zdrowotną;BE5;
+8031;Współdziałanie z różnymi jednostkami organizacyjnymi zajmującymi się promocją zdrowia i edukacją zdrowotną;BE5;
+804;Ubezpieczanie zdrowotne osób nieubezpieczonych;B5;w tym ich zgłaszanie do ubezpieczenia
+804;Ubezpieczanie zdrowotne osób nieubezpieczonych;B5;w tym ich zgłaszanie do ubezpieczenia
+805;Sprawy sanitarne i przeciwepidemiczne;;
+8050;Ochrona zdrowia publicznego przed zakażeniami i chorobami zakaźnymi;BE10;
+8050;Ochrona zdrowia publicznego przed zakażeniami i chorobami zakaźnymi;BE10;
+8051;Plany działań na wypadek wystąpienia epidemii;A;
+8051;Plany działań na wypadek wystąpienia epidemii;A;
+81;Pomoc społeczna;;
+810;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu pomocy społecznej;A;
+810;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu pomocy społecznej;A;
+811;Programy i analizy w zakresie pomocy społecznej;;
+8110;Programy w zakresie pomocy społecznej;A;
+8110;Programy w zakresie pomocy społecznej;A;
+8111;Udział w programach i projektach zewnętrznych;A;
+8111;Udział w programach i projektach zewnętrznych;A;
+8112;Analizowanie sytuacji w zakresie pomocy społecznej;A;
+8112;Analizowanie sytuacji w zakresie pomocy społecznej;A;
+812;Realizacja zadań w zakresie pomocy społecznej;;
+8120;Współdziałanie z jednostkami realizującymi zadania pomocy społecznej;BE10;
+8120;Współdziałanie z jednostkami realizującymi zadania pomocy społecznej;BE10;
+8121;Umowy i porozumienia z jednostkami realizującymi zadania pomocy społecznej;A;
+8121;Umowy i porozumienia z jednostkami realizującymi zadania pomocy społecznej;A;
+8122;Otwarte konkursy ofert na realizację zadań z zakresu pomocy społecznej;B5;
+8122;Otwarte konkursy ofert na realizację zadań z zakresu pomocy społecznej;B5;
+8123;Oferty z własnej inicjatywy podmiotów zewnętrznych na realizację zadań z zakresu pomocy społecznej;B5;
+8123;Oferty z własnej inicjatywy podmiotów zewnętrznych na realizację zadań z zakresu pomocy społecznej;B5;
+8124;Realizacja przez podmioty zewnętrzne zadań z zakresu pomocy społecznej ;BE10;
+8124;Realizacja przez podmioty zewnętrzne zadań z zakresu pomocy społecznej ;BE10;
+8125;Opiniowanie sytuacji osób przebywających na terenie gminy dla instytucji zewnętrznych;B5;
+8125;Opiniowanie sytuacji osób przebywających na terenie gminy dla instytucji zewnętrznych;B5;
+8126;Zastępstwo prawne w sprawach z zakresu pomocy społecznej;BE10;między innymi w sprawach o roszczenia alimentacyjne
+8126;Zastępstwo prawne w sprawach z zakresu pomocy społecznej;BE10;między innymi w sprawach o roszczenia alimentacyjne
+8127;Wnioskowanie w sprawach niezdolności do pracy i niepełnosprawności;BE10;
+8127;Wnioskowanie w sprawach niezdolności do pracy i niepełnosprawności;BE10;
+813;Praca socjalna;;
+8130;Poradnictwo specjalistyczne;BE10;
+8130;Poradnictwo specjalistyczne;BE10;
+8131;Interwencja kryzysowa;BE10;
+8131;Interwencja kryzysowa;BE10;
+8132;Pomoc kombatantom i osobom represjonowanym;BE5;
+8132;Pomoc kombatantom i osobom represjonowanym;BE5;
+8133;Pomoc cudzoziemcom, uchodźcom i repatriantom;BE5;
+8133;Pomoc cudzoziemcom, uchodźcom i repatriantom;BE5;
+8134;Pomoc osobom bezdomnym;BE5;
+8134;Pomoc osobom bezdomnym;BE5;
+8135;Zapobieganie patologiom społecznym;BE5;
+8135;Zapobieganie patologiom społecznym;BE5;
+8136;Szkolenia i poradnictwo rodzinne;BE10;
+8136;Szkolenia i poradnictwo rodzinne;BE10;
+814;Profilaktyka alkoholowa;;
+8140;Prowadzenie świetlic środowiskowych finansowanych z profilaktyki alkoholowej;BE10;
+8140;Prowadzenie świetlic środowiskowych finansowanych z profilaktyki alkoholowej;BE10;
+8141;Dodatkowe zadania podejmowane w ramach profilaktyki alkoholowej;BE10;
+8141;Dodatkowe zadania podejmowane w ramach profilaktyki alkoholowej;BE10;
+815;Kierowanie dziecka do placówki opiekuńczo-wychowawczej oraz monitorowanie jego pobytu;BE10;
+815;Kierowanie dziecka do placówki opiekuńczo-wychowawczej oraz monitorowanie jego pobytu;BE10;
+816;Udzielanie pomocy wychowankom i podopiecznym placówek opiekuńczo-wychowawczych;BE10;
+816;Udzielanie pomocy wychowankom i podopiecznym placówek opiekuńczo-wychowawczych;BE10;
+817;Rodziny zastępcze;;
+8170;Dobór rodzin zastępczych;BE10;
+8170;Dobór rodzin zastępczych;BE10;
+8171;Opiniowanie rodzin zastępczych;BE10;
+8171;Opiniowanie rodzin zastępczych;BE10;
+8172;Monitorowanie pobytu dziecka w rodzinie zastępczej;BE10;
+8172;Monitorowanie pobytu dziecka w rodzinie zastępczej;BE10;
+8173;Rozliczenia finansowe w zakresie pobytu dziecka w rodzinie zastępczej;B10;
+8173;Rozliczenia finansowe w zakresie pobytu dziecka w rodzinie zastępczej;B10;
+82;Obsługa świadczeń w zakresie pomocy społecznej;;
+820;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu udzielania świadczeń pomocy społecznej;A;
+820;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu udzielania świadczeń pomocy społecznej;A;
+821;Świadczenia pieniężne;;
+8210;Zasiłki stałe;B5;
+8210;Zasiłki stałe;B5;
+8211;Zasiłki okresowe (w tym specjalne);B5;
+8211;Zasiłki okresowe (w tym specjalne);B5;
+8212;Zasiłki celowe (w tym specjalne);B5;
+8212;Zasiłki celowe (w tym specjalne);B5;
+8213;Zasiłki i pożyczki w celu ekonomicznego usamodzielnienia;B5;
+8213;Zasiłki i pożyczki w celu ekonomicznego usamodzielnienia;B5;
+8214;Zasiłki celowe w związku z klęską żywiołową lub ekologiczną;B5;
+8214;Zasiłki celowe w związku z klęską żywiołową lub ekologiczną;B5;
+8215;Zasiłki celowe w związku ze zdarzeniem losowym;B5;
+8215;Zasiłki celowe w związku ze zdarzeniem losowym;B5;
+8216;Zasiłki celowe na pokrycie wydatków na świadczenia zdrowotne;B5;
+8216;Zasiłki celowe na pokrycie wydatków na świadczenia zdrowotne;B5;
+8217;Opłacanie składki na ubezpieczenia emerytalne i rentowe;B5;
+8217;Opłacanie składki na ubezpieczenia emerytalne i rentowe;B5;
+822;Świadczenia niepieniężne;;
+8220;Udzielanie pomocy rzeczowej;B5;
+8220;Udzielanie pomocy rzeczowej;B5;
+8221;Sprawienie pogrzebu;B5;
+8221;Sprawienie pogrzebu;B5;
+8222;Udzielanie schronienia;B5;
+8222;Udzielanie schronienia;B5;
+8223;Dożywianie;B5;
+8223;Dożywianie;B5;
+8224;Udzielanie posiłku potrzebującym;B5;
+8224;Udzielanie posiłku potrzebującym;B5;
+8225;Zapewnianie usług opiekuńczych, w tym specjalistycznych;B5;
+8225;Zapewnianie usług opiekuńczych, w tym specjalistycznych;B5;
+8226;Kierowanie do domów pomocy społecznej;B5;
+8226;Kierowanie do domów pomocy społecznej;B5;
+8227;Kierowanie do ośrodków wsparcia;B5;
+8227;Kierowanie do ośrodków wsparcia;B5;
+8228;Przyznawanie pobytu w mieszkaniu chronionym;B5;
+8228;Przyznawanie pobytu w mieszkaniu chronionym;B5;
+823;Sprawy osób niepełnosprawnych rozpatrywane na poziomie gminy;BE5;
+823;Sprawy osób niepełnosprawnych rozpatrywane na poziomie gminy;BE5;
+824;Obsługa dodatków mieszkaniowych;B5;
+824;Obsługa dodatków mieszkaniowych;B5;
+825;Realizacja świadczeń rodzinnych;;
+8250;Zasiłki rodzinne i dodatki do zasiłków rodzinnych;B10;
+8250;Zasiłki rodzinne i dodatki do zasiłków rodzinnych;B10;
+8251;Zasiłki pielęgnacyjne;B10;
+8251;Zasiłki pielęgnacyjne;B10;
+8252;Świadczenia pielęgnacyjne;B10;
+8252;Świadczenia pielęgnacyjne;B10;
+8253;Jednorazowa zapomoga z tytułu urodzenia się dziecka;B10;
+8253;Jednorazowa zapomoga z tytułu urodzenia się dziecka;B10;
+8254;Zapomoga finansowana ze środków własnych gminy z tytułu urodzenia się dziecka;B10;
+8254;Zapomoga finansowana ze środków własnych gminy z tytułu urodzenia się dziecka;B10;
+826;Teczki zbiorcze na dokumentację wnioskodawców świadczeń pomocy społecznej i świadczeń rodzinnych;BE5;klasa może być wybrana jedynie w systemie tradycyjnym
+826;Teczki zbiorcze na dokumentację wnioskodawców świadczeń pomocy społecznej i świadczeń rodzinnych;BE5;klasa może być wybrana jedynie w systemie tradycyjnym
+827;Windykacja i egzekucja nienależnie pobranych świadczeń pomocy społecznej;B10;
+827;Windykacja i egzekucja nienależnie pobranych świadczeń pomocy społecznej;B10;
+828;Obsługa osób korzystających ze świadczeń i dodatków;;
+8280;Informowanie jednostek zewnętrznych o osobach korzystających ze świadczeń lub dodatków;B5;na przykład ZUS, Policja, urząd pracy
+8280;Informowanie jednostek zewnętrznych o osobach korzystających ze świadczeń lub dodatków;B5;na przykład ZUS, Policja, urząd pracy
+8281;Zaświadczenia dla świadczeniobiorców;B5;
+8281;Zaświadczenia dla świadczeniobiorców;B5;
+8282;Listy wypłat świadczeń ze składką na ZUS;B50;
+8282;Listy wypłat świadczeń ze składką na ZUS;B50;
+8283;Listy wypłat bez składki na ZUS;B5;
+8283;Listy wypłat bez składki na ZUS;B5;
+8284;Rozliczenia składek na ZUS;B10;
+8284;Rozliczenia składek na ZUS;B10;
+8285;Zgłoszenia świadczeniobiorców do ZUS;B10;
+8285;Zgłoszenia świadczeniobiorców do ZUS;B10;
+8286;Obsługa finansowa świadczeń;B5;
+8286;Obsługa finansowa świadczeń;B5;
+83;Obsługa pozostałych świadczeń ;;
+830;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu pozostałych świadczeń;A;
+830;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu pozostałych świadczeń;A;
+831;Zaliczka alimentacyjna;;
+8310;Planowanie i sprawozdawczość w zakresie zaliczki alimentacyjnej;A;
+8310;Planowanie i sprawozdawczość w zakresie zaliczki alimentacyjnej;A;
+8311;Zaliczka alimentacyjna;B10;
+8311;Zaliczka alimentacyjna;B10;
+8312;Windykacja i egzekucja nienależnie pobranej zaliczki alimentacyjnej;B5;
+8312;Windykacja i egzekucja nienależnie pobranej zaliczki alimentacyjnej;B5;
+8313;Egzekucja zaliczki alimentacyjnej od dłużników alimentacyjnych;B10;
+8313;Egzekucja zaliczki alimentacyjnej od dłużników alimentacyjnych;B10;
+8314;Zaświadczenia w sprawach zaliczki alimentacyjnej;B5;
+8314;Zaświadczenia w sprawach zaliczki alimentacyjnej;B5;
+832;Świadczenia z funduszu alimentacyjnego;;
+8320;Świadczenia z funduszu alimentacyjnego;B10;
+8320;Świadczenia z funduszu alimentacyjnego;B10;
+8321;Postępowanie wobec dłużników alimentacyjnych;B10;
+8321;Postępowanie wobec dłużników alimentacyjnych;B10;
+8322;Wpływanie na aktywizację zawodową dłużników alimentacyjnych;B10;
+8322;Wpływanie na aktywizację zawodową dłużników alimentacyjnych;B10;
+8323;Postępowanie w zakresie zwrotu przez dłużnika alimentacyjnego należności z tytułu wypłaconych świadczeń z funduszu alimentacyjnego;B10;
+8323;Postępowanie w zakresie zwrotu przez dłużnika alimentacyjnego należności z tytułu wypłaconych świadczeń z funduszu alimentacyjnego;B10;
+8324;Windykacja i egzekucja nienależnie pobranych świadczeń z funduszu alimentacyjnego;B5;
+8324;Windykacja i egzekucja nienależnie pobranych świadczeń z funduszu alimentacyjnego;B5;
+8325;Egzekucja świadczeń z funduszu alimentacyjnego;B10;
+8325;Egzekucja świadczeń z funduszu alimentacyjnego;B10;
+8326;Planowanie i sprawozdawczość w zakresie świadczeń z funduszu alimentacyjnego;A;
+8326;Planowanie i sprawozdawczość w zakresie świadczeń z funduszu alimentacyjnego;A;
+84;Rehabilitacja zawodowa i społeczna osób niepełnosprawnych;;
+840;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu rehabilitacji zawodowej i społecznej;A;
+840;Wyjaśnienia, interpretacje, opinie, akty prawne dotyczące zagadnień z zakresu rehabilitacji zawodowej i społecznej;A;
+841;Zagadnienia ogólne w zakresie rehabilitacji zawodowej i społecznej osób niepełnosprawnych;;
+8410;Programy działania na rzecz osób niepełnosprawnych;A;
+8410;Programy działania na rzecz osób niepełnosprawnych;A;
+8411;Realizacja i monitorowanie programów na rzecz osób niepełnosprawnych;A;
+8411;Realizacja i monitorowanie programów na rzecz osób niepełnosprawnych;A;
+8412;Zadania finansowane ze środków PFRON;BE10;
+8412;Zadania finansowane ze środków PFRON;BE10;
+842;Zespół do spraw orzekania o niepełnosprawności;;zadanie tylko powiatu
+842;Zespół do spraw orzekania o niepełnosprawności;;zadanie tylko powiatu
+8420;Powoływanie i odwoływanie członków zespołu do spraw orzekania niepełnosprawności;A;zadanie tylko powiatu
+8420;Powoływanie i odwoływanie członków zespołu do spraw orzekania niepełnosprawności;A;zadanie tylko powiatu
+8421;Orzekanie o stopniu niepełnosprawności;B10;zadanie tylko powiatu
+8421;Orzekanie o stopniu niepełnosprawności;B10;zadanie tylko powiatu
+843;Społeczna rada do spraw osób niepełnosprawnych;A;
+843;Społeczna rada do spraw osób niepełnosprawnych;A;
+844;Realizacja zadań z zakresu rehabilitacji zawodowej dla instytucji;;
+8440;Zwrot kosztów wynagrodzeń osób niepełnosprawnych i składek na ubezpieczenie społeczne;B10;
+8440;Zwrot kosztów wynagrodzeń osób niepełnosprawnych i składek na ubezpieczenie społeczne;B10;
+8441;Zwrot kosztów przystosowania stanowisk pracy, adaptacji pomieszczeń i urządzeń do potrzeb osób niepełnosprawnych oraz kosztów zatrudnienia pracownika pomagającego pracownikowi niepełnosprawnemu ;BE10;
+8441;Zwrot kosztów przystosowania stanowisk pracy, adaptacji pomieszczeń i urządzeń do potrzeb osób niepełnosprawnych oraz kosztów zatrudnienia pracownika pomagającego pracownikowi niepełnosprawnemu ;BE10;
+845;Realizacja zadań z zakresu rehabilitacji zawodowej dla osób fizycznych;BE10;
+845;Realizacja zadań z zakresu rehabilitacji zawodowej dla osób fizycznych;BE10;
+846;Realizacja zadań z zakresu rehabilitacji społecznej dla instytucji;;zadanie tylko powiatu
+846;Realizacja zadań z zakresu rehabilitacji społecznej dla instytucji;;zadanie tylko powiatu
+8460;Dofinansowanie kosztów tworzenia i działania warsztatów terapii zajęciowej;BE10;zadanie tylko powiatu
+8460;Dofinansowanie kosztów tworzenia i działania warsztatów terapii zajęciowej;BE10;zadanie tylko powiatu
+8461;Dofinansowanie sportu, kultury, rekreacji i turystyki osób niepełnosprawnych;BE10;zadanie tylko powiatu
+8461;Dofinansowanie sportu, kultury, rekreacji i turystyki osób niepełnosprawnych;BE10;zadanie tylko powiatu
+8462;Dofinansowanie sprzętu rehabilitacyjnego;B10;zadanie tylko powiatu
+8462;Dofinansowanie sprzętu rehabilitacyjnego;B10;zadanie tylko powiatu
+847;Realizacja zadań z zakresu rehabilitacji społecznej dla osób fizycznych;;zadanie tylko powiatu
+847;Realizacja zadań z zakresu rehabilitacji społecznej dla osób fizycznych;;zadanie tylko powiatu
+8470;Dofinansowanie uczestnictwa dorosłych osób niepełnosprawnych i ich opiekunów w turnusach rehabilitacyjnych;B10;zadanie tylko powiatu
+8470;Dofinansowanie uczestnictwa dorosłych osób niepełnosprawnych i ich opiekunów w turnusach rehabilitacyjnych;B10;zadanie tylko powiatu
+8471;Dofinansowanie uczestnictwa dzieci niepełnosprawnych i ich opiekunów w turnusach rehabilitacyjnych;B10;zadanie tylko powiatu
+8471;Dofinansowanie uczestnictwa dzieci niepełnosprawnych i ich opiekunów w turnusach rehabilitacyjnych;B10;zadanie tylko powiatu
+8472;Dofinansowanie sprzętu rehabilitacyjnego ;B10;zadanie tylko powiatu
+8472;Dofinansowanie sprzętu rehabilitacyjnego ;B10;zadanie tylko powiatu
+8473;Dofinansowanie przedmiotów ortopedycznych i środków pomocniczych ;B10;zadanie tylko powiatu
+8473;Dofinansowanie przedmiotów ortopedycznych i środków pomocniczych ;B10;zadanie tylko powiatu
+8474;Dofinansowanie likwidacji barier architektonicznych ;BE10;zadanie tylko powiatu
+8474;Dofinansowanie likwidacji barier architektonicznych ;BE10;zadanie tylko powiatu
+8475;Dofinansowanie likwidacji barier w komunikowaniu się ;BE10;zadanie tylko powiatu
+8475;Dofinansowanie likwidacji barier w komunikowaniu się ;BE10;zadanie tylko powiatu
+8476;Dofinansowanie likwidacji barier technicznych ;BE10;zadanie tylko powiatu
+8476;Dofinansowanie likwidacji barier technicznych ;BE10;zadanie tylko powiatu
